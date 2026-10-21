@@ -3,6 +3,12 @@ Custom client asset updates for SWG Old Flurry
 
 The launcher reads `manifest.json` to download the cumulative, versioned client ZIP from GitHub Releases. The manifest records the exact byte size and SHA-256 checksum. Asset directories are stored at the ZIP root.
 
+## v1.0.10 — Atmospheric flight QA
+
+Adds only `string/en/atmo_trial.stf` for atmospheric Launch/Return labels. All 739 v1.0.9 files remain byte-identical. No HUD/UI files are included. Flight itself runs on the separately updated server; supported testing is owned fighters on Tatooine, with current time/range/altitude limits and normal PvP rules.
+
+The server owner reports flight, HUD, controls, return, non-GM visibility, firing and PvP working. This remains an experimental QA prerelease. Close the client before updating. See [manual removal and recovery instructions](ROLLBACK-v1.0.10.md): the launcher has no rollback button, and installing an older ZIP does not necessarily remove newly added files.
+
 ## v1.0.9
 
 - Standalone Imperial Guild Hall with a near-black exterior, crimson Imperial banners, coordinated interiors, and a fixed red Imperial insignia.
@@ -19,3 +25,4 @@ The matching server deployment offers Imperial Guild Hall Deed at the Mos Eisley
 - Existing v1.0.7 assets, table entries, localized strings, and template registrations preserved.
 
 Close the game client fully before updating. This package contains client assets only; server item registration and vendor configuration are deployed separately. The latest furniture revision remains available for in-game testing as a prerelease.
+
