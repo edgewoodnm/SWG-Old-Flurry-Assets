@@ -3,6 +3,16 @@ Custom client asset updates for SWG Old Flurry
 
 The launcher reads `manifest.json` to download the cumulative, versioned client ZIP from GitHub Releases. The manifest records the exact byte size and SHA-256 checksum. Asset directories are stored at the ZIP root.
 
+## v1.0.12 — Imperial March login music QA
+
+Replaces the shared login/character selection title music with the Imperial March, configured to repeat indefinitely with zero configured loop delay. The track is approximately 3 minutes 7 seconds. The v1.0.11 Dark Side background and all other previous assets are unchanged.
+
+The cumulative ZIP preserves all 742 v1.0.11 files byte-for-byte and adds `sound/music_main_title.snd` and `music/old_flurry_imperial_march.mp3`. The new sound template overrides the stock title cue; no original TRE, executable, user configuration or server files are changed. Only the Imperial March is shipped; the earlier short local test clip is excluded. Audio source: [Internet Archive item tvtunes_12997](https://archive.org/details/tvtunes_12997). The MP3 contains only audio, with attached cover art and metadata removed.
+
+Close the game before updating through the launcher. QA should check playback on both login and character selection, volume and the transition after about 3:07, and that the front-end music stops when entering the world. The cue and resource lookup were verified and the local client reached login; audible transitions require human QA. A local `old_flurry_music_files` overlay can mask the launcher assets and must be disabled to test the public package independently.
+
+See [Git reversal and fresh-client recovery instructions](ROLLBACK-v1.0.12.md). If the update breaks a tester's client, wait for a higher-version correction, then install a fresh base client and update through the launcher.
+
 ## v1.0.11 — Dark Side background QA
 
 Adds the custom SWG OLD FLURRY fortress artwork behind the front-end screens, including login and character selection. The character, selection menu, buttons, and particle assets retain their existing behavior. Both registered station/Jedi backgrounds use the new art, with neutral color and a corrected crop.
