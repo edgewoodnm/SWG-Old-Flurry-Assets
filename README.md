@@ -3,6 +3,16 @@ Custom client asset updates for SWG Old Flurry
 
 The launcher reads `manifest.json` to download the cumulative, versioned client ZIP from GitHub Releases. The manifest records the exact byte size and SHA-256 checksum. Asset directories are stored at the ZIP root.
 
+## v1.0.11 — Dark Side background QA
+
+Adds the custom SWG OLD FLURRY fortress artwork behind the front-end screens, including login and character selection. The character, selection menu, buttons, and particle assets retain their existing behavior. Both registered station/Jedi backgrounds use the new art, with neutral color and a corrected crop.
+
+This cumulative QA prerelease preserves all 740 v1.0.10 files byte-for-byte and adds only `ui/ui_backdrop_default.inc` and `texture/ui_background_old_flurry.dds`. No executable, configuration, server, or new TRE files are included. The two added assets are also tracked in Git. Close the client before applying the launcher update.
+
+The live client displayed the art and full logo at login; the server owner confirmed the character selection result works perfectly. QA should check login, character selection, character rotation, character creation/back navigation, and return from the world, including color, logo position, and scaling at different aspect ratios. Existing higher-priority manual UI overrides can mask this patch.
+
+If this QA release breaks a tester's client, the recovery plan is a fresh base client followed by the corrected package through the launcher. Wait for a correction before reinstalling: the current launcher package would otherwise install the same background again. See [QA and Git recovery instructions](ROLLBACK-v1.0.11.md). The launcher has no rollback button.
+
 ## v1.0.10 — Atmospheric flight QA
 
 Adds only `string/en/atmo_trial.stf` for atmospheric Launch/Return labels. All 739 v1.0.9 files remain byte-identical. No HUD/UI files are included. Flight itself runs on the separately updated server; supported testing is owned fighters on Tatooine, with current time/range/altitude limits and normal PvP rules.

@@ -1,0 +1,18 @@
+{
+  "base_version": "1.0.10",
+  "version": "1.0.11",
+  "previous_files_preserved_byte_identical": 740,
+  "added": [
+    "ui/ui_backdrop_default.inc",
+    "texture/ui_background_old_flurry.dds"
+  ],
+  "modified": [],
+  "removed": [],
+  "package": {
+    "version": "1.0.11",
+    "packageUrl": "https://github.com/edgewoodnm/SWG-Old-Flurry-Assets/releases/download/v1.0.11/SWG-Old-Flurry-Assets-v1.0.11.zip",
+    "size": 30834167,
+    "sha256": "BB9697E0B5AF4251B4AB5DE65D3E5300936776B3CC2EF04FA01164B18A275664"
+  },
+  "validation": "Local game reached login with custom artwork; owner confirmed character selection works perfectly."
+}
