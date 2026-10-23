@@ -1,0 +1,41 @@
+{
+  "base_version": "1.0.12",
+  "version": "1.0.13",
+  "previous_files": 744,
+  "total_files": 750,
+  "previous_files_preserved_byte_identical": 731,
+  "added": [
+    "texture/imperial_gh_r2_banner_spec.dds",
+    "texture/imperial_gh_r2_black_spec.dds",
+    "texture/imperial_gh_r2_exterior_black.dds",
+    "texture/imperial_gh_r2_porcelain_white.dds",
+    "texture/imperial_gh_r2_white_spec.dds",
+    "texture/imperial_gh_r3_banner_flat_normal.dds"
+  ],
+  "modified": [
+    "appearance/imperial_guild_hall.pob",
+    "shader/imperial_gh_all_banner_assoc_a_asb13.sht",
+    "shader/imperial_gh_all_concrete_a_fallback_a2d13.sht",
+    "shader/imperial_gh_all_concrete_b_fallback_a2d13.sht",
+    "shader/imperial_gh_all_tile_a_adb13.sht",
+    "shader/imperial_gh_corellia_underhanga_trim_ads16.sht",
+    "shader/imperial_gh_corellia_verticala_trim_ads16.sht",
+    "shader/imperial_gh_intr_assoc_marble_white_gloss_ces17.sht",
+    "shader/imperial_gh_intr_assoc_marbleblack_gloss_ces17.sht",
+    "shader/imperial_gh_intr_assoc_stucco_fallback_c2d13.sht",
+    "shader/imperial_gh_intr_assoc_wall_gloss_ces17.sht",
+    "shader/imperial_gh_intr_commerce_wall_a_cd8.sht",
+    "texture/imperial_gh_all_banner_assoc_a_asb13.dds"
+  ],
+  "removed": [],
+  "package": {
+    "version": "1.0.13",
+    "packageUrl": "https://github.com/edgewoodnm/SWG-Old-Flurry-Assets/releases/download/v1.0.13/SWG-Old-Flurry-Assets-v1.0.13.zip",
+    "size": 33061625,
+    "sha256": "B6DDEFB1371D0099A3072BE24467741021C3288A0702139D97D7D43132CA1A06"
+  },
+  "only_guildhall_assets_changed": true,
+  "existing_ui_background_music_flight_labels_preserved": true,
+  "pob_nonlighting_payload_unchanged": true,
+  "validation": "ZIP integrity, exact file comparison, active client resolution and shader dependencies verified. Latest lighting/banner fix awaits in-game QA; server terminal repair deployed separately."
+}

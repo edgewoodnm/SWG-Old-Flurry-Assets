@@ -3,6 +3,14 @@ Custom client asset updates for SWG Old Flurry
 
 The launcher reads `manifest.json` to download the cumulative, versioned client ZIP from GitHub Releases. The manifest records the exact byte size and SHA-256 checksum. Asset directories are stored at the ZIP root.
 
+## v1.0.13 — Imperial Guild Hall lighting/materials QA
+
+Updates the standalone guild hall with smooth glossy white interior materials, near-black exterior sections, clean red banners, corrected texture opacity, brighter native room lighting and two main-hall ceiling fill lights. Latest lighting/banner behavior still needs in-game QA. No decorating slots or triangles added; non-light POB data preserved.
+
+Cumulative package: 731 v1.0.12 files unchanged, 13 guild hall files updated, six textures added. Existing background, music, flight labels and unrelated assets are unchanged. Close the client before updating. The Structure Management Terminal repair is a separate server deployment, not part of this client ZIP.
+
+See [exact package delta](PACKAGE-DIFF-v1.0.13.json) and [manual/Git recovery](ROLLBACK-v1.0.13.md). Modified assets must be restored from the previous package, not simply deleted; the launcher has no rollback button.
+
 ## v1.0.12 â€” Imperial March login music QA
 
 Replaces the shared login/character selection title music with the Imperial March, configured to repeat indefinitely with zero configured loop delay. The track is approximately 3 minutes 7 seconds. The v1.0.11 Dark Side background and all other previous assets are unchanged.
