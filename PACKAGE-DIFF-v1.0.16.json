@@ -1,0 +1,20 @@
+{
+  "version": "1.0.16",
+  "base_version": "1.0.15",
+  "total_files": 885,
+  "previous_files_preserved_byte_identical": 883,
+  "modified": [
+    "string/en/hoth_region_names.stf",
+    "terrain/hoth.trn"
+  ],
+  "added": [],
+  "removed": [],
+  "previous_string_ids_preserved": true,
+  "client_only": true,
+  "package": {
+    "version": "1.0.16",
+    "packageUrl": "https://github.com/edgewoodnm/SWG-Old-Flurry-Assets/releases/download/v1.0.16/SWG-Old-Flurry-Assets-v1.0.16.zip",
+    "size": 44221728,
+    "sha256": "132065600FCBDB050C39A932C1B8C0679DD1E84E73AAD95577B2C9F8E7EA4101"
+  }
+}

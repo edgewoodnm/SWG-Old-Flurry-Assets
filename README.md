@@ -62,3 +62,6 @@ The matching server deployment offers Imperial Guild Hall Deed at the Mos Eisley
 
 Close the game client fully before updating. This package contains client assets only; server item registration and vendor configuration are deployed separately. The latest furniture revision remains available for in-game testing as a prerelease.
 
+
+
+Latest Hoth battlefield QA: v1.0.16 adds shallow snow breastworks, forward-camp labels and outpost wall footings. Fully close the client before updating; matching server deployment and gameplay QA are required.
