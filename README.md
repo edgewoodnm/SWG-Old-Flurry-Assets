@@ -3,7 +3,15 @@ Custom client asset updates for SWG Old Flurry
 
 The launcher reads `manifest.json` to download the cumulative, versioned client ZIP from GitHub Releases. The manifest records the exact byte size and SHA-256 checksum. Asset directories are stored at the ZIP root.
 
-## v1.0.13 � Imperial Guild Hall lighting/materials QA
+## v1.0.15 — Hoth Imperial Stronghold QA
+
+Cumulative launcher update with Hoth map/ticket UI, planet/travel tables, buildout, terrain, Imperial Stronghold snow/rock exterior and collision, and red Imperial screens. Close SWG, update to **1.0.15**, then restart the client. Existing v1.0.13 content remains included; only its object-template registry is extended with all prior registrations retained.
+
+Testers need this client package and the matching QA server. No developer configuration, server scripts or backups should be copied to tester PCs. Check ticket purchases, Hoth/Mos Eisley round trips, ship-terminal selection/launch/travel, doorways and collision. Native checks passed; in-game QA is still required.
+
+See [exact package delta](PACKAGE-DIFF-v1.0.15.json) and [recovery instructions](ROLLBACK-v1.0.15.md).
+
+## v1.0.13 — Imperial Guild Hall lighting/materials QA
 
 Updates the standalone guild hall with smooth glossy white interior materials, near-black exterior sections, clean red banners, corrected texture opacity, brighter native room lighting and two main-hall ceiling fill lights. Latest lighting/banner behavior still needs in-game QA. No decorating slots or triangles added; non-light POB data preserved.
 
