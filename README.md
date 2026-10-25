@@ -1,3 +1,5 @@
+Latest QA update: **v1.0.19 — Hoth player cities and wildlife**. Update through the launcher and fully restart the client. See [patch notes](HOTH-CITIES-v1.0.19.md).
+
 # SWG-Old-Flurry-Assets
 Custom client asset updates for SWG Old Flurry
 
