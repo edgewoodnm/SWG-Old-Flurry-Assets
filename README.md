@@ -1,3 +1,5 @@
+Latest QA client: **v1.0.20 - Hoth wildlife mission names**. General destroy and Scout hunting content is deployed on the server. See [release and QA notes](HOTH-WILDLIFE-v1.0.20.md).
+
 Hoth municipal service hotfix deployed October 25: city map registration, player shuttle setup, and cloning dependencies corrected on the QA server. Use client **v1.0.19**; see the [updated tester checklist](HOTH-CITIES-v1.0.19.md#municipal-service-hotfix---october-25-2026).
 
 Latest QA update: **v1.0.19 — Hoth player cities and wildlife**. Update through the launcher and fully restart the client. See [patch notes](HOTH-CITIES-v1.0.19.md).

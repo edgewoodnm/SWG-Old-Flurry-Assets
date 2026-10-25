@@ -1,0 +1,11 @@
+{
+  "prior_files": 1426,
+  "package_files": 1428,
+  "modified_prior_files": [],
+  "added_files": [
+    "string/en/lair_n.stf",
+    "string/en/mob/creature_names.stf"
+  ],
+  "removed_files": [],
+  "all_other_prior_files_identical": true
+}
