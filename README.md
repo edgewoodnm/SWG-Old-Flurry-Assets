@@ -1,11 +1,13 @@
-Latest QA update: **v1.0.19 � Hoth player cities and wildlife**. Update through the launcher and fully restart the client. See [patch notes](HOTH-CITIES-v1.0.19.md).
+Hoth municipal service hotfix deployed October 25: city map registration, player shuttle setup, and cloning dependencies corrected on the QA server. Use client **v1.0.19**; see the [updated tester checklist](HOTH-CITIES-v1.0.19.md#municipal-service-hotfix---october-25-2026).
+
+Latest QA update: **v1.0.19 — Hoth player cities and wildlife**. Update through the launcher and fully restart the client. See [patch notes](HOTH-CITIES-v1.0.19.md).
 
 # SWG-Old-Flurry-Assets
 Custom client asset updates for SWG Old Flurry
 
 The launcher reads `manifest.json` to download the cumulative, versioned client ZIP from GitHub Releases. The manifest records the exact byte size and SHA-256 checksum. Asset directories are stored at the ZIP root.
 
-## v1.0.15 — Hoth Imperial Stronghold QA
+## v1.0.15 â€” Hoth Imperial Stronghold QA
 
 Cumulative launcher update with Hoth map/ticket UI, planet/travel tables, buildout, terrain, Imperial Stronghold snow/rock exterior and collision, and red Imperial screens. Close SWG, update to **1.0.15**, then restart the client. Existing v1.0.13 content remains included; only its object-template registry is extended with all prior registrations retained.
 
@@ -13,7 +15,7 @@ Testers need this client package and the matching QA server. No developer config
 
 See [exact package delta](PACKAGE-DIFF-v1.0.15.json) and [recovery instructions](ROLLBACK-v1.0.15.md).
 
-## v1.0.13 — Imperial Guild Hall lighting/materials QA
+## v1.0.13 â€” Imperial Guild Hall lighting/materials QA
 
 Updates the standalone guild hall with smooth glossy white interior materials, near-black exterior sections, clean red banners, corrected texture opacity, brighter native room lighting and two main-hall ceiling fill lights. Latest lighting/banner behavior still needs in-game QA. No decorating slots or triangles added; non-light POB data preserved.
 
@@ -21,7 +23,7 @@ Cumulative package: 731 v1.0.12 files unchanged, 13 guild hall files updated, si
 
 See [exact package delta](PACKAGE-DIFF-v1.0.13.json) and [manual/Git recovery](ROLLBACK-v1.0.13.md). Modified assets must be restored from the previous package, not simply deleted; the launcher has no rollback button.
 
-## v1.0.12 — Imperial March login music QA
+## v1.0.12 â€” Imperial March login music QA
 
 Replaces the shared login/character selection title music with the Imperial March, configured to repeat indefinitely with zero configured loop delay. The track is approximately 3 minutes 7 seconds. The v1.0.11 Dark Side background and all other previous assets are unchanged.
 
@@ -31,7 +33,7 @@ Close the game before updating through the launcher. QA should check playback on
 
 See [Git reversal and fresh-client recovery instructions](ROLLBACK-v1.0.12.md). If the update breaks a tester's client, wait for a higher-version correction, then install a fresh base client and update through the launcher.
 
-## v1.0.11 — Dark Side background QA
+## v1.0.11 â€” Dark Side background QA
 
 Adds the custom SWG OLD FLURRY fortress artwork behind the front-end screens, including login and character selection. The character, selection menu, buttons, and particle assets retain their existing behavior. Both registered station/Jedi backgrounds use the new art, with neutral color and a corrected crop.
 
@@ -41,7 +43,7 @@ The live client displayed the art and full logo at login; the server owner confi
 
 If this QA release breaks a tester's client, the recovery plan is a fresh base client followed by the corrected package through the launcher. Wait for a correction before reinstalling: the current launcher package would otherwise install the same background again. See [QA and Git recovery instructions](ROLLBACK-v1.0.11.md). The launcher has no rollback button.
 
-## v1.0.10 — Atmospheric flight QA
+## v1.0.10 â€” Atmospheric flight QA
 
 Adds only `string/en/atmo_trial.stf` for atmospheric Launch/Return labels. All 739 v1.0.9 files remain byte-identical. No HUD/UI files are included. Flight itself runs on the separately updated server; supported testing is owned fighters on Tatooine, with current time/range/altitude limits and normal PvP rules.
 
