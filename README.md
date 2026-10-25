@@ -1,3 +1,5 @@
+Latest QA client: **v1.0.22 — Hoth city snow roofs, gray doors and winter parks**. Owner confirmed the visuals and working doors after client restart. Preserves the approved large-house interior. Existing launcher supported; see [release notes](HOTH-CITY-SNOW-v1.0.22.md).
+
 Latest QA client: **v1.0.21 — fixes the Old Flurry ZIP entry limit without a launcher update**. Use the existing Old Flurry Assets button. All prior resources retained; Hoth city assets are packed in the existing registered TRE. See [installation and validation notes](HOTH-LAUNCHER-COMPATIBILITY-v1.0.21.md).
 
 Latest QA client: **v1.0.20 - Hoth wildlife mission names**. General destroy and Scout hunting content is deployed on the server. See [release and QA notes](HOTH-WILDLIFE-v1.0.20.md).

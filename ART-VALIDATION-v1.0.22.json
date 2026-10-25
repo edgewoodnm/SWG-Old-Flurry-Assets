@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "pob_cell_portal_floor_transforms_preserved": 7,
+  "interior_meshes_shader_only": 26,
+  "large_house_interior_meshes_preserved": 10,
+  "door_style_aliases": 6,
+  "stock_door_rows_preserved": 124,
+  "snow_meshes_all_lods": 49,
+  "largest_combined_mesh_triangles": 6762,
+  "desert_plant_children_removed": 44,
+  "patch_files": 266,
+  "server_changes": false,
+  "resource_spawn_changes": false,
+  "gameplay_visual_QA": "User confirmed after client restart: Looks good and doors work",
+  "native_archive_extraction_verified": 27231,
+  "public_package_active_patch_files_verified": 266,
+  "public_launcher_upgrade_test": "Passed: 891 identical, zero missing or different after installation",
+  "public_version": "1.0.22",
+  "referenced_resource_paths": 422,
+  "new_dependency_resolution_passed": true
+}
