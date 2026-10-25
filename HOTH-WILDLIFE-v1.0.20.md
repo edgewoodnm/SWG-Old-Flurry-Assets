@@ -4,7 +4,7 @@ Update through the launcher and fully reopen the client. This cumulative client 
 
 The companion QA server now includes native Hoth General destroy missions and Scout hunting contracts using Wampas and Tauntauns, plus 64 additional fixed wilderness encounter sites. Wildlife groups activate near players, respawn on timers, and exclude city, hub and battlefield areas. The additional grid is limited to 96 live creatures, with idle cleanup. Existing fixed encounters and faction patrols remain. Unkajo is excluded from these ordinary missions and new wildlife groups; a custom heroic is planned separately.
 
-Native temporary mission-data tests passed 8/8 hunting and 8/8 destroy generation. These tests assigned no player missions. Full acceptance, objective completion and reward QA remain pending. This update does not claim new delivery, artisan, entertainer, bounty or recon content for Hoth.
+Native temporary mission-data tests passed 8/8 hunting and 8/8 destroy generation. These tests assigned no player missions. Full acceptance, objective completion and reward QA remain pending. Follow-up server support now provides Hoth delivery/crafting routes, a Stronghold entertainer venue, local NPC bounty destinations, recon and both military/non-military faction mission paths. Native generation tests passed 3/3 for each. Profession and faction eligibility remain native. Full objective completion and reward tests remain QA.
 
 Also includes the deployed server fixes for Hoth city map registration, player shuttle terminal/collector/service setup and cloning droid/respawn configuration. Player testing confirmed City Hall/home placement and shuttle/map operation. Native checks confirm garage repair trigger, cloning terminal/droid and interior respawn. Death/clone and vehicle repair gameplay testing remain pending.
 
@@ -18,3 +18,12 @@ Also includes the deployed server fixes for Hoth city map registration, player s
 - [ ] Verify player-city shuttle ticket round trip, cloning after death and garage vehicle repair.
 
 No server scripts, executables, backups or private configuration are included. Existing city ranks, mayor skills, treasury costs, lots, zoning and travel routes are preserved. No server restart was required for the deployed table/script fixes.
+
+
+## Resource caution and city systems
+
+Hoth resource spawning has not been modified. No active local resource pools were found in the queried classes, so unsupported survey contracts are withheld rather than offering impossible objectives. Artisan crafting missions remain available; survey support awaits separate resource-system review.
+
+City specializations, treasury costs, eligibility, faction declaration cooldowns and confirmation mail retain their native handlers. The improved-job-market reward path remains connected. Hoth city patrols read declared city allegiance. These effects require further in-game QA; no city declaration or specialization was forced during testing.
+
+Player QA confirmed mayor terminal placement, mission listing, acceptance and objective spawning. Further QA should cover crafting pickup/manufacture/delivery, entertainer completion, bounty tracking, faction rewards and hunting kill credit. Unkajo is reserved for future heroic development and excluded from the newly added ordinary mission and wildlife-grid content.
