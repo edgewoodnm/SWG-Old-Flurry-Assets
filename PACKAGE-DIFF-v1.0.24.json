@@ -1,0 +1,36 @@
+{
+  "base_zip": "SWG-Old-Flurry-Assets-v1.0.23.zip",
+  "base_tre_sha256": "f855646d07d37272da55129047930d7e770c1f1c47cb0c04c161ec21ef697931",
+  "base_tre_entries": 27417,
+  "archive_entries": 27423,
+  "archive_bytes": 65276952,
+  "zip_entries": 891,
+  "modified_archive_resources": [
+    "misc/object_template_crc_string_table.iff"
+  ],
+  "new_archive_resources": [
+    "appearance/echo_base_door_lg.apt",
+    "appearance/lod/echo_base_door_lg.lod",
+    "appearance/mesh/echo_base_door_lg_l0.msh",
+    "object/tangible/door/shared_hoth_core_large_entrance.iff",
+    "shader/echo_base_player_door_lg_cs8.sht",
+    "texture/echo_base_player_door_lg.dds"
+  ],
+  "legacy_loose_files_updated": [
+    "misc/object_template_crc_string_table.iff"
+  ],
+  "all_other_resources_preserved_byte_identical": true,
+  "asset_deletions": [],
+  "patch_sha256": {
+    "appearance/echo_base_door_lg.apt": "9bdf3c28a96e738df92baedeba66ab13adfb69e687d57d1b5d068437bc2a7049",
+    "misc/object_template_crc_string_table.iff": "124a226c18225b9b7c14827bac7c3a39097bf40da37de328859f7b6749a8bcf5",
+    "shader/echo_base_player_door_lg_cs8.sht": "42ca9f39f376003b3fb3fa2a504fa214063aff576a0cddbbc8f12415bf135c33",
+    "texture/echo_base_player_door_lg.dds": "01af13487f32fb54f35300aa3f580429c1fe155a8f648c92f97f021c10c16cbc",
+    "appearance/lod/echo_base_door_lg.lod": "42205cb0097da6aa0e2505474284aa9fcbad2460b662714c9da7af635de4f929",
+    "appearance/mesh/echo_base_door_lg_l0.msh": "6563be5ad2cf402f665aada5eac760e9c706c8849a2e481d1d20decb3417f217",
+    "object/tangible/door/shared_hoth_core_large_entrance.iff": "0124a1c33f372b5a23027501047dacbf6a6bc001643d81bf9482659de359605a"
+  },
+  "unchanged_launcher_limits_passed": true,
+  "configuration_changes": false,
+  "server_changes": false
+}
