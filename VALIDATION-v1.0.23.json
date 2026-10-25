@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "native_archive_resources_extracted_verified": 27417,
+  "client_patch_resources_verified": 189,
+  "launcher_entries": 891,
+  "unchanged_launcher_upgrade": "Passed; second preview 891 identical, zero missing or different",
+  "native_environment_template_compile": 8,
+  "native_environment_scripts_compile": 6,
+  "native_reward_template_compile": 4,
+  "native_instance_pool_slots": 4,
+  "boss_scientist_live_loot_enabled": false,
+  "native_reward_catalog_verified": true,
+  "preservation_checks": [
+    "Exact portal/floor/collision structure preserved: appearance/heroic_nightsister_dungeon.pob",
+    "Exact portal/floor/collision structure preserved: appearance/thm_all_cave_s01_damprock.pob",
+    "Every donor mesh physical APPR preserved, including split CMP parent",
+    "All render meshes below 10,000 triangles; maximum 7982",
+    "Original instance localization IDs and values preserved",
+    "No native walkable floor resources modified",
+    "Boss, scientist, and live rewards disabled for environment testing"
+  ],
+  "gameplay_QA": "Pending cave approach, walk-through, group travel, return, cloak equip/set and crystal tuning tests. Blender renders are not proof of client appearance.",
+  "secrets_configuration_executables_in_package": false
+}
