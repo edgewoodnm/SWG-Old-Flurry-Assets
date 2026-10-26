@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "native_archive_resources_extracted_verified": 27762,
+  "client_patch_resources_verified": 466,
+  "launcher_zip_entries": 891,
+  "unchanged_launcher_upgrade": "Passed v1.0.24 to v1.0.25; second preview 891 identical, zero different/missing",
+  "native_templates_compiled": 6,
+  "native_scripts_compiled": 8,
+  "native_instance_capacity": "1-8 players, four isolated pools",
+  "asset_checks": [
+    "Native portal, floor, collision and light-transform data preserved; only room light RGB changed",
+    "All custom meshes below 10,000 triangles; Wampa native skeleton, positions, normals and weights unchanged",
+    "All 571 referenced native/client resources resolve, including corrected custom chamber and boss paths",
+    "Stock prop resources byte-identical; original client quest row IDs and data unchanged"
+  ],
+  "prop_layouts": {
+    "hoth_heroic_frozen_lab": 44,
+    "hoth_heroic_occupied_descent": 68
+  },
+  "gameplay_QA": "Pending native client walkthrough, scientist pathing, combat scaling, solo thaw, group weapon rescue, wipe/reentry, corpse loot and repeatable 50k turn-in",
+  "secrets_configuration_executables_in_package": false
+}

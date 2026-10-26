@@ -1,3 +1,5 @@
+Latest QA client: **v1.0.25 — Hoth Imperial Frozen Chamber heroic**. Frozen laboratory and occupied cave, standalone Wampa encounter, breakable ice rescue and repeatable Stronghold expedition quest. Fully close and reopen the client after updating; see [release notes](HOTH-FROZEN-HEROIC-v1.0.25.md).
+
 Latest QA client: **v1.0.24 — large Hoth Core entrance door**. Native Echo Base large door with the existing instance-entry action. Fully restart the client after updating; see [release notes](HOTH-LARGE-DOOR-v1.0.24.md).
 
 Latest QA client: **v1.0.23 — Hoth Core environment preview and standalone reward preparation**. Frozen-to-volcanic cave, native chamber travel, and Hoth reward assets. Boss encounter remains disabled. In-game environment and equip/tuning QA pending; see [release notes](HOTH-CORE-PREVIEW-v1.0.23.md).
