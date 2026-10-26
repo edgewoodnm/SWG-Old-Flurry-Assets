@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "native_archive_resources_extracted_verified": 27763,
+  "client_patch_resources_verified": 3,
+  "prop_nodes_corrected": 86,
+  "all_prop_templates_and_cells_preserved": true,
+  "terrain_native_samples": 10201,
+  "terrain_heights_unchanged": true,
+  "native_excluded_poles": 300,
+  "door_and_cave_transforms_unchanged": true,
+  "unchanged_launcher_upgrade": "v1.0.25 to v1.0.26; repeat preview 891 identical, zero different or missing",
+  "launcher_zip_entries": 891,
+  "in_game_visual_walkthrough_pending": true,
+  "secrets_configuration_executables_in_package": false
+}

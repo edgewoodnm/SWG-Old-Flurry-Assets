@@ -1,0 +1,28 @@
+{
+  "base_zip": "SWG-Old-Flurry-Assets-v1.0.25.zip",
+  "base_tre_sha256": "d82727905ac542a6231682816d1ddf52561f8bc9eaf729c830f6c094e59efe89",
+  "base_tre_entries": 27762,
+  "archive_entries": 27763,
+  "archive_bytes": 79974806,
+  "zip_entries": 891,
+  "modified_archive_resources": [
+    "interiorlayout/hoth_heroic_frozen_lab.ilf",
+    "interiorlayout/hoth_heroic_occupied_descent.ilf"
+  ],
+  "new_archive_resources": [
+    "terrain/hoth.trn"
+  ],
+  "legacy_loose_files_updated": [
+    "terrain/hoth.trn"
+  ],
+  "all_other_resources_preserved_byte_identical": true,
+  "asset_deletions": [],
+  "patch_sha256": {
+    "interiorlayout/hoth_heroic_frozen_lab.ilf": "e950c00ce9296086e582cdce7d135d7e962fc60fa6998ad68b9ca64066a3c933",
+    "interiorlayout/hoth_heroic_occupied_descent.ilf": "0151c2d6c79116e8cf636ac58f5fcd71161c203cce9533d6a00b87189c8abce7",
+    "terrain/hoth.trn": "e06a7a60c38ca6145ee70bb57dbe33dc8c98232e2286b2e2ef06a2b623fe7e95"
+  },
+  "unchanged_launcher_limits_passed": true,
+  "configuration_changes": false,
+  "server_changes": false
+}
