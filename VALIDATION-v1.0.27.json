@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "launcher_zip_entries": 891,
+  "unchanged_launcher_upgrade": "v1.0.26 to corrected v1.0.27; 891 identical, zero different or missing after installation",
+  "client_patch_resources_verified": 102,
+  "native_journal_quests": 2,
+  "native_journal_tasks": 8,
+  "all_new_journal_strings_resolved": true,
+  "vendor_deeds": 13,
+  "currency": "item_hoth_coin_01_01",
+  "price_range": [
+    25,
+    150
+  ],
+  "credit_prices_removed": true,
+  "native_scripts_compiled": 9,
+  "prior_evening_asset_validation": true,
+  "manual_QA_pending": [
+    "Full quest walkthroughs and reward hand-in",
+    "Mother and vendor visual position check",
+    "Real-player Hoth Coin purchase and insufficient-funds rejection",
+    "Patrol interactions, heroic loot and scenery clearances"
+  ]
+}
