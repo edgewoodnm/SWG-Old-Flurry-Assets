@@ -1,0 +1,27 @@
+{
+  "passed": true,
+  "decoration_items": 10,
+  "native_templates_compiled": 10,
+  "native_item_creation_name_and_donor_behavior_checks": "10/10 PASS",
+  "native_catalog_rows": 48,
+  "native_display_items": 95,
+  "native_currency_metadata_errors": 0,
+  "original_38_vendor_rows_preserved_byte_identical": true,
+  "new_coin_price_range": [
+    10,
+    25
+  ],
+  "new_coin_price_sum": 170,
+  "client_resources_verified": 100,
+  "new_template_registrations": 20,
+  "dependencies_resolved": 124,
+  "maximum_mesh_triangles": 454,
+  "native_geometry_collision_hardpoints_lod_preserved": true,
+  "unchanged_launcher_upgrade": "v1.0.27 to v1.0.28; 891 identical, zero different or missing on repeat",
+  "five_minute_warned_restart_completed": true,
+  "manual_player_QA_pending": [
+    "Real-player purchase with Hoth Coins and inventory-full rejection",
+    "Furniture placement, sitting, storage, collision, relog and visual/LOD checks",
+    "Rebel Echo Base contact full instance trip and return"
+  ]
+}
