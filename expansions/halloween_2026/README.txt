@@ -1,3 +1,5 @@
+IMPORTANT: wing equip crash repaired. See WING-CRASH-HOTFIX.txt.
+
 Old Flurry Halloween integration backup
 
 Client resource overlay for the matching private server integration.

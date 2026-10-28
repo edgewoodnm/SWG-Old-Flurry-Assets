@@ -1,0 +1,2410 @@
+{
+  "cause": "Blend INFO normal counts exceed the supplied NORM payload. The SKMG 0004 client loader reads declared counts directly.",
+  "files_fixed": 400,
+  "blend_counts_fixed": 1200,
+  "geometry_weights_materials_unchanged": true,
+  "changes": [
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_bth_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "084a11379a7c7afec1e996fad400e430945572464482d10aeac7be203407d14c",
+      "after": "c80fb8be2741c4a6929a430d9eb6dfef53b8efbfa740bdef6f544c0a8f2df29d"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_bth_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "99f16a47b6c70726ee4b0e8a4c073e852b281a1f5024ba1a5a321dc58eff26e3",
+      "after": "6c65f1e2b3f890744c9b076db119cb9c2e7eae9bdf6063339fb17858b7768347"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_bth_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "70ee0e651923b1e5f9eddc46f6b4fc3f1d55cee972cc1a2ab129512129da3da9",
+      "after": "3171d67c23bae46e3ccd2b78d1756fc0d811518f5a80a43f4d42e6aa20c679c6"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_bth_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "c8ba5fde964cc7f3a30005139245de0fa51dd41aed25495f730a72e34d8a578c",
+      "after": "3929aab68377383bddd7269940fd7725604e170f2eda5836495a19424ca29e51"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_bth_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "71f2806a54d35d4734493fc69a79522a02f638c72817e8adf69bfd354dc62067",
+      "after": "1fa62476f462d0518b2e6ce08bb3226f76f8f0cb0ca97bc11e6d6fc9c780ce35"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_bth_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "03d9190f63144c3ffc27eac811361d03586247a5a3247feded850b009aeae6e8",
+      "after": "c404df1ffdf61b4b068f4fd76ebf8dbc8134ca4aef1503586a55408cb771455b"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_bth_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "c974697835e43be5a5ac6eadead4e4bdfd57c17f67e3501f155b00e073f8400a",
+      "after": "dec4087e2c88a4885950586acd9b05340dfedbe2e5c0ef675630f9b5b46280c1"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_bth_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "3f7fa6a716cc84b750938e600074cd86723fcee2eae7ff4b9cc66bf2799dd560",
+      "after": "dc8c0968b25d7b3afcd2da0e01015e34d2ccd7bf0da7c5536ee1ac66d6a8a52f"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_hum_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "2808f506c6ec714e8fd5cc2e3079061b186951abff8e6faa0d6e3a28ecdf5950",
+      "after": "23adfd2060ef02c335d41b52e617c26c03c44d6c6d3a967f01eb476f65e29c99"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_hum_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "9d4dc874886a315bd648c7f142a2fb6f9132f702fac8f18afd37106df7ebdd5f",
+      "after": "9c28626601aa8b997ce21b61f7a544416fc861ea36c6f9e6197ac7044b806935"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_hum_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "5d93dbfb6cfc8f0a53fe2d1f6b25d0341f8e0c4005d27ebc61c94887d1e2ff8b",
+      "after": "05d1875214fc7b7e44e2d42f3073ba86c391a7577ce89a81bfee049f26ed61b3"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_hum_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "ee7b40e7b2b961f039e815bba5569b5d2e6746513af050a39c55eb928ce298af",
+      "after": "a0676ce7bea64c1df761b71ef35bc999da0c2c6c8a8265609598de7f076e037a"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_hum_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "0c5090f49b5ee43476885339af669ebebb84e3cc4c70ede3aa8a096a97c071b4",
+      "after": "9c19b869f59803ef108ce698f13fe2a794182013429be45b59b8d02d5d7f1773"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_hum_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "1997c5b654a89ea229f2fe1b7221d619170515f55319f51b96f4c8d6d2f69d98",
+      "after": "baf43a9db502de2cf45fc4c69a5c764791ea01bae224593475c9bb4635745e6a"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_hum_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "e190145337d0c55471876210f6003783c1d9cca5b9b505e527febf325dc3fb08",
+      "after": "0cf99e3314918652a5ff637f39e42faf1c0ac8833a583948b5ccc67a4673c4db"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_hum_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "165aeb4e3b6f272d8dd36dbe4f23dacc46eeda440036dbae8ee4588397250c5b",
+      "after": "c9aec35d064b0f7cf60b46419cbed4c8691084fb6fbb3b2e45de6217802d0e55"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_ith_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "1183ac1154f562016cb18d7a372f5380ee681e67efae7daf0cae1f0e8a07f4ca",
+      "after": "3e9ac21361f6a7bacb57dd99dd7e602e4ef02094760c1924fad4a7198f81cf17"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_ith_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "669cc67d201eb8329de8c1fafafb1e2eb9ef4ce41eebc760233424aa18b1f06b",
+      "after": "df4775e7c607d62dbc82f0f7c577d7e03bb863a4891802d74c5b4218a0ecbd1f"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_ith_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "7416beaa3247ef1f27ff9fbc14c52ba41a99bb657228a4acd862c565fc2a155b",
+      "after": "da640626f9f247daafdefff39a35cd6abc8b8fcac5484fe7e07fde093a7510af"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_ith_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "d53e9226163e13d90bdceb93064dd11005ffac09542f07e7c4742d4966e8552c",
+      "after": "498255e3cb0a7cc39c25127fa6a3f1efa199dfa74004ca56665adf86e8d8c617"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_ith_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "ecc3da3179f7883a9d9df2149adbe2aca705e5cb71cf064bd7a3441e9501b79f",
+      "after": "aba039ec35783b693465102dd8723005580875c324551b67bc97f5c71169b1d4"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_ith_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "950b286f3f08e24d34ea606c865b7c19361e27f4f721e49142f2649547dfba86",
+      "after": "c133cca09f8615cea65f9edaa43896ad66000f3252504879af933f946bb3a0e7"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_ith_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "60f186e6db206d752a08cf77dac1950be1925a9dcbd37ad84fec8fb9b9146c03",
+      "after": "4b93d2f860120f554c262840d877d406848537ed79c744f3bd6df59099ac054b"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_ith_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "d2247795e22a2fb7d7f08d1c204edbe898814be29b73127c8bdf5f9e7b721138",
+      "after": "17b0d595f46daf4f392b79f1a675127285ae6d9f8b8de64ed190633d9e15cbc9"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_mon_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "3db54ce3d919726ca58671e35ce9e74270ff746c57ed2edf9b17e6c0de208991",
+      "after": "b91f7535b803d22299dfde9b99e6d212e36d130cce9239ddae7d208c5ee75b48"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_mon_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "0d4e34eca05f2d2f5866ec7f41e8cdd67d97120678afff91496fc96a33d5ea98",
+      "after": "b705f4006f52d508912f9f33c248667f90ba9a05f166c61ed5e00e2aebe11e24"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_mon_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "7b61d5db47b30b7f8a017e49c1c34f8d7373af98c449e5a2535fc7f3078c078f",
+      "after": "262fe2dad5997a5218224e0e17067b5024c702bdedcc2173b2f04dc0de5dc877"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_mon_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "47c9414be99fdba9d3db9b16777bb3ee39d9408d33a209c8858d33da6d2b8083",
+      "after": "85a7701e994f041788d79fbcec848a037dc1d6ca1eef83739c2ff8967c67a163"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_mon_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "71f2806a54d35d4734493fc69a79522a02f638c72817e8adf69bfd354dc62067",
+      "after": "1fa62476f462d0518b2e6ce08bb3226f76f8f0cb0ca97bc11e6d6fc9c780ce35"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_mon_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "03d9190f63144c3ffc27eac811361d03586247a5a3247feded850b009aeae6e8",
+      "after": "c404df1ffdf61b4b068f4fd76ebf8dbc8134ca4aef1503586a55408cb771455b"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_mon_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "c974697835e43be5a5ac6eadead4e4bdfd57c17f67e3501f155b00e073f8400a",
+      "after": "dec4087e2c88a4885950586acd9b05340dfedbe2e5c0ef675630f9b5b46280c1"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_mon_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "3f7fa6a716cc84b750938e600074cd86723fcee2eae7ff4b9cc66bf2799dd560",
+      "after": "dc8c0968b25d7b3afcd2da0e01015e34d2ccd7bf0da7c5536ee1ac66d6a8a52f"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_rod_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "3db54ce3d919726ca58671e35ce9e74270ff746c57ed2edf9b17e6c0de208991",
+      "after": "b91f7535b803d22299dfde9b99e6d212e36d130cce9239ddae7d208c5ee75b48"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_rod_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "0d4e34eca05f2d2f5866ec7f41e8cdd67d97120678afff91496fc96a33d5ea98",
+      "after": "b705f4006f52d508912f9f33c248667f90ba9a05f166c61ed5e00e2aebe11e24"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_rod_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "7b61d5db47b30b7f8a017e49c1c34f8d7373af98c449e5a2535fc7f3078c078f",
+      "after": "262fe2dad5997a5218224e0e17067b5024c702bdedcc2173b2f04dc0de5dc877"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_rod_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "47c9414be99fdba9d3db9b16777bb3ee39d9408d33a209c8858d33da6d2b8083",
+      "after": "85a7701e994f041788d79fbcec848a037dc1d6ca1eef83739c2ff8967c67a163"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_rod_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "dac6be6bd595a3482df735ccc99a2a835a418e25c405b2817e584258b923cf8d",
+      "after": "693628d4ba6e194715bab72f8f8270e8ea405a91482f645c9adcf8140bbc82bb"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_rod_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "3d3e6aa00b28022ec2fdc22c61aa8622f253425150b866cd63eac9b5bb7b96e2",
+      "after": "d2f462c7f8d4640cc10fc60e8c98192a3ee9466b68d31b74438f84aa0fc04b56"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_rod_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "1096ac209e35868c8430f8f8b58f36d9f7cc126347cc9193f22095c875d695f0",
+      "after": "c3b06cf5b8223ea6f067c481f81a354f5db053b55435e069d015a11fb8bf77a6"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_rod_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "840c52936e1616e6e2af01a88264ba14c33ee631cc28e8ca7c8815fed03502e6",
+      "after": "2f63134174cf7b12139b3d2b117c7def0c702e822ce423d8ae3bdf5afccfc1af"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_sul_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "3e96257e1cbaf7742ac7293be3a6d557d57587e30a95560bf27e406be8480a93",
+      "after": "a0d591d33e78e64a7bb3e9f7edc493baa31519af182865c33c5632704bf3893d"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_sul_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "6bff3dfabf79a772870875e3777e7d0e63835a0c79984d7429d4038a3e610178",
+      "after": "84fefacd2c20d63867c5a68feb762c1dc0ef5c4b73b29afd8b56e67713a60320"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_sul_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "0a8c41b69f6b78e651cb583d536efd052c9cd474407776c6af67ae17668d58b5",
+      "after": "40e0a12a1584ae119e6274318382cce582c533ebab2818851cf198d5717827ef"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_sul_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "9f7aab63fe276ab9dd4dff48d588841b63bfb345921da6b85ac709cfa7b4ca42",
+      "after": "cfd7932c493731050c8745da3d0fa64cc314a1da0ed90f107fceb51be35ea5ec"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_sul_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "920c3137193b5058724a4f5a710e84b804e8aed064aedb2c5b5cda77e14b5b11",
+      "after": "aa384f353c860a2a2bdf99fcfd5261b325b7c7cc28f31d0633c9fc04c11ef932"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_sul_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "afb6523078c22c0d0afa6cf4a3aa96fdf6da0341f9535b28f7e9653bad33d2b1",
+      "after": "22a5ba3ff0f203ab103b7f117d3060593aebabef8de605a01529f879a9cd0f5e"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_sul_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "1e34aecfa9084bf554117362447a4449c598a3776cce3ee6f75f0be235a071ca",
+      "after": "d61748e27b94c960a7f402fc0c62832c2948a8e84fc1f409df501e9aee3648f8"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_sul_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "40e0bd3f18be6f99abe7ce9574b549d4a0791532feb887a0e5cbd281fdd46bf2",
+      "after": "cfb0130249e2a9fe3387d3625ca26b09e037d9c5f1a8f923a5bb1fdc7b0acb81"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_trn_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "e19e2df18d11465dd9a5c55ece2e0f320463d59eb046644498ddabe397ed7326",
+      "after": "11d7f5cedea718cfb33c56e27fb0aafc17d3803b58bfc7ffea88b73a2757efa9"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_trn_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "d240c54bd753b1857618020bb54f683002862677b393fbc7f0bf16049741c4d2",
+      "after": "2c49fcbfe60ba0f32618b7796ea3e6f5e04d15b251629123276e5e18003bb6d0"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_trn_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "5f13dddbf57076cda11a3ec80c68fa1ff608a3d52aa656484bb36e3ef4d6cf81",
+      "after": "0786362fd18abcd3352d3d905c117d1b5996a8c2434681b6efec003ccdf48651"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_trn_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "05eb1a4c113f168acc35c75757f24635d8cc1a95b6041b25a834ae4ddef16cbd",
+      "after": "fd91622d99b3da4b7e14fc0a22206ad2bec9a089dd98b2ad00a129cfc4e170bb"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_trn_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "a8b32b2df55b3d22cf7c7f75469cb87e62c87ec38de66c546238714a597f6e72",
+      "after": "9a69db2c912f0bad92bd0b861d1b5146197c1f725ad45f919b465ddcf7f041fd"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_trn_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "1f30bfaa6da196b3289e797ef72d27f39cfd85f0eebe4a89979494a32893c521",
+      "after": "2bca99ec25c653abe725c6c0cd8ffc746de1486aed88a5111cf9d130eec1b2c4"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_trn_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "d9ac4f1a7d8a5e70c7e535ac90ba06376c2d6ee8f37ff900096872135dedd678",
+      "after": "72d0e32ba6855f0a14b6e7e34cbe3298a94a56d07cb067b54b414b1b3154583b"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_trn_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "2f1fdbb0728c7de9d99856114e8c744fe944ba2513140e386ac55bc9bf8bf88d",
+      "after": "5d52764c1ba2ef23311baa017510eed1911b629b0d510559552a6d0690301008"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_twk_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "7248147a309bb5946d43bf35b9cfcd654c7efd37fcd6030f927c7b2e64052ece",
+      "after": "b88acd2565b9c9c62bee84e3aec359acd5e05bac568594e0c884eb8a7c2f9090"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_twk_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "80f5b9aa5923565c78e55546c2f1c710a269cb7ab3507aeb8d8d49db8c51f245",
+      "after": "45740d61d75218fa6ca27de46add71786900da8ae317840d7f9b4acded6db198"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_twk_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "6c5a34242ddc383959204330b2732049465a0f8eb5d313567fd650349215548f",
+      "after": "f2b1d40eb6041132562eea961308b055233b11342ea15c62bd62cc5e89f3e5a7"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_twk_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "404575717bba4eaa636569181f438eba84ca309c4da3fd760630209225ecdba3",
+      "after": "a09973d02598c0d04ac4ede4488038fd660551dabefa2179956343f5be2fcad5"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_twk_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "99341361194d0b4a6fe3c5b44639abeca45f671c29724f4bb830c957bbb0155b",
+      "after": "ab1a7aa51f30297ff777e8bb15cb39b54bb4183b8b1322e04871808a2fcb0415"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_twk_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "17e0c78f83de8b8eb8ba58a693509e41f923c421688ea4b6b08fb54a2bde33b9",
+      "after": "ab672595bb185b61860327f0624461b1754ddb986f26d12f5b6e06d533de585b"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_twk_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "2518a415bb484dfca4fa072393715beec635a3c105fa119987599c024b06e21d",
+      "after": "11c71b9c82d5eacc1d14f5aae8acff673ac54f0a2fa2727c7a224c73b7205429"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_twk_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "b66c410be6730c7c69eaeb5f6b8131aa4189240c0c8f5b3a8d54d76437dfa1c9",
+      "after": "f86d636e6f8470287c85650262ac6a13aeecd0bd434141ecd98314f081fb1c3c"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_wke_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "40b6f4c8512e7153165dd4fe54ab091b7837ccd5e94fca6d0d2e9744455a5c5f",
+      "after": "9b34c20d0c2730a95509ae437658b5642a3ff6b9e4f542318c7ae1b4248eae42"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_wke_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "d6e183855f893178f7618f0066fcd036e633e13fedf0bf08f3dad6e0ba9e25fe",
+      "after": "106caa26d4426aeab6bc88bc9c3ea048818e685e04355ec2fc635f46adf172d2"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_wke_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "ba0c01147b5ee2321bb029fe5e4f7beb7f7b497f31cfb0b50dddcc4ae6b69a86",
+      "after": "e08107db8a4054a850696fc7056e9068d25a4ef77d6353b1f8ea020570e0389d"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_wke_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "5b98b2841823948750dc2f4f1c6bdf8f84f8c8b799a32c15769f683559e7a2f2",
+      "after": "eb98c2b3f2a323d7dfa8c98ff1e304a98693995f57710dbe68c0318cf4f319af"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_wke_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "5eaa430b3c92f0d4974f839f3976657cda94e57262d9dbde02f00fcd1a4a9464",
+      "after": "819a1a5fc4f782547d143ca892536672f9adeca9712449ef4f0c34f155680a81"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_wke_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "4c460a855a577f2793a0aa8fbbc95d1bb28d6836d21289caf8e1488b73a81c52",
+      "after": "44a338432675350e6361fcbc9efe3cfe3e24f73063e3d2033f6d34daf0324467"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_wke_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "1cc22ad8ec601ca6a09fe2dd894e7b712fcde4dace5ef1ea6135e0878d9988a6",
+      "after": "b34d0194af4719648c00406143637fc89e16824c7884579eabd8547c9b5874c2"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_wke_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "33e62608c8cae45d7e954115ab8cfed636fb0a7ec61294060bdcc5c98958d7b0",
+      "after": "e0909c559b391f03ca2ead941fd4483306b79f461b427e4beea39dc3cdbed570"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_zab_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "2808f506c6ec714e8fd5cc2e3079061b186951abff8e6faa0d6e3a28ecdf5950",
+      "after": "23adfd2060ef02c335d41b52e617c26c03c44d6c6d3a967f01eb476f65e29c99"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_zab_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "9d4dc874886a315bd648c7f142a2fb6f9132f702fac8f18afd37106df7ebdd5f",
+      "after": "9c28626601aa8b997ce21b61f7a544416fc861ea36c6f9e6197ac7044b806935"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_zab_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "5d93dbfb6cfc8f0a53fe2d1f6b25d0341f8e0c4005d27ebc61c94887d1e2ff8b",
+      "after": "05d1875214fc7b7e44e2d42f3073ba86c391a7577ce89a81bfee049f26ed61b3"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_zab_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "ee7b40e7b2b961f039e815bba5569b5d2e6746513af050a39c55eb928ce298af",
+      "after": "a0676ce7bea64c1df761b71ef35bc999da0c2c6c8a8265609598de7f076e037a"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_zab_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "99341361194d0b4a6fe3c5b44639abeca45f671c29724f4bb830c957bbb0155b",
+      "after": "ab1a7aa51f30297ff777e8bb15cb39b54bb4183b8b1322e04871808a2fcb0415"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_zab_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "17e0c78f83de8b8eb8ba58a693509e41f923c421688ea4b6b08fb54a2bde33b9",
+      "after": "ab672595bb185b61860327f0624461b1754ddb986f26d12f5b6e06d533de585b"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_zab_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "2518a415bb484dfca4fa072393715beec635a3c105fa119987599c024b06e21d",
+      "after": "11c71b9c82d5eacc1d14f5aae8acff673ac54f0a2fa2727c7a224c73b7205429"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_black_zab_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "b66c410be6730c7c69eaeb5f6b8131aa4189240c0c8f5b3a8d54d76437dfa1c9",
+      "after": "f86d636e6f8470287c85650262ac6a13aeecd0bd434141ecd98314f081fb1c3c"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_bth_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "83ef42710f42af2fd00e85cdff9d7eaf59a4fe7e1b9d737797691dfa3e53757d",
+      "after": "f8dbaecefb6102aecbfe9fb98562ecb8936a32b257af26eabc0183cabb7f9187"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_bth_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "5bf536da3abd8eb985e186668e096298876494450fb76a854fb357ae90b63033",
+      "after": "d4e3f8c1105bec3bbb2d10e397447220ccb9a1d28671b182a5218e1aac277720"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_bth_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "8db58b62c7a7007d3b452c600dc3e3f4f714484f946d5e4340b97023cbeed664",
+      "after": "ae804bb70329d8e60582c2406546084cb0998072580cbbb196b5dbf691755550"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_bth_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "af7b1b1bce08a582c7691f2ce95d2fb6029a485430633c8de2dc929d79bf421d",
+      "after": "2ae5e7b3e960e6a0728bdf72b5cc89bb71b08abfc82363388214bdc15f38f449"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_bth_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "fdb82019d63e1743ab59fda4e0c8b76028503780413bc89b1480863a97b01724",
+      "after": "944302487698682819e2dba2e84444a4051804c98f80d0b184036bcbbc6e39c5"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_bth_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "2d802dd690a90035f3bfcbd9a98400815b07f999f7ae55b8f5e493cc77af6cdd",
+      "after": "443b7a2e3b42abd71ecc01de40473ce05e969088130cb689114012ee650ddd93"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_bth_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "7d54ab8f8d317d2f8c512ad0be1fb0e638961cff342d5db42155fe547dfff9c3",
+      "after": "23ec575d6afab4d4eb98226ee8eee9a021a86d7f439d44abbb0d0880728781fd"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_bth_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "6005b9cb80fd004390edf30a296e0e0f6b42e8028edaf7ea046654e42fe7ecb3",
+      "after": "40e9d26d3f91cdf46ef26f2a99ee78c013c5daf21efd7353adf4ae848285acd5"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_hum_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "14c9770cee0208ddf100a4c7ab79a47bf0a9b69cc37f4c1f52667557c4e54e69",
+      "after": "8b0647b9fcdf39bee0124b8d6f32535490a901adca755285f38434fcec7602d2"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_hum_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "c17e7ec66db37de63f80c04a0de24479da4451b768c3d9e4198a11170c49ef6d",
+      "after": "15d82df04569706b3c6dfd7df0074883699cc5cca12f05a94b15a43e9836ccf2"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_hum_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "5b49f97f68eb0e331d41d8514d54659653d8d947474794a81d43ae1f3e1f1c73",
+      "after": "6503e8d55078de2fd763c3ecdd374eab9ff94614cb1f908b57cc6e1352babb1f"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_hum_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "984d1561ec646a7fac5ace8c1144d9de578aaec463fdc7af635d649094ef3a4e",
+      "after": "9d19216194365f14480caf3c679a2c658cdec9b90c1e66eb625ea6627c408f29"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_hum_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "b3bfc72bca4f7fdfb3293f2acf021017fc8ecdcf67f3315d5d6659a6f333e900",
+      "after": "1a5d11d5159f8f0c4933b29e5a8279dafaa18cd6e5ef7b4bb61b5bb70cf5db08"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_hum_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "1aeda93ce811b65c6ef8d0f238daa11bfaa6640e00993d3287bc2e991db73d1b",
+      "after": "3a362da9ab1258a1a97436835bfd5c26ccc16c91cd7afc63b7a74c2da78732a8"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_hum_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "4863b2b2c438ddd65f39ab01284edd000fee6034e5ec68ae42a943eec1831c45",
+      "after": "e40ee45ed00934599e9256601ea22034ae59f2876a6165de2e508ae00961030a"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_hum_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "ae24e513af4b50724c3b57f47870d670e74926372d3fd53f46b0b1a6900809f4",
+      "after": "a1d2c60ef7e3d16f4ae702ac6c1de74f0468f497efc05ff933e216894a53bb7c"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_ith_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "78bb5d64dbb2c91b43a786cd7393b73a3031ed242c9b4c4ede704c6325860f1e",
+      "after": "7213b7de141e92e48989a59594260f4da04bb254853a58be7f1be69ca74cc4df"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_ith_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "908ed785658442a79ffecd09eca0f7e1670bd9cd512ecfbde99db27413e6085f",
+      "after": "46053a500c74082da0561a2b2fa2c87e7d934d5745f3b6dbd7f6bb21a5e7ff3f"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_ith_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "c14642efc0dc3238d21206eb3e11f8c8dd9988e2e847c1e59ad5abb253e35804",
+      "after": "6929a7ef37eb609cb8779d1c7f81260283588d7d06338ccf820b00dcf1b5e01c"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_ith_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "de283e27606ddf9ca6febca5e7c0c05314c3d1b83e8b688a27a3251cda7c54ba",
+      "after": "1fbc6bed0583a62ae058d2c32bf8cf3bf1ad146739847176ef95bf59bd40ad39"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_ith_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "64712be0384f631a1ff4075afcee1b0232027aa8db3331d05e218fe659a31550",
+      "after": "1cbd8f5c14a12f66de72051893526b92915681292140c60838067a8fa51eeec7"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_ith_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "af7281ac6dc269d4c098176d26d9d548ed000cc89d837f64a48d21f2027e6b21",
+      "after": "de23672a2d519a3400888c7df80073b2982d61ed4feab844e2cbfa9f6c1dcb32"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_ith_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "85e3507d380ddd9c234159b41aff3b51aa8032e4629e071a6447804d543d10a6",
+      "after": "521be0568987b031c505e8fe511c111065c729a495a9805d4a87c891af4df0b9"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_ith_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "54c2f9e22cf2d3abe22e572760efff8b61f68c635fa5b2f3b0d18deefc451c65",
+      "after": "586c0d7d59d92e52b2aabafc092b2fa8bb58c14edae8981ce61017a8ff405f8b"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_mon_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "69a08a8b09602a9decc868b819617a07918a52a97aceea06922412fc0b581dc5",
+      "after": "b28b49cff609b05a07aaa2038c552b744944fe32e53db2e55b2ddd2056c58e10"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_mon_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "f7210b34bd2da5c832240ef34210d7f15f7b89ec1ed04606d81621af221e3ef6",
+      "after": "6e67d7b23f0f8c47f21a740c467b62f414664c32aa0f1595e38115c75c4daebf"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_mon_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "f4f4fb5420d83e633bf603bbe12920769aeeb95e36a12b4c30cf8fbcfe702af8",
+      "after": "535fa3f7e8e7e1b29715295624ceb221cb7267a6c896cfc7567c6c97d7cecf7d"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_mon_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "d37e03a508f7ae31b1c15990a5bdfbdf2de5a0d8679476d2d3cc4cd139939895",
+      "after": "d056f6e94133d438f49b9f31c75d0faeabd303d6b2a1284a50c63da1f639dbe8"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_mon_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "fdb82019d63e1743ab59fda4e0c8b76028503780413bc89b1480863a97b01724",
+      "after": "944302487698682819e2dba2e84444a4051804c98f80d0b184036bcbbc6e39c5"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_mon_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "2d802dd690a90035f3bfcbd9a98400815b07f999f7ae55b8f5e493cc77af6cdd",
+      "after": "443b7a2e3b42abd71ecc01de40473ce05e969088130cb689114012ee650ddd93"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_mon_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "7d54ab8f8d317d2f8c512ad0be1fb0e638961cff342d5db42155fe547dfff9c3",
+      "after": "23ec575d6afab4d4eb98226ee8eee9a021a86d7f439d44abbb0d0880728781fd"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_mon_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "6005b9cb80fd004390edf30a296e0e0f6b42e8028edaf7ea046654e42fe7ecb3",
+      "after": "40e9d26d3f91cdf46ef26f2a99ee78c013c5daf21efd7353adf4ae848285acd5"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_rod_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "69a08a8b09602a9decc868b819617a07918a52a97aceea06922412fc0b581dc5",
+      "after": "b28b49cff609b05a07aaa2038c552b744944fe32e53db2e55b2ddd2056c58e10"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_rod_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "f7210b34bd2da5c832240ef34210d7f15f7b89ec1ed04606d81621af221e3ef6",
+      "after": "6e67d7b23f0f8c47f21a740c467b62f414664c32aa0f1595e38115c75c4daebf"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_rod_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "f4f4fb5420d83e633bf603bbe12920769aeeb95e36a12b4c30cf8fbcfe702af8",
+      "after": "535fa3f7e8e7e1b29715295624ceb221cb7267a6c896cfc7567c6c97d7cecf7d"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_rod_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "d37e03a508f7ae31b1c15990a5bdfbdf2de5a0d8679476d2d3cc4cd139939895",
+      "after": "d056f6e94133d438f49b9f31c75d0faeabd303d6b2a1284a50c63da1f639dbe8"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_rod_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "ea4d6b85f7f4509cc80930843d64093740693e60d0dd4707779cf5a2ffdd8156",
+      "after": "05985e0679a4e114608b868fff167570b9a8409d0c9ac85f4db41d9319d54373"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_rod_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "906bd8b28ae39b6495aed230343400e20a400adeb91384d7523da8bfdc5d6c0b",
+      "after": "f9e365e4ed41cfe2c6d01ffac018515cc03bd58d7599703a5479946e3d0775c4"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_rod_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "fed58574ffc7336d10ef6c0cce2d51405d9205ed0f6454e23dccf5a81f055f94",
+      "after": "f778641276f6dcc6fbc4207e320ed71a1864657d4a565df82d375cee5447c338"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_rod_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "d4c12c7b9fd5a5c685ee90cd48032342f4a347803e5fe65c68d27aa9da107abf",
+      "after": "6ec02d0e0e2dfa2efd2e940a43c9b96ad65d18eb975673acddf53b2ef4db1b67"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_sul_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "7c65623fb3d94929b0f0f0c4309250f4e7a883bcf7a69a9f1cf1072e81ea1e02",
+      "after": "e7c8a8c90e36695133ca9fcca728eae5dda34940cdc8c7be198e3f77c65e8fd1"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_sul_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "21299843eac547dbc23c8ccfaa46ab28376f390dc291c256508d7a584f6a771a",
+      "after": "478a5d76deaf5e9b3eaebab24134e9d47ae9a3049e1ce66cbc87e3fd900ee815"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_sul_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "05b6e954538e150ede163a16585cc6a889a6561dfe772c0be1ec5da55682157e",
+      "after": "6f8938920c1a0a20f7e27a2d8e88042bc3c58912ca3215241b2d3760fcd8e1ab"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_sul_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "e45a6aabcffab883801bb7d65a38593afee1ca9cb8da74bed2fd12dd58343c0b",
+      "after": "0fa14b2c375c65db53ba4b2d17babfa22437cbca82f700b8bd86ecff3d7e9049"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_sul_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "29df5a308518c8449f3bca353174ccacd2d3d46a09ea2d6c54b530041251b8fc",
+      "after": "25abb84c76d1dc171554e066699f3dc4d90182487de24399ef06a718498f82fd"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_sul_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "3fcfec9e38e6894888b85d1b8d3b03cd87054f4240d3e1c40bd07d140eb84d22",
+      "after": "29ed2a4b182f9a12bec40834de9b319d771582218910d174b0b6b3ebc6b56bb7"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_sul_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "cfb4cc8d4324e49c8315e1728e7f0affd6bf77cbb0ddcdbab1092af7ade4ba70",
+      "after": "ba46e1faac2e1273cef12bbeb0977fe79f8322816b504a775d20c29c02fdb479"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_sul_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "a0d14d15610ae32c58d8883bee33f0e7b1d5d1690c1fe9a257e9bfc28b07695e",
+      "after": "c9d063166c7f6b7a8e3dd2cfd7b8e95846ce896cfb663f938b7f502a71c78d57"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_trn_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "9ba09990add52e4a05f1094dbd6afe7580b8bbe8d086427d7e256f48b6f92d8f",
+      "after": "bc2e574f977232d145af90d6c1e85ceb462085974d10ffacb034ea077a2006e6"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_trn_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "dd88631df4ae88245837708e146c4f4121c871082e58a344a85551a69b7d1837",
+      "after": "8fa385cc20319d6cab6dc1ded8df31a1e886d54cc200dc2c7d63e72eca9a5af7"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_trn_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "1a0ebe8a1ac7ae8e6bdf1e212e4107faea99a9692351fbdf658b4417a5032254",
+      "after": "74870aa35c0749e4f073272c17ea9a73cce752bc32ff38ffb1a9a241b52961b6"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_trn_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "69908c48bd95046b30a611676a2e9c62c2c8caaa4124eaa68af5feaa1b99069b",
+      "after": "fd7d398a7eb01d07952bcdeca19efedefb2870cd1507352ca70f010ded97c2b6"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_trn_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "56072624c4c00f3a874c695b051d4a15c0d343adf8dbdc46b578b6a6f6ec43a7",
+      "after": "9e9660c817d3e6984a31037bef5d24d0ce2e8883f3a508953ebd293b71c557f9"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_trn_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "b3948c36af9fde062f10188d01979403fd51d1177c442513a520bc9dba830e54",
+      "after": "57e90f43e86ddce22eaca4244ba255e8737e83e3d873ddfaf7dc985419ecda10"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_trn_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "4b8a51125aa6e5e2bee2eea138626851a6bbd719867d8587706fea1fc2a2309a",
+      "after": "fce230c489f8f37b1044d5e1d507b159ba613103ea9bffac06d755a8af13f45b"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_trn_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "ba70d3a7c290350fa6d3dd43071c03800ec3689e12939f56801103fbef8fd7aa",
+      "after": "16e9b7d960a099e88e5bb2bd62a54befda0455ae43b8e620a756f7c94eb1b61a"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_twk_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "aaa31e9518220a83d7fba5647fef7e3eb23981ca9be0efc5481dae99c0cf3756",
+      "after": "f6d43d815bfb67c38980c51eb98dd75ad71868f4e4181e959db6a173d7a267fc"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_twk_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "23b3c9cba9a234cb6fe80a8e9758cb9a81b9c8fbdca8b3961cb9c49e32d30337",
+      "after": "10f055af76268ced4e235ce76773682f5fd1021dc3a68e26ab58943dbf86e30a"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_twk_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "1bf8f9ac5444032f567096c5f7b6c2c66b6822445f73f288230b4d6fbea9e91d",
+      "after": "bcffd2e36bfdcc3c2b4746ecf207f796088f769d430b7a38dfbe789303e6425f"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_twk_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "030105adccab64578fd7c2ae782a0fa3d6af9d5be6d704249e5f3fb4a0f967a3",
+      "after": "b95efa67dd6683691824feae3f4b2187a3051a0176ef288ea7cf26bc82356adb"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_twk_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "e318f6ff22e41d922ed28a7368dbbf52ff6e0e09bcaa98d43f97b20174eb921d",
+      "after": "72952ef1cfbd732bfbcc37ae6ab5a78d3af13aab1b4e14e6640ba0de8acfa704"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_twk_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "200a46a30d7a1754c2bc3ec938782ce7d55f1a51d12824fc6ed00636ba2b37c5",
+      "after": "e7d9a23c86d21bd49b2dcba0400b052e4e3a4385e82981cb92fe1164ad7e526f"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_twk_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "d25ca653c4d1f0c413c672178b3954a3c829475aef2745cb73615a2913c3e57b",
+      "after": "6651f610f531465fb54ac21b1a635486304a0f31db4d7898d851443cbbfe377b"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_twk_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "651fc42c8b032dffeee4d10e19d43f44b9322f23628b784172c4b2f6ffa00ba7",
+      "after": "1b10da757d61066bba546108f071f3376067b1a1ed521568ec6bc6450a0083ff"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_wke_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "ccc56da42bd2e22e346ad3e3a8a3c9cfea63ae2d33b71f4fcd3a9790abf30092",
+      "after": "eddf6b688ea7458ba49a8767798f3eeef6a3f0ab56dd0a4978c30670f6f2d43d"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_wke_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "1f9ff2ad895951a298e35bb64232d7d36daa9b7720578ada9ca06638c471aec2",
+      "after": "ec533fc8f10574a3780d33a2fb6ea019b9090681ad0994aacfdd38b7b660883e"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_wke_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "efb967257593988dc0bb143a7a120ac1534353e698faeb572436fe390ee027cd",
+      "after": "767828db87b6da8cf21b56afc6aa722017f410a75ee60f16f6187335566cbe46"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_wke_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "c0592bc57dde9f8f576f3f54ab0e509d873e3ea2199fc0ecf4c529fa0ef3230c",
+      "after": "804a857047c472ef1ff3d38acb881eb74ef6839f4ad6bea4a5bd7c0507589978"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_wke_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "0c282962e0d16572fe1eefe780415cc6e34cb820b40f9df52074edbc21b802e4",
+      "after": "b44c046af5c7b68df8256cd24163217d4144558ed28ad1d081db78ea59481e39"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_wke_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "39342cbcfdbdc94c9c7513a5de18b4000be0e5ccfdcd3bd2883f6bc8da19f2b0",
+      "after": "aab4c759ee4895cbc9bae2b33cd6306cd438f0452ddc4622a13ab2f8c8f88fcd"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_wke_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "009cfcdbe2e0480db5ca00e3d8e9d9d39740bf635eb5ab27d72f587cc1c85287",
+      "after": "4dd55fb2c119c3398b476a0397c2d7a4c955ba580fa72597f2c98b15a1e19e28"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_wke_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "88c8221786675b2553d3ed41cda179b28be30084fd8abda4c80ea7dbb1d50740",
+      "after": "2a1a78aa585f808fcd778e212f66a9a458ca227046028728fa2e60bbcd1889af"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_zab_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "14c9770cee0208ddf100a4c7ab79a47bf0a9b69cc37f4c1f52667557c4e54e69",
+      "after": "8b0647b9fcdf39bee0124b8d6f32535490a901adca755285f38434fcec7602d2"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_zab_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "c17e7ec66db37de63f80c04a0de24479da4451b768c3d9e4198a11170c49ef6d",
+      "after": "15d82df04569706b3c6dfd7df0074883699cc5cca12f05a94b15a43e9836ccf2"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_zab_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "5b49f97f68eb0e331d41d8514d54659653d8d947474794a81d43ae1f3e1f1c73",
+      "after": "6503e8d55078de2fd763c3ecdd374eab9ff94614cb1f908b57cc6e1352babb1f"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_zab_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "984d1561ec646a7fac5ace8c1144d9de578aaec463fdc7af635d649094ef3a4e",
+      "after": "9d19216194365f14480caf3c679a2c658cdec9b90c1e66eb625ea6627c408f29"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_zab_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "e318f6ff22e41d922ed28a7368dbbf52ff6e0e09bcaa98d43f97b20174eb921d",
+      "after": "72952ef1cfbd732bfbcc37ae6ab5a78d3af13aab1b4e14e6640ba0de8acfa704"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_zab_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "200a46a30d7a1754c2bc3ec938782ce7d55f1a51d12824fc6ed00636ba2b37c5",
+      "after": "e7d9a23c86d21bd49b2dcba0400b052e4e3a4385e82981cb92fe1164ad7e526f"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_zab_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "d25ca653c4d1f0c413c672178b3954a3c829475aef2745cb73615a2913c3e57b",
+      "after": "6651f610f531465fb54ac21b1a635486304a0f31db4d7898d851443cbbfe377b"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_blue_zab_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "651fc42c8b032dffeee4d10e19d43f44b9322f23628b784172c4b2f6ffa00ba7",
+      "after": "1b10da757d61066bba546108f071f3376067b1a1ed521568ec6bc6450a0083ff"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_bth_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "8598aaf12c126a59e663f5b98db0a7ff80ec30d4120501d810d763b64d7fee8a",
+      "after": "d0c01fe2660c17c39638344f66f0e6a84bd2ffe591642b247c51463cd18cb0b4"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_bth_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "cef7bb703df8cdce124c8db0ddf183073a8f8286408457db4fe1c6b0a09af783",
+      "after": "65afc6d0b31e503b7c6113467b49f1f3db75b65e79c51696e77dceed2354e8bf"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_bth_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "9933668358eb1b19779a10afef381932fd3ae33eb5903227c117b0f8c214761a",
+      "after": "0c97b7986350a5a86d5b558e83a7115a927fe968e25dc719cf6bf7a6bd6d5886"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_bth_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "cfbd4a8b6678c3b84eb924af54360e5bb61a4d0f43d5b47048e7e43a41b484a6",
+      "after": "476866b6befe7a27b623b8459601b7d1193b920bd3ed76f535c24e113045e90d"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_bth_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "bc8542ea99945e05cbe6f49dc8c4e6a958c930e69a45af5312c8c597474bd3dd",
+      "after": "efd1c17c7dbfcbd20a47bdcb7434cac5c922cc13a6ea091ea3554000581bc1ec"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_bth_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "9e4b7df1856feeeefe9b04c7cb0d7383c409d1aed139b6671e16c9bce40000f8",
+      "after": "c4ec3270afa9d8935b425b5dd7aff8b62cd126d5e15f65899435b3cd14b7f87d"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_bth_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "2c58c38d1a733f298d81182194f2c29a733f0b6ffa8798f1cf93473dc4d6126a",
+      "after": "651821ceacd50a692643831fbc2a94c9cce6e9678286c83c8b34b20047a295fe"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_bth_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "46d17d1ebac3dc204ad87686941200405a7c3fe7c233f251b8aa32f3467d18b5",
+      "after": "5a37439c0953141c94eda4161cf4f4f833b64e1af38705c4c6639e7e039f349d"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_hum_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "54b111df216aed4f4d14123f1f40a6590699462fdbfb5a06e360e75f0337128f",
+      "after": "aa8a5cf78a837abe3c34fbc2a0e5216629ce6c90aefb3bb5e62f269c9b3ff594"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_hum_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "3fdcb7f70f83d5e1edf4b37f7b77cea46f75fc568893561644c1b0c07c7b3d92",
+      "after": "a74df6f64f6928d353d8ca37d66f4478de9dda5dc96ce83f1d8a191add3b9eeb"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_hum_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "0a2bd74292beb8f4aa95141617e61d8b48ca1b3db6b0233c8da5c53c0db4a289",
+      "after": "7ea879329fbcc054a13258b21a6c62f4c3af3b4c68f2125aa99b7ac0ed59c7a7"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_hum_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "2c314dd84bedc3985f6323eaf9938ba1bcbe5d07f8372e0ba81bab201eb8696b",
+      "after": "db0570294f79add502a6b76836a53d5d4f67c1d392111cceb6ecde8853c9b63b"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_hum_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "8c6f46833f023cb5883095f017d5db2a414655d59950f4113bf5eb73ce194273",
+      "after": "34c772c35dd81cee32fae7ba8c40db217207610bb2831d3396a93175ba9ba595"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_hum_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "537ccaa4e013f91532e397aafb9fad0b4e1ceeccb3ceff50d023e38b3a300528",
+      "after": "040ddfce2673ff45260849a4b0445b49e1664e40e0865b17e67870752827fc06"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_hum_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "ae121141b11f1153087888501df0318cebbc9cb234e2442ac7873243d994c943",
+      "after": "3552eec3047065d8d1549dce161d7adace32c69556383cbd3bcd639055c00f31"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_hum_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "66931ae595ca5157955f4f5c1d329b06c3081d7b7af7e4a645b614f897cdac23",
+      "after": "7369f30a34141addccd04baa48e5d0d095a4748db1fc5229f93fdb810398a3d9"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_ith_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "c74a114b5f7e1cfe08f13b631a5041d17ec3a8dc7148f433fbbd4a2e2bd29fe2",
+      "after": "ae4e4ccb53660dba6d26e41609c93d83a60c2966ca8d07c3b408c2d122026318"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_ith_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "7899d2deaacbd1935ac1038f578cea1387b3dabcc53f98ad046c91ee6b8aab1c",
+      "after": "09ec87d03f93ccb3fa73a650e7abf0005b500c8ac6821f472c7e7c5f0b46f43b"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_ith_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "d70655b22f36035dc3fe4444f832b28aa21da07439af9d208d7441d964ec9bd6",
+      "after": "655d03b5770e8729f7a3bdffd463bba14c61bb6a79cd219ad9c44a5f79b59ea2"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_ith_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "1f375b811ec57b0628f990aada8625c95a2810aaa5a5deb33998d123d2f941fa",
+      "after": "57e1e60e8e1d93cd2be6255ddce8a595edc2ab3b0dee626459aa58f1c88809c8"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_ith_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "179123f76b8e942096ff9ae5abf6f28fcfbf0518a17d96cce02998a7594019ad",
+      "after": "90eeb21afcba81b074b33c5937c73f7c0364c26b91cda52eda19c7c50cd52b5a"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_ith_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "858f5314586099e2f3ff6da2c34810aed4b334efdaca2526844e2e55530b4d2f",
+      "after": "e98df04e6b4b72aa3adc7e5c8492401bfb896e621a4c587e0cf1271f939aef2e"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_ith_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "20c3df0b0842db6d46f1f1830befceca3e9308d55f121970c1e39b326a798b65",
+      "after": "7ea514d65da6a279eb5fc59b1978d0d42a554ed2b6a3f336024fc828a852bedc"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_ith_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "da79ca318c801a0b2c4f83618653de831f4246e28f204a1dec095c6e7a1520ed",
+      "after": "63dc85462d02e6094057cf9e94eae23b15b2f23afc32f9731c97b284efe950ca"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_mon_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "5a46bb4cd9aa5f43d06257461168d439414b8906c428f3590cb30fbf2044d24f",
+      "after": "ef2458cd4ef6004c251a7bec84b456c5098d124e9131ab9fb891bf987ea1454d"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_mon_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "3f8f07cbeb20d4be279d03b0abd21e5c5e96de661e774b369da97ad8901748b1",
+      "after": "e17342ab5ae60750470cb4417812ba006594dc05a1c72e80e6aae60145508d66"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_mon_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "6fc0f3ae5099bcea6156f0a531fd5c2d91acdb3d8d73fb6ca5cea39ff588d0a1",
+      "after": "7900b9cb2839f2cedc72a9a2b00c5e0e0792050201b8ef11bbaa4737132cbbb7"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_mon_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "044e9221d852f907b413640e91c64ad09f333ecdc7050d5b1d5491c11a3d8e53",
+      "after": "9f97099ac101adcc172f8e3c4103f1a8a921c8c82c81e242a8c23437c186c6fe"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_mon_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "bc8542ea99945e05cbe6f49dc8c4e6a958c930e69a45af5312c8c597474bd3dd",
+      "after": "efd1c17c7dbfcbd20a47bdcb7434cac5c922cc13a6ea091ea3554000581bc1ec"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_mon_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "9e4b7df1856feeeefe9b04c7cb0d7383c409d1aed139b6671e16c9bce40000f8",
+      "after": "c4ec3270afa9d8935b425b5dd7aff8b62cd126d5e15f65899435b3cd14b7f87d"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_mon_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "2c58c38d1a733f298d81182194f2c29a733f0b6ffa8798f1cf93473dc4d6126a",
+      "after": "651821ceacd50a692643831fbc2a94c9cce6e9678286c83c8b34b20047a295fe"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_mon_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "46d17d1ebac3dc204ad87686941200405a7c3fe7c233f251b8aa32f3467d18b5",
+      "after": "5a37439c0953141c94eda4161cf4f4f833b64e1af38705c4c6639e7e039f349d"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_bth_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "a3d993c985a30975ebff6490c10a633a593d5a0340d87eddb340eda498e6b42b",
+      "after": "f7590dcef910005e7ab8106a648883b3bae1f901f103e7891ad0d855609d93c6"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_bth_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "4f8c5c97c02decd54b414db793a36ef98631815e2402365c043b57ea98513e93",
+      "after": "776f663a4f4dd1b722a29d8990cd20e4f9f62fa810010a7d7c2b74441a71a9f5"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_bth_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "26ede17af5d036602d5b766f1e44a283201d7025b85d90b7bdc5b70f1294b928",
+      "after": "2e2f371e89deef4f16ca8f2f472dfecd73bf58050b12d051eef69affc06d89d1"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_bth_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "6e9c7fa80af423e982813a4f0433530dd90604f0215c54dcbf1653560f51dfdd",
+      "after": "e292e93002b0d7c76dfe0f72fbe2e7d61bac644f76302c6124f8f98acd5733ee"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_bth_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "6b2b0021cb665b79675bb81658a819a8897659c33ae7703e82ec4dc0da1519d8",
+      "after": "ed8d930a4e124a7523b13078588b3098bd0e6a18d61d80fbd51313c4a9f516e9"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_bth_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "6a8acb461c6f57ef17df4686bc541ebddabf49931c7e7fd060072134d61f97f8",
+      "after": "a11029ca5fa2d37ff490ade6d8462e9bd5e0749f8982026fcdb4cd53441d9412"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_bth_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "3ede5e7d4595d30fff819d3b6f7fbe6c7ed3de29974c373d8a301c56d0ccb9fa",
+      "after": "fc0096ce3f6f96aa670d2c4e8be9ab4c30679c41180e55bea53ceeabfea0e787"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_bth_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "bd55b6dfdb4376380d0782c98a0b79b9484f3806afd7ee7c5b42766af67dff9d",
+      "after": "8ef0344080e3c63df2874221c9062e3ccfff9f45c4df67a900b1bd589c05a81a"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_hum_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "451db87f6247ceaa76bf193d736fc4c8f8007024c76e9c83223ee6c3d29c975f",
+      "after": "ff04a4d1576223138d0d268b30c96304c4a838f5f348cff0c2e244adefe5e748"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_hum_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "423601c451725b66132f92b0ff799f1fd145db7c14e7425d2702f93be8abf586",
+      "after": "731994360461a7ef2d64045fa4a71f564617b341fc741cf3553911d637903a7c"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_hum_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "b2463b0725218fd714211db0d837ce1c75faf225a45997b32d57de0aebe72d0f",
+      "after": "5ff57a66e07927912570180074195790cda85a618f866f44daeabf17ed8766c8"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_hum_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "43466cc3878328f13f15d65fc5388c362807b2c3f5d7835e29648e2935b27da6",
+      "after": "7b199f77bfb896a8fa8804e652942e64135b471dafd499988febb662a6e7fb7a"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_hum_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "f11fbbdf44960bccb14ca8e4f32a882ff06180e37fdebd1050f229c971dd7ff9",
+      "after": "89c98b40a358fc2e1b8871ff7b41ed884107a4be432b5e85322913dd4ce1b228"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_hum_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "2798a819ff22f2c46347897c7a63c63618b1395e3fe3217c1410c56377b3cd65",
+      "after": "cc343856911a8913768c2e26b9a129ec9f3cbab91625b875ffe7bdd276179eaa"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_hum_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "af2f0d2269e4b754fc4f963ac440ad7d9d2401cee2030aad227f8e30793edd75",
+      "after": "ba953035a2ffee0b182bfd9f240361e8d9a7227f2bc246fdf55991e61f644510"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_hum_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "e41a75e5bcdd9a28c790decca0efd28b593c87abba7301d567eeacf1a6099b69",
+      "after": "6419d0dfe0f15e07d467bf49cfef0c506e6dee68f4e6c663620eaf0c21e090f1"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_ith_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "9b1237db6589a988bd604eedad06e118182cda0a365513af4c6ccf21fb67727d",
+      "after": "bac5faa867aab9064efbf49727efe412dad272f2bf5d844bbff39aeb0efc9562"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_ith_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "efb1fe31d7e1ea6d3229eee58a3e2efa96fb9b0caa81a45293c68393ae3f03ba",
+      "after": "5ef3e107fa4f9f6d3e8763889ba51cac773b800aecae346a14089aeb7e8da4e4"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_ith_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "202d072cc4f585b19d3bb4136db95cfb6f4cd88bec06e82cb51004d9aed66790",
+      "after": "ac159d21dfafd050da612e055c1b4c06f6327e2e9db93d2707e97b76de49b1b8"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_ith_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "2b1ac3d10da87da131c4aca8eb47a133b931ae0717f481e6252b7b0a80976893",
+      "after": "350c9d2db734a3f9e1824fc591b46084bc5625727cdbdd2e159ba975647c9414"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_ith_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "247e86c3308a1f2db543faa7abf094a9cba01ace954b02cb23f82c632b902212",
+      "after": "ac5650e42be7f1e2b5588ec70481f0dc6340e65f8d3562edb21728558bbf9d0e"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_ith_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "04fafc3fea5a345782e9b7f16dbfaecbfb1e1b69d626d3dbe9db83cc2d95bd8d",
+      "after": "6413b5fbc5652ee8e381be0cee1886d0e881a9e2760d8dd66c17e4b46c02a103"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_ith_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "4c7d5137b44843f75c063d50641c177d5d9728fab0208db9950be08140c8e141",
+      "after": "dfdfa2f312f1497d5fe51e503783c5a53427e16aef12b8982a241c30204c9366"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_ith_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "16b6985877a3370a304d8a85a29517c68ec27d5f6616b2ca8953c8da9f6c53d5",
+      "after": "369da2b35192443b9832b1708a0117a19303322e4806d6f06c44d138645d0cc1"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_mon_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "679375edd90a3c45f3a6e541839bc01fab3b923a53039e310559003330851fcf",
+      "after": "ad5d62736a52e7e4259b13c52b7830ce91ab5ce55c312cc5de7e840a3dd391d1"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_mon_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "46ce71f122ae56e05226c1b416691ee3bc449adff1fa58cc9c8539bb302ffd30",
+      "after": "5060601ec0ee9cb57a0812e7a911b9a54d8c7c961e5767e619472af7b83bd95e"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_mon_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "2fcd1fe7eb1c59ead286fdfad03eda2e93a5d14c6f9c21b9bd611f85b663a4c1",
+      "after": "ff1d067d820164d7435ce196e1fa613639f373dc4fc57ca6fbf0d01e2ef2b353"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_mon_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "21e49ccd8de249307ab42dd1e7a0f8bca54b7dc0f1a404de6090c754c3f81a7e",
+      "after": "5efadf69e1fe53a196a871cf660a9fcefd030569e7a6eaf6feafd2b9f4fffe55"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_mon_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "6b2b0021cb665b79675bb81658a819a8897659c33ae7703e82ec4dc0da1519d8",
+      "after": "ed8d930a4e124a7523b13078588b3098bd0e6a18d61d80fbd51313c4a9f516e9"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_mon_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "6a8acb461c6f57ef17df4686bc541ebddabf49931c7e7fd060072134d61f97f8",
+      "after": "a11029ca5fa2d37ff490ade6d8462e9bd5e0749f8982026fcdb4cd53441d9412"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_mon_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "3ede5e7d4595d30fff819d3b6f7fbe6c7ed3de29974c373d8a301c56d0ccb9fa",
+      "after": "fc0096ce3f6f96aa670d2c4e8be9ab4c30679c41180e55bea53ceeabfea0e787"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_mon_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "bd55b6dfdb4376380d0782c98a0b79b9484f3806afd7ee7c5b42766af67dff9d",
+      "after": "8ef0344080e3c63df2874221c9062e3ccfff9f45c4df67a900b1bd589c05a81a"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_rod_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "679375edd90a3c45f3a6e541839bc01fab3b923a53039e310559003330851fcf",
+      "after": "ad5d62736a52e7e4259b13c52b7830ce91ab5ce55c312cc5de7e840a3dd391d1"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_rod_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "46ce71f122ae56e05226c1b416691ee3bc449adff1fa58cc9c8539bb302ffd30",
+      "after": "5060601ec0ee9cb57a0812e7a911b9a54d8c7c961e5767e619472af7b83bd95e"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_rod_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "2fcd1fe7eb1c59ead286fdfad03eda2e93a5d14c6f9c21b9bd611f85b663a4c1",
+      "after": "ff1d067d820164d7435ce196e1fa613639f373dc4fc57ca6fbf0d01e2ef2b353"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_rod_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "21e49ccd8de249307ab42dd1e7a0f8bca54b7dc0f1a404de6090c754c3f81a7e",
+      "after": "5efadf69e1fe53a196a871cf660a9fcefd030569e7a6eaf6feafd2b9f4fffe55"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_rod_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "8a9a4c1f7636cac362073bf314aa153e72fb88a3b8e633ef72adf1e413da7422",
+      "after": "93c57c813ddce99e7d6aa73466409a029da8418e4d9015595d93ae884f79f93c"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_rod_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "0630b6d4e27fe4a7821c196a573c54e39766e22698d9147ce27127c14906fe4a",
+      "after": "a00ba557e3029833e4ecb0780bf329e04f686cd07ae7e6c0c39bbec2513df909"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_rod_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "ed3340e157f19063ce5a62479889a17c209fc686da3b0bc9ca55e842a73596d5",
+      "after": "c0822e632822710b918299dd3c65f55893f8b7710f9ea3eaf40c380e3000dee5"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_rod_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "f22f591f8168bb01a23941b06b918fc1fb3a8316079171e982235792cabd3cd6",
+      "after": "5f52139a4f2e56bee43d4604d8e87f4079aa00ea629c1447e5db43503a3ff73e"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_sul_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "38f704342ade59bfccb76f79fed36d154469fddeec5692e25cb9e8ed83f4ffa7",
+      "after": "4c4479e23789f5b38280a99ebe56faa2a3ccd837278eb581b6c356282d012d9c"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_sul_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "195e0f0067fd7ba1f58bfb5c4c6e0eb73bd6dd3000fff3c38fede9818119a552",
+      "after": "af2db19a5902368c7586aadc88c9fb52490bd5e0633403cdaf400907c9bc0211"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_sul_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "0d4e1366c8005b682c8cfc8c877681c2fa788855fa0e89eb99de2bfbda40b361",
+      "after": "4e01e6c4add40a134a78f860e1785bb7e476776bd1e7c8f8044a9bf1d6d5f1b1"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_sul_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "303c3247a516dccceeaab89872da3ed8fc974ee4997cba6aa19011583e956d33",
+      "after": "852742c3f536a4ea5299fcea3fe74d1af85a8f638059e85c44921bea8173b2c5"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_sul_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "59d7753fc33d0657bda28641851a4a9e68db70b2e182aa64edcb648ccc8a551c",
+      "after": "58ca52fd540cae87a493ed6e08a8215524c84ac2e36e811cbfb68fdb0de6e891"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_sul_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "6e0f295db657fe604c03107abd070cf3bd69f1f1fcd3973cc8f856c02ba450b9",
+      "after": "46d23a9ac6efd7c06d2ca35a6c7e16fb96e61ce6e4bd5667c6290f10a4b17353"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_sul_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "4047d1893067ed7d9595c7907ceb84579edcc07e7850f6137d6101734e9a7f70",
+      "after": "2b3e4c7ca4c95d1eb6aa3c256dc1aa3bc4c3386ad7479f8dec3d57161828247f"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_sul_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "7cc23fc145b8a6077733131879377a881f12057f2510c559e1eac11d6e8a946b",
+      "after": "37473f8bb3d0f70f8da2613614815ede08ab8ef456fb72cf4b384849d7622b72"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_trn_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "e0f6ef797f6b526d0a1695b3fa6e5281c311c0c6a5e9ae0d30f475b197d2b97a",
+      "after": "772f69a2d73d615d9757e79d8ecd9ac76ef23739aaf4b4675de92496ba57fd39"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_trn_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "68ef2ae41f0469641ef0f3bf8a60e72d335ec869cc2ba50e98fac2c12aac73f9",
+      "after": "2cd24a1948239d0c44c0f98542e6e3cb71ae1bb332d0c12c4230902648128cf3"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_trn_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "a866ef786108d4b6c267794ca15ed442bcdd012d41fe598034f4a3c1baaac081",
+      "after": "95aa8aa1d967eeb8cdfb0c92a151a21c60e46268a9599cccaf73a44d805fdb7d"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_trn_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "cad53c46893ff1991a244683d70ca6b17024acd822a7bca11176ab2430cf5722",
+      "after": "a2cdd9c5474949fd45246e603f39ab258db91d8a42da6fcc321d97970713707d"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_trn_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "6cc5de58363ddcaaa890dc6b7ccf01d7226f2d68fb03bd0f9ede5480f92ead0b",
+      "after": "c90c4c8c1354887952f61d3cb42a5e19466541f2a07de3ec021bfcb35454a6e7"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_trn_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "61c5f4031776d7d104408b9b58d2f989d95868e9ed13bcb9efb67d7f581c8b77",
+      "after": "8577b43435c8fa476d3b3b54253830bdf1172e2866473f0a007313a44809a1a9"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_trn_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "c89b4478a8b5ec5842d293d98b36f3d3ddf56a25b5a10c9a91d5ed9db28bd061",
+      "after": "5d186fcd944acd22950e23c2cf9c1c6dbfda30b35984000d3d84d0263af28788"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_trn_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "f3c8f4664f4c5945c86f3100b37b2c0ac32986c7e51182c5507e49439ca82954",
+      "after": "6b59e9d7c8b023371218d85a5e40f563306d9dfbb3c02d85618d495b5dc1c6ab"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_twk_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "b82731f22739ef801dd70c25333610f42f55eab3e881336a9716a8a2042a5c46",
+      "after": "f16a0479bb1c31f667d04cdb5ebbe1e380b83c078e2ea087db42a2365a78cb1c"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_twk_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "24b9cc5ec68899fcf535ee2219793788e3b23bb11fcce92ff74155c8e247d127",
+      "after": "000a400481cef01406d40509df5e6ecdb5096b823355e9c0825c2d81f02ac4dc"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_twk_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "7e49c023af23f09afc02b866ded09a9538df1544c01d944a54cd5a9b33b849df",
+      "after": "17f8d7fa912ddb7acbdb6fcbae27073e4c6a72bb04c2f0a33b8d4e957937f377"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_twk_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "b00ba9208410681812f095c629242247d83f4427707436e49a635bac76ecf3ff",
+      "after": "db6440fb7f728c8ef20b053c925834da156e4fa9ab70e27edc8def03d63a2813"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_twk_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "942be79b8b104c97ff74a0efd6573ddcef056e78c345236a827a650a9e210eb8",
+      "after": "32ce2cc2936c52682e6dc1b9b002cf45f06785d4230815a221c0cac738ed685c"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_twk_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "0f0923edc7ca998f7c82d7a6cccc53724e8d6796a90503c3ae377f2f5113e0ef",
+      "after": "58c1330feb4bc1c421b40036468855ad2518418e771cb6cae6715950d43b9978"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_twk_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "0c5f9c51ea1e073f399dfd54ae97c578920bb9575cadadb472cedb45194695e9",
+      "after": "94801876ac71d9cae636e5742c29fe4bc353e9dd11175cdbda32f5d32d63e5f2"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_twk_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "c6ec26580721e16ce523909285be5b19f1b19364c2ccda6e647fbb4671ba5937",
+      "after": "fea0504ebc48afe32dd23d69e27080b3c1983aa3d0b64e0198084f3cd418854f"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_wke_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "dfb3cd3378f254726986fc73fd449c243edf8a3d2bc39199f87ad67d3a6a74a6",
+      "after": "ffca149dbeb1eb2212e69bf9908bd632fc435ce5a65dafd2a24f5fa5e5cd71e4"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_wke_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "a233a2f970e4089055c046b4932223a25b0e4529dd28e9c403302aa455f3ebcb",
+      "after": "eebc724fd461091b6389f005c3e2ff0096d8f750d163788ad785e9f471a211e1"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_wke_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "97eb67a8acfb1089c74acaa32de9f8b66e10473692883f5dfe3a98b3b18d10d6",
+      "after": "c0bd5ad9643d4367f27f95d0976c3ec4b62f39b8d129d6a54cd334e8fe9a50dd"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_wke_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "1749103a3b67b79997f279a49c75ad8ee647914a11df3779f7e065a3e00f75ca",
+      "after": "ab1a157444a798cba01ec09a9f959de9061e8d2e40187acdc3e0dee539e0a719"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_wke_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "1a7439fde892c205c371ffc008c763472a6b88bf886c3f0d3b034815b83f0d74",
+      "after": "3e464ac8e0735bf092321b7a0678ea81782f57a187c868d5b62c23c2dc10038a"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_wke_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "09f1502cb8c0ce209af6dda70614d495c2ee45fa4a1608f297b3954f0b2e7fb0",
+      "after": "939e52bc2afce9f43e14a5b7e33afbec7f7169e4d14ddd7886debfe3b8cc159b"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_wke_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "751e917c450a9313dc3f9c7f03a09cbdb6b517aa24276537252163c66ba0a164",
+      "after": "16f0563ac8f28ad835b57cb94ecbc27ba782248effd8c6f81c54b522faccc87e"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_wke_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "318e446ab7fdc91f0107030e4af6e036ca8609379e1b7347fde2089d75c42f6d",
+      "after": "42a681c2648bcca3084398842d12d7466eb60913f2ac6aa9f6822d75c2315eb9"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_zab_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "451db87f6247ceaa76bf193d736fc4c8f8007024c76e9c83223ee6c3d29c975f",
+      "after": "ff04a4d1576223138d0d268b30c96304c4a838f5f348cff0c2e244adefe5e748"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_zab_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "423601c451725b66132f92b0ff799f1fd145db7c14e7425d2702f93be8abf586",
+      "after": "731994360461a7ef2d64045fa4a71f564617b341fc741cf3553911d637903a7c"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_zab_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "b2463b0725218fd714211db0d837ce1c75faf225a45997b32d57de0aebe72d0f",
+      "after": "5ff57a66e07927912570180074195790cda85a618f866f44daeabf17ed8766c8"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_zab_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "43466cc3878328f13f15d65fc5388c362807b2c3f5d7835e29648e2935b27da6",
+      "after": "7b199f77bfb896a8fa8804e652942e64135b471dafd499988febb662a6e7fb7a"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_zab_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "942be79b8b104c97ff74a0efd6573ddcef056e78c345236a827a650a9e210eb8",
+      "after": "32ce2cc2936c52682e6dc1b9b002cf45f06785d4230815a221c0cac738ed685c"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_zab_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "0f0923edc7ca998f7c82d7a6cccc53724e8d6796a90503c3ae377f2f5113e0ef",
+      "after": "58c1330feb4bc1c421b40036468855ad2518418e771cb6cae6715950d43b9978"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_zab_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "0c5f9c51ea1e073f399dfd54ae97c578920bb9575cadadb472cedb45194695e9",
+      "after": "94801876ac71d9cae636e5742c29fe4bc353e9dd11175cdbda32f5d32d63e5f2"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_red_zab_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "c6ec26580721e16ce523909285be5b19f1b19364c2ccda6e647fbb4671ba5937",
+      "after": "fea0504ebc48afe32dd23d69e27080b3c1983aa3d0b64e0198084f3cd418854f"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_rod_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "5a46bb4cd9aa5f43d06257461168d439414b8906c428f3590cb30fbf2044d24f",
+      "after": "ef2458cd4ef6004c251a7bec84b456c5098d124e9131ab9fb891bf987ea1454d"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_rod_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "3f8f07cbeb20d4be279d03b0abd21e5c5e96de661e774b369da97ad8901748b1",
+      "after": "e17342ab5ae60750470cb4417812ba006594dc05a1c72e80e6aae60145508d66"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_rod_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "6fc0f3ae5099bcea6156f0a531fd5c2d91acdb3d8d73fb6ca5cea39ff588d0a1",
+      "after": "7900b9cb2839f2cedc72a9a2b00c5e0e0792050201b8ef11bbaa4737132cbbb7"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_rod_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "044e9221d852f907b413640e91c64ad09f333ecdc7050d5b1d5491c11a3d8e53",
+      "after": "9f97099ac101adcc172f8e3c4103f1a8a921c8c82c81e242a8c23437c186c6fe"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_rod_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "244360e147ccb6d3bf460b73a66365f96e352ee6a5af52ed20d406148da494da",
+      "after": "f67bb8dbe9fd12fc8a7d0eba1918c242e40aa84e37c474f71483b60a2de18ec1"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_rod_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "90d8363b42dc75e072a8861de1da54b8852c0551a48a5edce976c04faf02216a",
+      "after": "9f3ddd5ec5da1f533e1abe0d07cafaf00f17df02a908b97e99cd5a47e7633ad9"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_rod_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "85b2a012cfc9a114df4c11bf1fcc53ea35e2562b4ffcc848db4eb9c72025a3b8",
+      "after": "3508ba2ece6538baa4c7c98243a03645f414e713f977d9d74e2faf2e8a91b68a"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_rod_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "8509e17912709738db38302f9ccd54d73a2a753cc49ed4aab705bcaf79a959f4",
+      "after": "9aaeeec9321255dc73cc768da42f841b371f828f0caebf08e9e2ad4276278b1f"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_sul_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "e02c0ff2e62354096d6ea87008b74ec8d042058b197d2ad5e13cde14c9f86e23",
+      "after": "77defd29adc3dbbf621c08225416302f1b9055f11803c22c62dc053006fb57e8"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_sul_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "26711d4c9a18f20fe700bdf6ee33bb4edf4e87125d535f538db21f27dc504daf",
+      "after": "3256467a34ae2d898fca8569957712d7e5d793dd23619559f7e43e9eb3d4fe63"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_sul_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "7179907671de458d9da5bb50b6d94afb748d0756a4fe1ac14b7c4f4aea61e13f",
+      "after": "8cdd332ef0992c1c740d545e794b23e5a523e35d75bd36fa9500f63663a2f0fa"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_sul_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "c044a79432643af256d9c515a83809bffffd1a12e65891daa7e2b088fe7d94a2",
+      "after": "618ce99928bb49d03dd70ebc139beb8bbbd59b610379d22e26f7bfbc041d6cd0"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_sul_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "472a8a8e7ceea45c79dbc1ed6a5b9950cedaac35619f7f6c868cec5c342f5549",
+      "after": "104a4fdfa85e23e295e6bbcdfc994958b998d10a2eb07677f87e3e46e608b398"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_sul_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "e608e646f25508ad24c74cab32f93e80ebbcfaea3d475ed25a0e86ebd33dddf0",
+      "after": "cbde2d5238907174e1847953fbefffc27c9a8bb3ad59c61079e8a9e9fc008581"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_sul_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "62e3402fbcb7201c608045611019979b14fb5fb858b1aa0c8e30532e3dae053e",
+      "after": "ef3ce8bb3394df3a1858bbfc7efcffb2e2153d381a20ce7a985e7327ddc9a572"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_sul_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "1f01b2f4f7f7ce5f55d5c8c974c4895b9f683d623415d46299aeb4121a41b499",
+      "after": "00d89856ac40e6f25dc0b0a9efe95f9eb1c590a24ac68ea75900093f5a87a245"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_trn_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "24f360336586d5d5639557dc4408e7fcffe84f07b366cf19d5370f894eb8a5d2",
+      "after": "0628a6b237096ee2e6a72ec937d2e0a08af95e50808cd07a3fd32d9f13e0d09f"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_trn_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "cb670fa6f192465df7c9475aeef4fd957f0828d339994d9f267b87197945ef36",
+      "after": "648286a9167e48ea8957078809ea9a916496813f641e629ea5fe26760684d2e3"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_trn_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "7f3caffbd7d8a25b2b7b2f739b277e39e080001d5eb20075d5c9b7d5879c995c",
+      "after": "bb706e6a0b7d06768b2a9c2d1fdfbbcac7e4736f6b450ce4cf2ffd23c832e429"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_trn_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "04ea8f155ff028f2eb103e5e44a6e06cf921e69300e95951f8700f65f20ccff0",
+      "after": "a0ed778a86c3fa1f1cf575d48bf9a3bcc965e795c6bbbe7493f8fbf7c4328751"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_trn_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "b99803ba35d2eb7654b3cfc76881ddb79903754b9683070b3a485c9f49a3d985",
+      "after": "9682aecf61dea68b07306ddf3f5102acea8178fee808e5ca1267af3161069cf9"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_trn_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "6e387060b8fe7bb28fe092c492b470286074b354be6b45a5a3d2dd698fe2b2a2",
+      "after": "9b5beb06704396acfc0052ca597e4c6039acc55e472204b9d00de13dee9bc6bb"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_trn_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "b96774e49a0e1202f6897e3728a8b8477af9acd3f7afef743edbd07e877ab3fb",
+      "after": "141d11b0ead94aa859e274dcbfac46ababdc2e10e6db0872fd17a2bfbd16c7ab"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_trn_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "bca2a2bd058f77bc792a54e17b01e8b7cf8305a8ec756b05fe6f534bd0be967f",
+      "after": "aeacb1849499844bfe3ed46cc31dfbb6a9244b80b3fe5c0a4e588ac9ff90cea8"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_twk_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "de706b762464220f33c259e3787c6a00c906e888b4682ea337a4f5fd70eceac5",
+      "after": "0a4df33020413f5ab131d5ff2193efb3179b9535593d3831ae20c2b287203e1d"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_twk_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "9d7198fe694355fd125bd77fa4c23b0b0a868ef0d2a5222f0ac4ebd3806541d9",
+      "after": "1d6765a164cdf7baf2937385138cf5a012fcd4abedc0db86cfc79a4050a0d94e"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_twk_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "e892b787b10182f66b4491805c68f6c4d7ba21d176c8229d08943c892fd25469",
+      "after": "f23d4a199db65149732033a97cf10f22166f952afdfb5a92f55cb073f294b45d"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_twk_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "35153bd674d888f8d88031f33dd84e30dce84e67c79928476630c64e3939c31b",
+      "after": "86183cff086c8e9f5e8b6c78a97026cd8cd132b9ea97530e310708fddac50c9f"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_twk_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "052fbd9438271058615dc4354dc02596b0dc8b291cc315347f05bb19c6dbc881",
+      "after": "77fd8826bd242f7d133b678c64855656275bebbba7bfe1b33b775200ba41e806"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_twk_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "1f38db9f08cbe97007b87367227ab2ac1d538d4c0fd7a94cb80c17aece2270c2",
+      "after": "39761d4ea3452f80b87bd511b394ba0440425fd8be2e36d3f00259230b99266a"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_twk_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "eae1eb2569fa620a69ab6ac75e1f028dc2c301f69a0ab3b2c46fc29c6d98106c",
+      "after": "f3fe0575c1e9713c5baf1f276366f697ce488151c59ab3640e39ea23a74d0cc3"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_twk_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "cb285c6714691859d1bb9aa2f636e1214939c19296eb5e8655710b575356bab0",
+      "after": "96d5cf30c1b553471307eddd87b5f383b962ff9218bb56c9e772935da7ee11fb"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_bth_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "44f54a88d1eefd7fc1aa0b0b21f103589cf7c7260bc4acd0ec7a1d2d6b9a8462",
+      "after": "89dfcab49df2d3acb1f1467a7fcab9a4ef714eaeea95610d7278b215d12d1d92"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_bth_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "5d287f10e84664f522224e59411bb6884f7c830ad362c9f3b348a49e2215343d",
+      "after": "57dea02c7618c403f47c591d89bbeb1e357ec7f91c1c00b5eb02d0ccc1ebbe6c"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_bth_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "70d58bfed2da4b04d0283099597ab620be5a311601aba09d2792d64a855bc51b",
+      "after": "a40cd32714139b99d0c23af34146e76e285b2dbc58bd4135649f8f853e58fdac"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_bth_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "8169fb8a412ee08f614696317cae885428334bed6cb76b8d907a3372dee12046",
+      "after": "96ee90ac28480d15c88a6606af4fd1ca80d3bd0e782816b406c7a868a52dcb30"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_bth_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "34482408afc2f569d831efd69d409557643e6d75d70117d65bc5b47d5dee6533",
+      "after": "43da9b8a96bccf8f60da4ed773c61c66d1de19549c92558e02e72132bfbf292b"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_bth_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "ed7f3588a40a1daf3e4c894292a76adda4594172314e34d930a3553bfb5664cd",
+      "after": "294330a609d1bb75ce6ab9237c1e0655f78a88ac25b6f8714c72dfbf5339ce26"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_bth_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "e3d4df638bc05d19c6f87204ae42bfc4a08e2da75155c41feabb4210e553758f",
+      "after": "34741840c9257402f4f77c8fa1fee3324f1e4dcddaf73c08de71b37e323cce48"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_bth_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "c71693a78d5731387356009f06a5dc91562ef14658f8fd79205b953df5db8ad5",
+      "after": "94877cb19fbb767965ebb2658aa12398860b479028552d9a8f617ccd48b71833"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_hum_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "162dc0d5f6c35b0dde277db244409c14fedb7fbd86f3aa2b3dbc3ff20846c31d",
+      "after": "c46b0cbb3c80e69c615cffc5f3433fbfa7d6820eb8b21a5fa1d9ccb057e6dbbe"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_hum_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "380d1f374d059bb6f399ec54b6cb8a98d0507ca521dcb36211fb422cdeab9bbd",
+      "after": "563c9004a16586ffe885a3d2882c2c4c82155a8e55c9a4f6fde31985e4f8f2d5"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_hum_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "1595aafe7f696460a4b357c08d548226b3bff17ce05423346786aac12ca2970e",
+      "after": "0633f830e002c7c738bdad7b6b41265ceee4fa9f945251fae786fbca2b0c2030"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_hum_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "09bdbb21f14d018853000067860ffde55a1ba70ba3221f78a6a4a7a9aca44498",
+      "after": "5fd0a3e9b27d96a9c2c97c692b990aead408fc1b2ee33d3d578f59dc960417af"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_hum_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "c74825290750f63312c0d8a2ac92434f8ea9ca6159a80a8b69f778893d6c9304",
+      "after": "2810a8782afbc2539798207d799a4289231022d40a944ad037b791bb88fceae0"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_hum_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "a0616d893fcd73145aec03269ef94577e6b7809b56557fc4dec6b280f2959682",
+      "after": "635a4da07d26f386bd3ce34ca515fb4f038ae5e6c44fc2f928cf378941c67295"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_hum_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "8224d1f7a90e613c16959de893667508d39b3926c7386832dd77bc681d24b5c5",
+      "after": "35df312b10b2d24adde0602e397c99ef4a73e5e14bee2daab6a60985f07a45bc"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_hum_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "b81beffa27063f351b6c1ea89ef39693999099df435f9444a51d378c6ea7af3e",
+      "after": "483ccfbc868f0b214a03b6af8830c5dd2668a919e9d4f4e5bfda7137db138566"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_ith_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "4ae12855889eece55de391d2190decee59bfda1b64e4d112edf39856c79c7e72",
+      "after": "2c7f7d6dd78c300f5c41cf1cdbd1d4d521df4fec559ae8aca96fa67180331a71"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_ith_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "36dac53562eec2dab50ff94652ffaee5530b7955134b6e039c4420875eb219ae",
+      "after": "bf5423c439f22a46de9e982f3fae05eb9ffb3aa92f6648a68f05524b13e2cc87"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_ith_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "caecbde3de97dbd3a6b009c916167e13fbe4d68923f491076126cc2f37e3d59d",
+      "after": "0ce85cd8d2cb0fde224bb07006a52deeed2c709952170f2890864577ce26755b"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_ith_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "fd7b7d0aa60830c53ab342e0c3cfde06a87751019fc4117d559e24e4638801b0",
+      "after": "895ce2743347ad73cce7178892511e1079c748fdc07f0676575290d18206cc38"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_ith_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "3138510eff9c8eeac68d18e0b5aa0cd6315579adf6066f16f322c42231227337",
+      "after": "6803116e46e04e78f7ff07a48a44f6583b0ef2a7b8a8a517d9b84eb5dd7d0f09"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_ith_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "d286ecd6881e6c61c1c6439568659f5ce51803704144fdc06ab33f34bdde1787",
+      "after": "edf616ab159c518b22eb4904fd223b3ba2c09e22556a0003a14a4a90b18b36b0"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_ith_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "adb67ef75d2c28a8eba5fd4df70e0caec480a7fd3cd77c45cdd9673701d9c7a1",
+      "after": "15b81b971853221545bdfddd579eb7d7fb23a361793b804041b904e379409827"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_ith_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "9b09df702c54f7a89681f7c855576f05e748dd952dde9d5e1c9118de83afac9d",
+      "after": "c4a07b0f1ee4f73065e64a87aa7638eb9b861dc802fc7dd6169a73b46b14e5ef"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_mon_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "ba91733094009b2452834d3cdfca9a97cbd52b4b1558a99c20ae4d19b177df46",
+      "after": "c68cba44de12da366abcf0eda5111ac17d85e3b74f89600b9fdee0cf6d967e74"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_mon_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "6803acbfbb38063c1a740a6059b96c20e90f70465dabfc09c4bb6ed8eaebf950",
+      "after": "f2e8a0a7e788cdf8de434416cf3b336fd2e644bdc9835b063e73f28493d72969"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_mon_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "3f118d34f69edb013860a3fd673acf590c823cc7414294056c7b72c763d35641",
+      "after": "4c35586e0ec7b9b5f59b78f18423cfb64a9cc079a1a749bc01388c249c78eb66"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_mon_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "a4cf88a9d67d334aafc0db545713a412755220020609f85c6798ceb3b47ebb8c",
+      "after": "48dba3ee049f310ee1543fb522fae2d3b86fb09cd36d03b4b4970c9cd12fb0af"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_mon_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "34482408afc2f569d831efd69d409557643e6d75d70117d65bc5b47d5dee6533",
+      "after": "43da9b8a96bccf8f60da4ed773c61c66d1de19549c92558e02e72132bfbf292b"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_mon_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "ed7f3588a40a1daf3e4c894292a76adda4594172314e34d930a3553bfb5664cd",
+      "after": "294330a609d1bb75ce6ab9237c1e0655f78a88ac25b6f8714c72dfbf5339ce26"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_mon_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "e3d4df638bc05d19c6f87204ae42bfc4a08e2da75155c41feabb4210e553758f",
+      "after": "34741840c9257402f4f77c8fa1fee3324f1e4dcddaf73c08de71b37e323cce48"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_mon_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "c71693a78d5731387356009f06a5dc91562ef14658f8fd79205b953df5db8ad5",
+      "after": "94877cb19fbb767965ebb2658aa12398860b479028552d9a8f617ccd48b71833"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_rod_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "ba91733094009b2452834d3cdfca9a97cbd52b4b1558a99c20ae4d19b177df46",
+      "after": "c68cba44de12da366abcf0eda5111ac17d85e3b74f89600b9fdee0cf6d967e74"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_rod_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "6803acbfbb38063c1a740a6059b96c20e90f70465dabfc09c4bb6ed8eaebf950",
+      "after": "f2e8a0a7e788cdf8de434416cf3b336fd2e644bdc9835b063e73f28493d72969"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_rod_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "3f118d34f69edb013860a3fd673acf590c823cc7414294056c7b72c763d35641",
+      "after": "4c35586e0ec7b9b5f59b78f18423cfb64a9cc079a1a749bc01388c249c78eb66"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_rod_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "a4cf88a9d67d334aafc0db545713a412755220020609f85c6798ceb3b47ebb8c",
+      "after": "48dba3ee049f310ee1543fb522fae2d3b86fb09cd36d03b4b4970c9cd12fb0af"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_rod_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "2399c30d6572c4d7284617739473d5e47c7c931745f6b441864ed3537913e74a",
+      "after": "a0e7e8bdc75448cc8a44e215d22c98a4f68d0c61e6effd14043ba1f26ed9ca22"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_rod_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "08ffd7aba0081efd6a0dde08d93ccd5242b90f88e440c3239e3ec69bf3b0dcd0",
+      "after": "72c22396d95a27a7c701f69c24be6aecc522a2dac06c6f455741f3413977e5ed"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_rod_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "5f0bdb26e5e5dc7189dd4250d0ae4cf327765c64101a582c5857408259396808",
+      "after": "3cad0a9e77cb506f3f6902d85d110c551a37253b84098f322163f36575df8f11"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_rod_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "0c8618764410c16b64696340b3d896ec9ea6320ccb25fb7439be0e8a6cbe1f64",
+      "after": "3f90b587cb608fb4959fd8c5648e23aef42d2e85f133563020164ccc76a9ca58"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_sul_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "e02bdbda27749ade742c65ac6a507b99ef851d0246f9e29a95aa0b66629e1e18",
+      "after": "f07e65a57ae8fd2b28b6c39042090365bd68971589e164e7cdd162fff2a0c691"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_sul_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "c60c8014ba388256d05fd549caa2a400b5f38c87f4aeee373e7415595ac48eba",
+      "after": "a9a906c710fe1e39a37880846eeecb1b3709474098e14eb0c0d3a361a6d72c28"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_sul_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "9e963b7c298ce7cb23de0c14a110e44ef40ca68ae6f98d8f59be7205cfc103eb",
+      "after": "78cd2e5bdcf2af21d630fe7df494256f0d0c4ca156de9b8fab6b535887f2270f"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_sul_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "b880e517653ec639baee348002c714b75bb0d2f754b01ccc9abc9aace06700c8",
+      "after": "6ebc02bfe409356d812a34a56fc5894ed1877d0ba25684e93e016db855c4bb3f"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_sul_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "ecc87b348a0d3596caad62183d1751832ce24261da9c981269831e531f3b0afc",
+      "after": "32c9962adace2d20fca49f6e882b23ec74777a1821288d85a6f5fafc39932fe2"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_sul_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "edce3f8dd07fea45ca087051c49dcf2f1243ac9612890e5eb55264d30db1a96f",
+      "after": "3777b433de3235f3c54c20cd25e51f5331f36395223afebe0b311bb7652287af"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_sul_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "7b6b504b42709816cad0e6616593e09c76673603aaf09cc2e08cca1f1f907091",
+      "after": "82303f795a0b8ef48f987f0d4c113e0b65995d1951baaf133f657e042375c982"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_sul_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "dc0018ae34ae24c36bafc2b1858e3cbf6e15dfd1703045a984c7ca0c6124f1f3",
+      "after": "ccaee97f009af66c200fafeb70b16225e881fac792ac8b9d41c85bc4e6944552"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_trn_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "0e62613a8658138fa8b2d82f570d9ef6784e2762e402c55d255c9472905e7417",
+      "after": "b53348a20eabde71127dd0c7bfb89e98a572527c8680728cea47d2a3268347ed"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_trn_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "c857bc4b56da75f7638f4e09aab876b8d40d3bb7195816c8061db2c7a0b6354d",
+      "after": "3d3f154e8ee5005f98d519bf9c6fb2e435eecf92f50915f4d0c3574af17bc78e"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_trn_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "fd5277b080ee8958ec2eadf5a4bdafef8abaf11b2c225e35b48b1eb35ea94d02",
+      "after": "72f05d1635e4cba0918e9720e1ee4ba8ac02bb38e254942a8cf511b07e5cb71f"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_trn_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "54c98d2c479e55279382a570982a264e95e429720730b5d6fdb7ce9a269334fe",
+      "after": "0099f9efe9ee9c17a8e471367ba5ec5ee41b9c9d8f076e90b449a046ccc7a6fe"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_trn_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "a68de924c027c514543ffa3d167e89d590c0206db94a8fa506c49091cfec91eb",
+      "after": "46f796ee94fa16a3b13050f31f856784560eb06bbc13cef6d3089f762d720a3a"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_trn_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "7a85e6c1d9524f95f373d6e28759e06cabef5f9d94954813414f0526b56d7ad8",
+      "after": "2d7b40609561bdf31074ead233ae9465e95672c682232b2b7ef53904c6c13c6e"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_trn_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "11b4556526eceb73d0b4cad4bc7980ef5ab152c3b83c48cdcad52909f981ffcc",
+      "after": "604b1c7d0f084d0567d08c9b9aa5573410ec1061679429564cb5daae3bdd9034"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_trn_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "5d48ea95ad0b7e739e42d96131ac78a9e04bf116819cd54d076bae28585c2667",
+      "after": "ea9b2aaf346774eee15bf3a601c91487ad25095d14bac968f9c5f58a01daaf63"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_twk_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "ac7343c17cb41897d739e0c07498ead8555327d63983367696e280da914837e7",
+      "after": "b7e0a77d1c3a6b8631ec74d6ea03c0d4bb262af6db3b5172e6a9db0c18fddf0f"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_twk_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "b1e69eebd9c14b227d899eb6bf7699ce8312a0bf402816050eac324162c57c57",
+      "after": "8af83bd35322dde99ee796ece50a49cb41184052ae6cd5cc56349b63f1c7b8e1"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_twk_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "ce74826d250a107b9d0e15233680785806de6ed198821075a4b9ede2598c7b68",
+      "after": "f4042ee9f6c6d693c982e0c13aeb2835c6d7bc314e23c4e2900c7d94d895f1cf"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_twk_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "f8633e87c9e651df3f8a14fceede30b07290ea239b5be58c16dff86d250d9811",
+      "after": "41d3dec8e33da27aab40e40a5d57f053bf1d06c60b8d936521387459eb0f5ba5"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_twk_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "1960a1afe37e1febeb386f4b9bf8331bad9ac4e40cc4c7099703244e5c7c8042",
+      "after": "6f7e431cf84b08c88aafa845a9adaceeaa071f68a69d133c5966061eeb526e54"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_twk_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "7d0e410dc905661a20e76eb42fd131cd49edecce91eb002147cf79117350343f",
+      "after": "8799725ce706fe39bf42f900fd9a795a8019e5345a7367d605a4999cd10094c0"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_twk_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "dbfd459f45f4ee1f9b367b55aa9a2c1b579685b7b28fea35b082e9dc52f8e6c7",
+      "after": "278418d0830249a006efa1e068491fa7b11159af7662f47bfa0b49bd259f59d7"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_twk_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "2f07ec105b0d8f50289f489306be2ee6e059e93ef79bd209a761edf80654c150",
+      "after": "63a859c8a4837aa9f6ff5a1893184a4c1bccc2eccbe770895e0d03a412738a9d"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_wke_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "7f8470e0bcd3bf7c26f647684cf582f6089024f6b322d562f25b6d5d94b50141",
+      "after": "3b51eaf642f41592aaed41dfb9f2e5550e4a51a75ea8f06af4bb9153a5dcdd4a"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_wke_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "1f6d41a53d5c7574dd94ad907ac63cd8673ccb8a8ccf10f46a190e6ae5f96097",
+      "after": "a1354e0ae2cc91a60cff6d4b73c639559ef2a85616a4b435953b9f2e8f9c0536"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_wke_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "19e623cd1daacdaecbce4141b017757542bd778939438e6de0278e6ed7f20119",
+      "after": "dee92cbc89f014672c6f1d2b831926087738cd2f104c633e606bf8dc6bc19dd0"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_wke_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "841a7764ed47117f88d7d0d486a1b61bdb94b2786e8cf9a406853f3c0dd21a30",
+      "after": "3879e37a8f574390545627b4fd0b4728c55f004a15cc78a16a67263d7d067452"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_wke_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "4d5d046a92efd207eca07022079b91cd26056d0a56f750075d3a957ab1d5c1f7",
+      "after": "f615995711641e7226b5ead074adc7b44d93c5812bd1bb904c70a3df1b29f018"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_wke_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "48007a384ac25180023edf8018acce2c28fc65057017d35ac92c315fd93acb71",
+      "after": "08d926821f24ddddc4e5ee7562cfc9c4bf4c65e6cca931d65bdf85f9e27151a0"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_wke_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "2f78ed2aae75b0e8b26d399b54228325aff74584df6696f77668febaf3f7de8a",
+      "after": "ac6a79f962076556cf5283cbd0be06a04896368205252ee15c7a443621f63ce3"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_wke_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "cc268b4df373895e9b1d885e5392a521b25126349fc012380dc1e136432e13fc",
+      "after": "834ae698b4920267333f66f6648b78a3dcc4334e117a9ee6d1b7e4e1e2b167e4"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_zab_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "162dc0d5f6c35b0dde277db244409c14fedb7fbd86f3aa2b3dbc3ff20846c31d",
+      "after": "c46b0cbb3c80e69c615cffc5f3433fbfa7d6820eb8b21a5fa1d9ccb057e6dbbe"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_zab_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "380d1f374d059bb6f399ec54b6cb8a98d0507ca521dcb36211fb422cdeab9bbd",
+      "after": "563c9004a16586ffe885a3d2882c2c4c82155a8e55c9a4f6fde31985e4f8f2d5"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_zab_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "1595aafe7f696460a4b357c08d548226b3bff17ce05423346786aac12ca2970e",
+      "after": "0633f830e002c7c738bdad7b6b41265ceee4fa9f945251fae786fbca2b0c2030"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_zab_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "09bdbb21f14d018853000067860ffde55a1ba70ba3221f78a6a4a7a9aca44498",
+      "after": "5fd0a3e9b27d96a9c2c97c692b990aead408fc1b2ee33d3d578f59dc960417af"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_zab_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "1960a1afe37e1febeb386f4b9bf8331bad9ac4e40cc4c7099703244e5c7c8042",
+      "after": "6f7e431cf84b08c88aafa845a9adaceeaa071f68a69d133c5966061eeb526e54"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_zab_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "7d0e410dc905661a20e76eb42fd131cd49edecce91eb002147cf79117350343f",
+      "after": "8799725ce706fe39bf42f900fd9a795a8019e5345a7367d605a4999cd10094c0"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_zab_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "dbfd459f45f4ee1f9b367b55aa9a2c1b579685b7b28fea35b082e9dc52f8e6c7",
+      "after": "278418d0830249a006efa1e068491fa7b11159af7662f47bfa0b49bd259f59d7"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_white_zab_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "2f07ec105b0d8f50289f489306be2ee6e059e93ef79bd209a761edf80654c150",
+      "after": "63a859c8a4837aa9f6ff5a1893184a4c1bccc2eccbe770895e0d03a412738a9d"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_wke_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "80bf5467a09e20b6180d4cd8d217cbcb5ab9280ebe06e9cac67aecfe0962bedd",
+      "after": "9866c17f4eff94ffaabf6dcc41d31ae7c0a485fd5f7b4fce1037fb503411f472"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_wke_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "8bd04d556699eedd133cce14dc2c5030be07329798daa1131fd22168e4e02a6f",
+      "after": "5b28d68fb6e62b4c9968b956f0c45860ae1bedd5e0b9278df6ef07f27fc6e1ff"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_wke_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "bc88c90dcff24146346790625ddc3a6804c8f0593b4e03501c4e6056aa9a2c30",
+      "after": "a79f9e38485a86d5b933f9ee3e8e00a5a15fa96219b6359eaee4ab5b6686e762"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_wke_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "46c62079a77d0609ccdc8c44109ade27cf22c1cf5d69b0daec4ae7df99f12beb",
+      "after": "7d273a9dbbdd64070600d8bd0201d94e482328e4c77e017633f8f872f8f07e71"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_wke_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "fd1e09e4477f85d7910c0e5a561d4f34b459232e8ef3e25059f2c40bed2b857f",
+      "after": "66947cc5c7acfb483235e41f12e32159443082fa08f8feb6c4b9ba08222c8dbe"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_wke_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "8d3422c84134c1a336466bab4c9e509a82a5335a2114bbe5d5e91b626fae294d",
+      "after": "5a7ddec0f0379f61102f04009940f3f515b3fac12faafaffb12b362f37374e51"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_wke_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "b5d3bb95b9568fd546346092490d54b1b18fd2134537128812eac8f661743855",
+      "after": "b2db9f38397d00a25cc4c61447a039ddea43afcdd2f5c1a307796b3176f789c8"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_wke_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "318f732fbea91f3e731c3beabde11a29e92af89c5d53df8146ba7e112a1851be",
+      "after": "85f1f9ba0ae221ab6a659a7247571d54914c337617cb9ae0ff2acaa60c679b4f"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_zab_f_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "54b111df216aed4f4d14123f1f40a6590699462fdbfb5a06e360e75f0337128f",
+      "after": "aa8a5cf78a837abe3c34fbc2a0e5216629ce6c90aefb3bb5e62f269c9b3ff594"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_zab_f_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "3fdcb7f70f83d5e1edf4b37f7b77cea46f75fc568893561644c1b0c07c7b3d92",
+      "after": "a74df6f64f6928d353d8ca37d66f4478de9dda5dc96ce83f1d8a191add3b9eeb"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_zab_f_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "0a2bd74292beb8f4aa95141617e61d8b48ca1b3db6b0233c8da5c53c0db4a289",
+      "after": "7ea879329fbcc054a13258b21a6c62f4c3af3b4c68f2125aa99b7ac0ed59c7a7"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_zab_f_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "2c314dd84bedc3985f6323eaf9938ba1bcbe5d07f8372e0ba81bab201eb8696b",
+      "after": "db0570294f79add502a6b76836a53d5d4f67c1d392111cceb6ecde8853c9b63b"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_zab_m_l0.mgn",
+      "blend_counts_fixed": 3,
+      "before": "052fbd9438271058615dc4354dc02596b0dc8b291cc315347f05bb19c6dbc881",
+      "after": "77fd8826bd242f7d133b678c64855656275bebbba7bfe1b33b775200ba41e806"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_zab_m_l1.mgn",
+      "blend_counts_fixed": 3,
+      "before": "1f38db9f08cbe97007b87367227ab2ac1d538d4c0fd7a94cb80c17aece2270c2",
+      "after": "39761d4ea3452f80b87bd511b394ba0440425fd8be2e36d3f00259230b99266a"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_zab_m_l2.mgn",
+      "blend_counts_fixed": 3,
+      "before": "eae1eb2569fa620a69ab6ac75e1f028dc2c301f69a0ab3b2c46fc29c6d98106c",
+      "after": "f3fe0575c1e9713c5baf1f276366f697ce488151c59ab3640e39ea23a74d0cc3"
+    },
+    {
+      "file": "appearance/mesh/halloween_angel_wings_zab_m_l3.mgn",
+      "blend_counts_fixed": 3,
+      "before": "cb285c6714691859d1bb9aa2f636e1214939c19296eb5e8655710b575356bab0",
+      "after": "96d5cf30c1b553471307eddd87b5f383b962ff9218bb56c9e772935da7ee11fb"
+    }
+  ],
+  "visual_equip_test_pending": false,
+  "visual_validation": "Server owner confirmed green wings equip in appearance without crashing after a full client restart. Other variants share the same repaired data-count defect; individual visual checks remain pending."
+}

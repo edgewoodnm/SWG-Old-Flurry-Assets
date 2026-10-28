@@ -1,0 +1,22 @@
+Halloween angel wings client crash hotfix
+
+The earlier Halloween backup commit 7fb76d1 contains malformed wing meshes.
+Do not distribute that version. Use this corrected revision or apply this hotfix.
+
+Repairs 1,200 invalid blend normal counts in 400 meshes: all five colors,
+20 species/sex fits per color, four detail levels. Geometry, shaders, textures,
+bone weights and wearable templates are preserved. The owner confirmed that
+green wings now equip in appearance without crashing after restarting the client.
+All 2,037 supplied skeletal meshes pass the structural checks used for this fix.
+This does not claim every outfit/species combination has been visually tested.
+
+For clients already using the Old Flurry halloween_event_files overlay:
+1. Completely close the game.
+2. Extract the ZIP into the client root, replacing the 400 wing mesh files
+   inside halloween_event_files/appearance/mesh.
+3. Restart the game. A relog alone can retain cached mesh data.
+Keep all other Halloween files and existing configuration.
+
+This is a manual hotfix for the Halloween overlay, not a replacement for the
+cumulative Old Flurry launcher package. The existing v1.0.28 launcher manifest
+does not distribute these Halloween assets and is unchanged.
