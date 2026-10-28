@@ -1,0 +1,115 @@
+{
+  "passed": true,
+  "cumulative_v28_to_v30_unchanged_launcher_test": true,
+  "repeat_preview": "5 identical; 0 different; 0 missing",
+  "all_halloween_resources_verified": 5234,
+  "older_manual_overlay_priority_override_verified": true,
+  "native_configuration_last_value_behavior_verified_from_source": true,
+  "old_public_template_registry_entries_preserved": 60259,
+  "all_old_public_appearance_rows_preserved": 1436,
+  "existing_static_item_strings_preserved": true,
+  "wing_meshes_repaired": 400,
+  "mesh_structural_checks_passed": 2037,
+  "native_species_checks_passed": 576,
+  "human_green_wing_appearance_equip_confirmed": true,
+  "yoda_entries_and_shuttleport_exits_previously_tested_live": true,
+  "remaining_visual_qa": "Not every color, species, outfit or animation combination is visually tested.",
+  "unavailable": "Hollow Mother boss/arena bases and Gothic furniture model part were not supplied.",
+  "existing_old_flurry_appearance_overrides_reconciled": [
+    {
+      "row": "shared_armor_marine_backpack",
+      "columns": [
+        "Male Ithorian",
+        "Female Ithorian"
+      ],
+      "provenance": "Unchanged pre-Halloween deployed Old Flurry baseline override"
+    },
+    {
+      "row": "shared_backpack_s04",
+      "columns": [
+        "Male Ithorian",
+        "Female Ithorian"
+      ],
+      "provenance": "Unchanged pre-Halloween deployed Old Flurry baseline override"
+    },
+    {
+      "row": "shared_hat_imp_s01",
+      "columns": [
+        "Female Human",
+        "Male Rodian",
+        "Female Rodian",
+        "Male MonCal",
+        "Female MonCal",
+        "Male Wookiee",
+        "Female Wookiee",
+        "Male Twi'lek",
+        "Female Twi'lek",
+        "Male Trandoshan",
+        "Female Trandoshan",
+        "Male Zabrak",
+        "Female Zabrak",
+        "Male Bothan",
+        "Female Bothan",
+        "Male Ithorian",
+        "Female Ithorian",
+        "Male Sullustan",
+        "Female Sullustan"
+      ],
+      "provenance": "Unchanged pre-Halloween deployed Old Flurry baseline override"
+    },
+    {
+      "row": "shared_nightsister_hat_s02",
+      "columns": [
+        "Male Rodian",
+        "Female Rodian",
+        "Male MonCal",
+        "Female MonCal",
+        "Male Wookiee",
+        "Female Wookiee",
+        "Male Twi'lek",
+        "Female Twi'lek",
+        "Male Trandoshan",
+        "Female Trandoshan",
+        "Male Zabrak",
+        "Female Zabrak",
+        "Male Bothan",
+        "Female Bothan",
+        "Male Sullustan",
+        "Female Sullustan"
+      ],
+      "provenance": "Unchanged pre-Halloween deployed Old Flurry baseline override"
+    },
+    {
+      "row": "shared_armor_snowtrooper_backpack",
+      "columns": [
+        "Male Ithorian",
+        "Female Ithorian"
+      ],
+      "provenance": "Unchanged pre-Halloween deployed Old Flurry baseline override"
+    },
+    {
+      "row": "shared_wearable_backpack_recon",
+      "columns": [
+        "Male Ithorian",
+        "Female Ithorian"
+      ],
+      "provenance": "Unchanged pre-Halloween deployed Old Flurry baseline override"
+    },
+    {
+      "row": "shared_wearable_backpack_armored",
+      "columns": [
+        "Male Ithorian",
+        "Female Ithorian"
+      ],
+      "provenance": "Unchanged pre-Halloween deployed Old Flurry baseline override"
+    },
+    {
+      "row": "shared_hat_imp_s02",
+      "columns": [
+        "Male Zabrak",
+        "Female Zabrak"
+      ],
+      "provenance": "Unchanged pre-Halloween deployed Old Flurry baseline override"
+    }
+  ]
+}

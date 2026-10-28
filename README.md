@@ -1,3 +1,5 @@
+Latest client: **v1.0.30 — complete Halloween content and compatibility fixes**. Fully close SWG, update through the existing **Old Flurry Assets** button, then reopen. TRE-only asset payloads; no separate manual hotfix required. See [release notes](HALLOWEEN-v1.0.30.md).
+
 Latest QA client: **v1.0.28 — Hoth Expedition furniture and complete reward vendor**. Update with the existing Old Flurry launcher, then fully reopen the client. See [release notes](HOTH-EXPEDITION-v1.0.28.md).
 
 Latest QA client: **v1.0.27 — Hoth adventures, native quest journal and coin housing vendor**. Update with the existing Old Flurry launcher, then fully reopen the client. See [release notes](HOTH-ADVENTURES-v1.0.27.md).
