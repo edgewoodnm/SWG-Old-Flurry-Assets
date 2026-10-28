@@ -5280,5 +5280,5 @@
     "string/en/static_item_n.stf": "05953aed9b453a677886cacc86e99e9b5757af14114e8f56f9f048c3d33325d8",
     "terrain/colorramp/spooky_tusken0.tga": "33c688ec2c1f558fe86e57b7baa8817b6942fd6bd128a26b5d006d49f896d03c"
   },
-  "configuration_change": "client.cfg retains all existing includes, then registers three archives at priorities 19-21 to override stale manual folders. user.cfg and login.cfg are not shipped."
+  "configuration_change": "client.cfg retains all existing includes, then registers three archives at priorities 19-21 to override stale manual folders. user.cfg and login.cfg are not shipped. searchAbsolute=18 ensures legacy loose root files cannot mask TRE priorities 19-21."
 }
