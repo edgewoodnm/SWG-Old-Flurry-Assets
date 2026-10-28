@@ -1,0 +1,1358 @@
+{
+  "new_rows_checked": 32,
+  "existing_rows_preserved": true,
+  "changes": [
+    {
+      "item": "shared_hat_halloween_halo_01",
+      "stock_donor": "shared_hat_loveday_halo_01",
+      "changes": {},
+      "policy": {
+        "Male Human": "appearance/halloween_halo_s01_m.sat",
+        "Female Human": "appearance/halloween_halo_s01_f.sat",
+        "Male Rodian": ":default",
+        "Female Rodian": ":default",
+        "Male MonCal": ":default",
+        "Female MonCal": ":default",
+        "Male Wookiee": ":default",
+        "Female Wookiee": ":default",
+        "Male Twi'lek": ":default",
+        "Female Twi'lek": ":default",
+        "Male Trandoshan": ":default",
+        "Female Trandoshan": ":default",
+        "Male Zabrak": ":default",
+        "Female Zabrak": ":default",
+        "Male Bothan": ":default",
+        "Female Bothan": ":default",
+        "Male Ithorian": "appearance/halloween_halo_s01_ith_m.sat",
+        "Female Ithorian": "appearance/halloween_halo_s01_ith_f.sat",
+        "Male Sullustan": ":default",
+        "Female Sullustan": ":default",
+        "Male Nightbrother": "appearance/halloween_halo_s01_m.sat"
+      }
+    },
+    {
+      "item": "shared_armor_continuum_hollow_mother_helmet",
+      "stock_donor": "shared_armor_composite_helmet",
+      "changes": {
+        "Male Wookiee": {
+          "before": "appearance/armor_continuum_hollow_mother_helmet_wke_m.sat",
+          "after": ":block"
+        },
+        "Female Wookiee": {
+          "before": "appearance/armor_continuum_hollow_mother_helmet_wke_f.sat",
+          "after": ":block"
+        },
+        "Male Ithorian": {
+          "before": "appearance/ith_armor_continuum_hollow_mother_helmet_m.sat",
+          "after": ":block"
+        },
+        "Female Ithorian": {
+          "before": "appearance/ith_armor_continuum_hollow_mother_helmet_f.sat",
+          "after": ":block"
+        }
+      },
+      "policy": {
+        "Male Human": "appearance/armor_continuum_hollow_mother_helmet_m.sat",
+        "Female Human": "appearance/armor_continuum_hollow_mother_helmet_f.sat",
+        "Male Rodian": "appearance/armor_continuum_hollow_mother_helmet_m.sat",
+        "Female Rodian": "appearance/armor_continuum_hollow_mother_helmet_f.sat",
+        "Male MonCal": "appearance/armor_continuum_hollow_mother_helmet_m.sat",
+        "Female MonCal": "appearance/armor_continuum_hollow_mother_helmet_f.sat",
+        "Male Wookiee": ":block",
+        "Female Wookiee": ":block",
+        "Male Twi'lek": "appearance/armor_continuum_hollow_mother_helmet_m.sat",
+        "Female Twi'lek": "appearance/armor_continuum_hollow_mother_helmet_f.sat",
+        "Male Trandoshan": "appearance/armor_continuum_hollow_mother_helmet_m.sat",
+        "Female Trandoshan": "appearance/armor_continuum_hollow_mother_helmet_f.sat",
+        "Male Zabrak": "appearance/armor_continuum_hollow_mother_helmet_m.sat",
+        "Female Zabrak": "appearance/armor_continuum_hollow_mother_helmet_f.sat",
+        "Male Bothan": "appearance/armor_continuum_hollow_mother_helmet_m.sat",
+        "Female Bothan": "appearance/armor_continuum_hollow_mother_helmet_f.sat",
+        "Male Ithorian": ":block",
+        "Female Ithorian": ":block",
+        "Male Sullustan": "appearance/armor_continuum_hollow_mother_helmet_m.sat",
+        "Female Sullustan": "appearance/armor_continuum_hollow_mother_helmet_f.sat",
+        "Male Nightbrother": "appearance/armor_continuum_hollow_mother_helmet_m.sat"
+      }
+    },
+    {
+      "item": "shared_armor_continuum_hollow_mother_chest_plate",
+      "stock_donor": "shared_armor_composite_chest_plate",
+      "changes": {
+        "Male Wookiee": {
+          "before": "appearance/armor_continuum_hollow_mother_chest_plate_wke_m.sat",
+          "after": ":block"
+        },
+        "Female Wookiee": {
+          "before": "appearance/armor_continuum_hollow_mother_chest_plate_wke_f.sat",
+          "after": ":block"
+        },
+        "Male Ithorian": {
+          "before": "appearance/ith_armor_continuum_hollow_mother_chest_plate_m.sat",
+          "after": ":block"
+        },
+        "Female Ithorian": {
+          "before": "appearance/ith_armor_continuum_hollow_mother_chest_plate_f.sat",
+          "after": ":block"
+        }
+      },
+      "policy": {
+        "Male Human": "appearance/armor_continuum_hollow_mother_chest_plate_m.sat",
+        "Female Human": "appearance/armor_continuum_hollow_mother_chest_plate_f.sat",
+        "Male Rodian": "appearance/armor_continuum_hollow_mother_chest_plate_m.sat",
+        "Female Rodian": "appearance/armor_continuum_hollow_mother_chest_plate_f.sat",
+        "Male MonCal": "appearance/armor_continuum_hollow_mother_chest_plate_m.sat",
+        "Female MonCal": "appearance/armor_continuum_hollow_mother_chest_plate_f.sat",
+        "Male Wookiee": ":block",
+        "Female Wookiee": ":block",
+        "Male Twi'lek": "appearance/armor_continuum_hollow_mother_chest_plate_m.sat",
+        "Female Twi'lek": "appearance/armor_continuum_hollow_mother_chest_plate_f.sat",
+        "Male Trandoshan": "appearance/armor_continuum_hollow_mother_chest_plate_trn_m.sat",
+        "Female Trandoshan": "appearance/armor_continuum_hollow_mother_chest_plate_trn_f.sat",
+        "Male Zabrak": "appearance/armor_continuum_hollow_mother_chest_plate_m.sat",
+        "Female Zabrak": "appearance/armor_continuum_hollow_mother_chest_plate_f.sat",
+        "Male Bothan": "appearance/armor_continuum_hollow_mother_chest_plate_m.sat",
+        "Female Bothan": "appearance/armor_continuum_hollow_mother_chest_plate_f.sat",
+        "Male Ithorian": ":block",
+        "Female Ithorian": ":block",
+        "Male Sullustan": "appearance/armor_continuum_hollow_mother_chest_plate_m.sat",
+        "Female Sullustan": "appearance/armor_continuum_hollow_mother_chest_plate_f.sat",
+        "Male Nightbrother": "appearance/armor_continuum_hollow_mother_chest_plate_m.sat"
+      }
+    },
+    {
+      "item": "shared_armor_continuum_hollow_mother_bicep_l",
+      "stock_donor": "shared_armor_composite_bicep_l",
+      "changes": {
+        "Male Wookiee": {
+          "before": "appearance/armor_continuum_hollow_mother_bicep_l_wke_m.sat",
+          "after": ":block"
+        },
+        "Female Wookiee": {
+          "before": "appearance/armor_continuum_hollow_mother_bicep_l_wke_f.sat",
+          "after": ":block"
+        },
+        "Male Ithorian": {
+          "before": "appearance/ith_armor_continuum_hollow_mother_bicep_l_m.sat",
+          "after": ":block"
+        },
+        "Female Ithorian": {
+          "before": "appearance/ith_armor_continuum_hollow_mother_bicep_l_f.sat",
+          "after": ":block"
+        }
+      },
+      "policy": {
+        "Male Human": "appearance/armor_continuum_hollow_mother_bicep_l_m.sat",
+        "Female Human": "appearance/armor_continuum_hollow_mother_bicep_l_f.sat",
+        "Male Rodian": "appearance/armor_continuum_hollow_mother_bicep_l_m.sat",
+        "Female Rodian": "appearance/armor_continuum_hollow_mother_bicep_l_f.sat",
+        "Male MonCal": "appearance/armor_continuum_hollow_mother_bicep_l_m.sat",
+        "Female MonCal": "appearance/armor_continuum_hollow_mother_bicep_l_f.sat",
+        "Male Wookiee": ":block",
+        "Female Wookiee": ":block",
+        "Male Twi'lek": "appearance/armor_continuum_hollow_mother_bicep_l_m.sat",
+        "Female Twi'lek": "appearance/armor_continuum_hollow_mother_bicep_l_f.sat",
+        "Male Trandoshan": "appearance/armor_continuum_hollow_mother_bicep_l_trn_m.sat",
+        "Female Trandoshan": "appearance/armor_continuum_hollow_mother_bicep_l_trn_f.sat",
+        "Male Zabrak": "appearance/armor_continuum_hollow_mother_bicep_l_m.sat",
+        "Female Zabrak": "appearance/armor_continuum_hollow_mother_bicep_l_f.sat",
+        "Male Bothan": "appearance/armor_continuum_hollow_mother_bicep_l_m.sat",
+        "Female Bothan": "appearance/armor_continuum_hollow_mother_bicep_l_f.sat",
+        "Male Ithorian": ":block",
+        "Female Ithorian": ":block",
+        "Male Sullustan": "appearance/armor_continuum_hollow_mother_bicep_l_m.sat",
+        "Female Sullustan": "appearance/armor_continuum_hollow_mother_bicep_l_f.sat",
+        "Male Nightbrother": "appearance/armor_continuum_hollow_mother_bicep_l_m.sat"
+      }
+    },
+    {
+      "item": "shared_armor_continuum_hollow_mother_bicep_r",
+      "stock_donor": "shared_armor_composite_bicep_r",
+      "changes": {
+        "Male Wookiee": {
+          "before": "appearance/armor_continuum_hollow_mother_bicep_r_wke_m.sat",
+          "after": ":block"
+        },
+        "Female Wookiee": {
+          "before": "appearance/armor_continuum_hollow_mother_bicep_r_wke_f.sat",
+          "after": ":block"
+        },
+        "Male Ithorian": {
+          "before": "appearance/ith_armor_continuum_hollow_mother_bicep_r_m.sat",
+          "after": ":block"
+        },
+        "Female Ithorian": {
+          "before": "appearance/ith_armor_continuum_hollow_mother_bicep_r_f.sat",
+          "after": ":block"
+        }
+      },
+      "policy": {
+        "Male Human": "appearance/armor_continuum_hollow_mother_bicep_r_m.sat",
+        "Female Human": "appearance/armor_continuum_hollow_mother_bicep_r_f.sat",
+        "Male Rodian": "appearance/armor_continuum_hollow_mother_bicep_r_m.sat",
+        "Female Rodian": "appearance/armor_continuum_hollow_mother_bicep_r_f.sat",
+        "Male MonCal": "appearance/armor_continuum_hollow_mother_bicep_r_m.sat",
+        "Female MonCal": "appearance/armor_continuum_hollow_mother_bicep_r_f.sat",
+        "Male Wookiee": ":block",
+        "Female Wookiee": ":block",
+        "Male Twi'lek": "appearance/armor_continuum_hollow_mother_bicep_r_m.sat",
+        "Female Twi'lek": "appearance/armor_continuum_hollow_mother_bicep_r_f.sat",
+        "Male Trandoshan": "appearance/armor_continuum_hollow_mother_bicep_r_trn_m.sat",
+        "Female Trandoshan": "appearance/armor_continuum_hollow_mother_bicep_r_trn_f.sat",
+        "Male Zabrak": "appearance/armor_continuum_hollow_mother_bicep_r_m.sat",
+        "Female Zabrak": "appearance/armor_continuum_hollow_mother_bicep_r_f.sat",
+        "Male Bothan": "appearance/armor_continuum_hollow_mother_bicep_r_m.sat",
+        "Female Bothan": "appearance/armor_continuum_hollow_mother_bicep_r_f.sat",
+        "Male Ithorian": ":block",
+        "Female Ithorian": ":block",
+        "Male Sullustan": "appearance/armor_continuum_hollow_mother_bicep_r_m.sat",
+        "Female Sullustan": "appearance/armor_continuum_hollow_mother_bicep_r_f.sat",
+        "Male Nightbrother": "appearance/armor_continuum_hollow_mother_bicep_r_m.sat"
+      }
+    },
+    {
+      "item": "shared_armor_continuum_hollow_mother_bracer_l",
+      "stock_donor": "shared_armor_composite_bracer_l",
+      "changes": {
+        "Male Wookiee": {
+          "before": "appearance/armor_continuum_hollow_mother_bracer_l_wke_m.sat",
+          "after": ":block"
+        },
+        "Female Wookiee": {
+          "before": "appearance/armor_continuum_hollow_mother_bracer_l_wke_f.sat",
+          "after": ":block"
+        },
+        "Male Ithorian": {
+          "before": "appearance/ith_armor_continuum_hollow_mother_bracer_l_m.sat",
+          "after": ":block"
+        },
+        "Female Ithorian": {
+          "before": "appearance/ith_armor_continuum_hollow_mother_bracer_l_f.sat",
+          "after": ":block"
+        }
+      },
+      "policy": {
+        "Male Human": "appearance/armor_continuum_hollow_mother_bracer_l_m.sat",
+        "Female Human": "appearance/armor_continuum_hollow_mother_bracer_l_f.sat",
+        "Male Rodian": "appearance/armor_continuum_hollow_mother_bracer_l_m.sat",
+        "Female Rodian": "appearance/armor_continuum_hollow_mother_bracer_l_f.sat",
+        "Male MonCal": "appearance/armor_continuum_hollow_mother_bracer_l_m.sat",
+        "Female MonCal": "appearance/armor_continuum_hollow_mother_bracer_l_f.sat",
+        "Male Wookiee": ":block",
+        "Female Wookiee": ":block",
+        "Male Twi'lek": "appearance/armor_continuum_hollow_mother_bracer_l_m.sat",
+        "Female Twi'lek": "appearance/armor_continuum_hollow_mother_bracer_l_f.sat",
+        "Male Trandoshan": "appearance/armor_continuum_hollow_mother_bracer_l_trn_m.sat",
+        "Female Trandoshan": "appearance/armor_continuum_hollow_mother_bracer_l_trn_f.sat",
+        "Male Zabrak": "appearance/armor_continuum_hollow_mother_bracer_l_m.sat",
+        "Female Zabrak": "appearance/armor_continuum_hollow_mother_bracer_l_f.sat",
+        "Male Bothan": "appearance/armor_continuum_hollow_mother_bracer_l_m.sat",
+        "Female Bothan": "appearance/armor_continuum_hollow_mother_bracer_l_f.sat",
+        "Male Ithorian": ":block",
+        "Female Ithorian": ":block",
+        "Male Sullustan": "appearance/armor_continuum_hollow_mother_bracer_l_m.sat",
+        "Female Sullustan": "appearance/armor_continuum_hollow_mother_bracer_l_f.sat",
+        "Male Nightbrother": "appearance/armor_continuum_hollow_mother_bracer_l_m.sat"
+      }
+    },
+    {
+      "item": "shared_armor_continuum_hollow_mother_bracer_r",
+      "stock_donor": "shared_armor_composite_bracer_r",
+      "changes": {
+        "Male Wookiee": {
+          "before": "appearance/armor_continuum_hollow_mother_bracer_r_wke_m.sat",
+          "after": ":block"
+        },
+        "Female Wookiee": {
+          "before": "appearance/armor_continuum_hollow_mother_bracer_r_wke_f.sat",
+          "after": ":block"
+        },
+        "Male Ithorian": {
+          "before": "appearance/ith_armor_continuum_hollow_mother_bracer_r_m.sat",
+          "after": ":block"
+        },
+        "Female Ithorian": {
+          "before": "appearance/ith_armor_continuum_hollow_mother_bracer_r_f.sat",
+          "after": ":block"
+        }
+      },
+      "policy": {
+        "Male Human": "appearance/armor_continuum_hollow_mother_bracer_r_m.sat",
+        "Female Human": "appearance/armor_continuum_hollow_mother_bracer_r_f.sat",
+        "Male Rodian": "appearance/armor_continuum_hollow_mother_bracer_r_m.sat",
+        "Female Rodian": "appearance/armor_continuum_hollow_mother_bracer_r_f.sat",
+        "Male MonCal": "appearance/armor_continuum_hollow_mother_bracer_r_m.sat",
+        "Female MonCal": "appearance/armor_continuum_hollow_mother_bracer_r_f.sat",
+        "Male Wookiee": ":block",
+        "Female Wookiee": ":block",
+        "Male Twi'lek": "appearance/armor_continuum_hollow_mother_bracer_r_m.sat",
+        "Female Twi'lek": "appearance/armor_continuum_hollow_mother_bracer_r_f.sat",
+        "Male Trandoshan": "appearance/armor_continuum_hollow_mother_bracer_r_trn_m.sat",
+        "Female Trandoshan": "appearance/armor_continuum_hollow_mother_bracer_r_trn_f.sat",
+        "Male Zabrak": "appearance/armor_continuum_hollow_mother_bracer_r_m.sat",
+        "Female Zabrak": "appearance/armor_continuum_hollow_mother_bracer_r_f.sat",
+        "Male Bothan": "appearance/armor_continuum_hollow_mother_bracer_r_m.sat",
+        "Female Bothan": "appearance/armor_continuum_hollow_mother_bracer_r_f.sat",
+        "Male Ithorian": ":block",
+        "Female Ithorian": ":block",
+        "Male Sullustan": "appearance/armor_continuum_hollow_mother_bracer_r_m.sat",
+        "Female Sullustan": "appearance/armor_continuum_hollow_mother_bracer_r_f.sat",
+        "Male Nightbrother": "appearance/armor_continuum_hollow_mother_bracer_r_m.sat"
+      }
+    },
+    {
+      "item": "shared_armor_continuum_hollow_mother_gloves",
+      "stock_donor": "shared_armor_composite_gloves",
+      "changes": {
+        "Male Wookiee": {
+          "before": "appearance/armor_continuum_hollow_mother_gloves_wke_m.sat",
+          "after": ":block"
+        },
+        "Female Wookiee": {
+          "before": "appearance/armor_continuum_hollow_mother_gloves_wke_f.sat",
+          "after": ":block"
+        },
+        "Male Trandoshan": {
+          "before": "appearance/armor_continuum_hollow_mother_gloves_trn_m.sat",
+          "after": ":hide"
+        },
+        "Female Trandoshan": {
+          "before": "appearance/armor_continuum_hollow_mother_gloves_trn_f.sat",
+          "after": ":hide"
+        },
+        "Male Ithorian": {
+          "before": "appearance/ith_armor_continuum_hollow_mother_gloves_m.sat",
+          "after": ":block"
+        },
+        "Female Ithorian": {
+          "before": "appearance/ith_armor_continuum_hollow_mother_gloves_f.sat",
+          "after": ":block"
+        }
+      },
+      "policy": {
+        "Male Human": "appearance/armor_continuum_hollow_mother_gloves_m.sat",
+        "Female Human": "appearance/armor_continuum_hollow_mother_gloves_f.sat",
+        "Male Rodian": "appearance/armor_continuum_hollow_mother_gloves_m.sat",
+        "Female Rodian": "appearance/armor_continuum_hollow_mother_gloves_f.sat",
+        "Male MonCal": "appearance/armor_continuum_hollow_mother_gloves_mon_m.sat",
+        "Female MonCal": "appearance/armor_continuum_hollow_mother_gloves_mon_f.sat",
+        "Male Wookiee": ":block",
+        "Female Wookiee": ":block",
+        "Male Twi'lek": "appearance/armor_continuum_hollow_mother_gloves_m.sat",
+        "Female Twi'lek": "appearance/armor_continuum_hollow_mother_gloves_f.sat",
+        "Male Trandoshan": ":hide",
+        "Female Trandoshan": ":hide",
+        "Male Zabrak": "appearance/armor_continuum_hollow_mother_gloves_m.sat",
+        "Female Zabrak": "appearance/armor_continuum_hollow_mother_gloves_f.sat",
+        "Male Bothan": "appearance/armor_continuum_hollow_mother_gloves_m.sat",
+        "Female Bothan": "appearance/armor_continuum_hollow_mother_gloves_f.sat",
+        "Male Ithorian": ":block",
+        "Female Ithorian": ":block",
+        "Male Sullustan": "appearance/armor_continuum_hollow_mother_gloves_m.sat",
+        "Female Sullustan": "appearance/armor_continuum_hollow_mother_gloves_f.sat",
+        "Male Nightbrother": "appearance/armor_continuum_hollow_mother_gloves_m.sat"
+      }
+    },
+    {
+      "item": "shared_armor_continuum_hollow_mother_leggings",
+      "stock_donor": "shared_armor_composite_leggings",
+      "changes": {
+        "Male Wookiee": {
+          "before": "appearance/armor_continuum_hollow_mother_leggings_wke_m.sat",
+          "after": ":block"
+        },
+        "Female Wookiee": {
+          "before": "appearance/armor_continuum_hollow_mother_leggings_wke_f.sat",
+          "after": ":block"
+        },
+        "Male Ithorian": {
+          "before": "appearance/ith_armor_continuum_hollow_mother_leggings_m.sat",
+          "after": ":block"
+        },
+        "Female Ithorian": {
+          "before": "appearance/ith_armor_continuum_hollow_mother_leggings_f.sat",
+          "after": ":block"
+        }
+      },
+      "policy": {
+        "Male Human": "appearance/armor_continuum_hollow_mother_leggings_m.sat",
+        "Female Human": "appearance/armor_continuum_hollow_mother_leggings_f.sat",
+        "Male Rodian": "appearance/armor_continuum_hollow_mother_leggings_m.sat",
+        "Female Rodian": "appearance/armor_continuum_hollow_mother_leggings_f.sat",
+        "Male MonCal": "appearance/armor_continuum_hollow_mother_leggings_m.sat",
+        "Female MonCal": "appearance/armor_continuum_hollow_mother_leggings_f.sat",
+        "Male Wookiee": ":block",
+        "Female Wookiee": ":block",
+        "Male Twi'lek": "appearance/armor_continuum_hollow_mother_leggings_m.sat",
+        "Female Twi'lek": "appearance/armor_continuum_hollow_mother_leggings_f.sat",
+        "Male Trandoshan": "appearance/armor_continuum_hollow_mother_leggings_trn_m.sat",
+        "Female Trandoshan": "appearance/armor_continuum_hollow_mother_leggings_trn_f.sat",
+        "Male Zabrak": "appearance/armor_continuum_hollow_mother_leggings_m.sat",
+        "Female Zabrak": "appearance/armor_continuum_hollow_mother_leggings_f.sat",
+        "Male Bothan": "appearance/armor_continuum_hollow_mother_leggings_m.sat",
+        "Female Bothan": "appearance/armor_continuum_hollow_mother_leggings_f.sat",
+        "Male Ithorian": ":block",
+        "Female Ithorian": ":block",
+        "Male Sullustan": "appearance/armor_continuum_hollow_mother_leggings_m.sat",
+        "Female Sullustan": "appearance/armor_continuum_hollow_mother_leggings_f.sat",
+        "Male Nightbrother": "appearance/armor_continuum_hollow_mother_leggings_m.sat"
+      }
+    },
+    {
+      "item": "shared_armor_continuum_hollow_mother_boots",
+      "stock_donor": "shared_armor_composite_boots",
+      "changes": {
+        "Male Wookiee": {
+          "before": "appearance/armor_continuum_hollow_mother_boots_wke_m.sat",
+          "after": ":block"
+        },
+        "Female Wookiee": {
+          "before": "appearance/armor_continuum_hollow_mother_boots_wke_f.sat",
+          "after": ":block"
+        },
+        "Male Trandoshan": {
+          "before": "appearance/armor_continuum_hollow_mother_boots_trn_m.sat",
+          "after": ":hide"
+        },
+        "Female Trandoshan": {
+          "before": "appearance/armor_continuum_hollow_mother_boots_trn_f.sat",
+          "after": ":hide"
+        },
+        "Male Ithorian": {
+          "before": "appearance/ith_armor_continuum_hollow_mother_boots_m.sat",
+          "after": ":block"
+        },
+        "Female Ithorian": {
+          "before": "appearance/ith_armor_continuum_hollow_mother_boots_f.sat",
+          "after": ":block"
+        }
+      },
+      "policy": {
+        "Male Human": "appearance/armor_continuum_hollow_mother_boots_m.sat",
+        "Female Human": "appearance/armor_continuum_hollow_mother_boots_f.sat",
+        "Male Rodian": "appearance/armor_continuum_hollow_mother_boots_m.sat",
+        "Female Rodian": "appearance/armor_continuum_hollow_mother_boots_f.sat",
+        "Male MonCal": "appearance/armor_continuum_hollow_mother_boots_mon_m.sat",
+        "Female MonCal": "appearance/armor_continuum_hollow_mother_boots_mon_f.sat",
+        "Male Wookiee": ":block",
+        "Female Wookiee": ":block",
+        "Male Twi'lek": "appearance/armor_continuum_hollow_mother_boots_m.sat",
+        "Female Twi'lek": "appearance/armor_continuum_hollow_mother_boots_f.sat",
+        "Male Trandoshan": ":hide",
+        "Female Trandoshan": ":hide",
+        "Male Zabrak": "appearance/armor_continuum_hollow_mother_boots_m.sat",
+        "Female Zabrak": "appearance/armor_continuum_hollow_mother_boots_f.sat",
+        "Male Bothan": "appearance/armor_continuum_hollow_mother_boots_m.sat",
+        "Female Bothan": "appearance/armor_continuum_hollow_mother_boots_f.sat",
+        "Male Ithorian": ":block",
+        "Female Ithorian": ":block",
+        "Male Sullustan": "appearance/armor_continuum_hollow_mother_boots_m.sat",
+        "Female Sullustan": "appearance/armor_continuum_hollow_mother_boots_f.sat",
+        "Male Nightbrother": "appearance/armor_continuum_hollow_mother_boots_m.sat"
+      }
+    },
+    {
+      "item": "shared_armor_continuum_hollow_mother_belt",
+      "stock_donor": "shared_belt_s01",
+      "changes": {},
+      "policy": {
+        "Male Human": "appearance/armor_continuum_hollow_mother_belt_m.sat",
+        "Female Human": "appearance/armor_continuum_hollow_mother_belt_f.sat",
+        "Male Rodian": "appearance/armor_continuum_hollow_mother_belt_m.sat",
+        "Female Rodian": "appearance/armor_continuum_hollow_mother_belt_f.sat",
+        "Male MonCal": "appearance/armor_continuum_hollow_mother_belt_m.sat",
+        "Female MonCal": "appearance/armor_continuum_hollow_mother_belt_f.sat",
+        "Male Wookiee": "appearance/armor_continuum_hollow_mother_belt_wke_m.sat",
+        "Female Wookiee": "appearance/armor_continuum_hollow_mother_belt_wke_f.sat",
+        "Male Twi'lek": "appearance/armor_continuum_hollow_mother_belt_m.sat",
+        "Female Twi'lek": "appearance/armor_continuum_hollow_mother_belt_f.sat",
+        "Male Trandoshan": "appearance/armor_continuum_hollow_mother_belt_trn_m.sat",
+        "Female Trandoshan": "appearance/armor_continuum_hollow_mother_belt_trn_f.sat",
+        "Male Zabrak": "appearance/armor_continuum_hollow_mother_belt_m.sat",
+        "Female Zabrak": "appearance/armor_continuum_hollow_mother_belt_f.sat",
+        "Male Bothan": "appearance/armor_continuum_hollow_mother_belt_m.sat",
+        "Female Bothan": "appearance/armor_continuum_hollow_mother_belt_f.sat",
+        "Male Ithorian": "appearance/ith_armor_continuum_hollow_mother_belt_m.sat",
+        "Female Ithorian": "appearance/ith_armor_continuum_hollow_mother_belt_f.sat",
+        "Male Sullustan": "appearance/armor_continuum_hollow_mother_belt_m.sat",
+        "Female Sullustan": "appearance/armor_continuum_hollow_mother_belt_f.sat",
+        "Male Nightbrother": "appearance/armor_continuum_hollow_mother_belt_m.sat"
+      }
+    },
+    {
+      "item": "shared_backpack_continuum_hollow_mother",
+      "stock_donor": "shared_backpack_s01",
+      "changes": {},
+      "policy": {
+        "Male Human": "appearance/backpack_continuum_hollow_mother_m.sat",
+        "Female Human": "appearance/backpack_continuum_hollow_mother_f.sat",
+        "Male Rodian": "appearance/backpack_continuum_hollow_mother_m.sat",
+        "Female Rodian": "appearance/backpack_continuum_hollow_mother_f.sat",
+        "Male MonCal": "appearance/backpack_continuum_hollow_mother_m.sat",
+        "Female MonCal": "appearance/backpack_continuum_hollow_mother_mon_f.sat",
+        "Male Wookiee": "appearance/backpack_continuum_hollow_mother_wke_m.sat",
+        "Female Wookiee": "appearance/backpack_continuum_hollow_mother_wke_f.sat",
+        "Male Twi'lek": "appearance/backpack_continuum_hollow_mother_m.sat",
+        "Female Twi'lek": "appearance/backpack_continuum_hollow_mother_f.sat",
+        "Male Trandoshan": "appearance/backpack_continuum_hollow_mother_trn_m.sat",
+        "Female Trandoshan": "appearance/backpack_continuum_hollow_mother_trn_f.sat",
+        "Male Zabrak": "appearance/backpack_continuum_hollow_mother_m.sat",
+        "Female Zabrak": "appearance/backpack_continuum_hollow_mother_f.sat",
+        "Male Bothan": "appearance/backpack_continuum_hollow_mother_m.sat",
+        "Female Bothan": "appearance/backpack_continuum_hollow_mother_f.sat",
+        "Male Ithorian": "appearance/ith_backpack_continuum_hollow_mother_m.sat",
+        "Female Ithorian": "appearance/ith_backpack_continuum_hollow_mother_f.sat",
+        "Male Sullustan": "appearance/backpack_continuum_hollow_mother_m.sat",
+        "Female Sullustan": "appearance/backpack_continuum_hollow_mother_f.sat",
+        "Male Nightbrother": "appearance/backpack_continuum_hollow_mother_m.sat"
+      }
+    },
+    {
+      "item": "shared_hat_spooky_tusken_king",
+      "stock_donor": "shared_hat_s10",
+      "changes": {
+        "Male Wookiee": {
+          "before": "appearance/hat_spooky_tusken_king_wke_m.sat",
+          "after": ":block"
+        },
+        "Female Wookiee": {
+          "before": "appearance/hat_spooky_tusken_king_wke_f.sat",
+          "after": ":block"
+        },
+        "Male Twi'lek": {
+          "before": "appearance/hat_spooky_tusken_king_twk_m.sat",
+          "after": ":block"
+        },
+        "Female Twi'lek": {
+          "before": "appearance/hat_spooky_tusken_king_twk_m.sat",
+          "after": ":block"
+        },
+        "Male Ithorian": {
+          "before": "appearance/ith_hat_spooky_tusken_king_m.sat",
+          "after": ":block"
+        },
+        "Female Ithorian": {
+          "before": "appearance/ith_hat_spooky_tusken_king_f.sat",
+          "after": ":block"
+        }
+      },
+      "policy": {
+        "Male Human": "appearance/hat_spooky_tusken_king_m.sat",
+        "Female Human": "appearance/hat_spooky_tusken_king_f.sat",
+        "Male Rodian": "appearance/hat_spooky_tusken_king_rod_m.sat",
+        "Female Rodian": "appearance/hat_spooky_tusken_king_rod_f.sat",
+        "Male MonCal": "appearance/hat_spooky_tusken_king_mon_m.sat",
+        "Female MonCal": "appearance/hat_spooky_tusken_king_mon_f.sat",
+        "Male Wookiee": ":block",
+        "Female Wookiee": ":block",
+        "Male Twi'lek": ":block",
+        "Female Twi'lek": ":block",
+        "Male Trandoshan": "appearance/hat_spooky_tusken_king_trn_m.sat",
+        "Female Trandoshan": "appearance/hat_spooky_tusken_king_trn_f.sat",
+        "Male Zabrak": "appearance/hat_spooky_tusken_king_m.sat",
+        "Female Zabrak": "appearance/hat_spooky_tusken_king_f.sat",
+        "Male Bothan": "appearance/hat_spooky_tusken_king_bth_m.sat",
+        "Female Bothan": "appearance/hat_spooky_tusken_king_bth_f.sat",
+        "Male Ithorian": ":block",
+        "Female Ithorian": ":block",
+        "Male Sullustan": "appearance/hat_spooky_tusken_king_sul_m.sat",
+        "Female Sullustan": "appearance/hat_spooky_tusken_king_sul_f.sat",
+        "Male Nightbrother": "appearance/hat_spooky_tusken_king_m.sat"
+      }
+    },
+    {
+      "item": "shared_shirt_spooky_tusken_king",
+      "stock_donor": "shared_shirt_s03",
+      "changes": {
+        "Male Wookiee": {
+          "before": "appearance/shirt_spooky_tusken_king_wke_m.sat",
+          "after": ":block"
+        },
+        "Female Wookiee": {
+          "before": "appearance/shirt_spooky_tusken_king_wke_f.sat",
+          "after": ":block"
+        },
+        "Male Ithorian": {
+          "before": "appearance/ith_shirt_spooky_tusken_king_m.sat",
+          "after": ":block"
+        },
+        "Female Ithorian": {
+          "before": "appearance/ith_shirt_spooky_tusken_king_f.sat",
+          "after": ":block"
+        }
+      },
+      "policy": {
+        "Male Human": "appearance/shirt_spooky_tusken_king_m.sat",
+        "Female Human": "appearance/shirt_spooky_tusken_king_f.sat",
+        "Male Rodian": "appearance/shirt_spooky_tusken_king_m.sat",
+        "Female Rodian": "appearance/shirt_spooky_tusken_king_rod_f.sat",
+        "Male MonCal": "appearance/shirt_spooky_tusken_king_mon_m.sat",
+        "Female MonCal": "appearance/shirt_spooky_tusken_king_mon_f.sat",
+        "Male Wookiee": ":block",
+        "Female Wookiee": ":block",
+        "Male Twi'lek": "appearance/shirt_spooky_tusken_king_m.sat",
+        "Female Twi'lek": "appearance/shirt_spooky_tusken_king_f.sat",
+        "Male Trandoshan": "appearance/shirt_spooky_tusken_king_m.sat",
+        "Female Trandoshan": "appearance/shirt_spooky_tusken_king_trn_f.sat",
+        "Male Zabrak": "appearance/shirt_spooky_tusken_king_m.sat",
+        "Female Zabrak": "appearance/shirt_spooky_tusken_king_f.sat",
+        "Male Bothan": "appearance/shirt_spooky_tusken_king_m.sat",
+        "Female Bothan": "appearance/shirt_spooky_tusken_king_bth_f.sat",
+        "Male Ithorian": ":block",
+        "Female Ithorian": ":block",
+        "Male Sullustan": "appearance/shirt_spooky_tusken_king_m.sat",
+        "Female Sullustan": "appearance/shirt_spooky_tusken_king_sul_f.sat",
+        "Male Nightbrother": "appearance/shirt_spooky_tusken_king_m.sat"
+      }
+    },
+    {
+      "item": "shared_spooky_tusken_king_knife_glove",
+      "stock_donor": null,
+      "changes": {},
+      "policy": {
+        "Male Human": "appearance/wp_sp_spooky_tusken_king_glove.apt",
+        "Female Human": "appearance/wp_sp_spooky_tusken_king_glove_f.apt",
+        "Male Rodian": "appearance/wp_sp_spooky_tusken_king_glove_rod_m.apt",
+        "Female Rodian": "appearance/wp_sp_spooky_tusken_king_glove_rod_f.apt",
+        "Male MonCal": "appearance/wp_sp_spooky_tusken_king_glove_mon_m.apt",
+        "Female MonCal": "appearance/wp_sp_spooky_tusken_king_glove_mon_f.apt",
+        "Male Wookiee": "appearance/wp_sp_spooky_tusken_king_glove_wke_m.apt",
+        "Female Wookiee": "appearance/wp_sp_spooky_tusken_king_glove_wke_f.apt",
+        "Male Twi'lek": "appearance/wp_sp_spooky_tusken_king_glove.apt",
+        "Female Twi'lek": "appearance/wp_sp_spooky_tusken_king_glove_f.apt",
+        "Male Trandoshan": "appearance/wp_sp_spooky_tusken_king_glove_trn_m.apt",
+        "Female Trandoshan": "appearance/wp_sp_spooky_tusken_king_glove_trn_f.apt",
+        "Male Zabrak": "appearance/wp_sp_spooky_tusken_king_glove.apt",
+        "Female Zabrak": "appearance/wp_sp_spooky_tusken_king_glove_f.apt",
+        "Male Bothan": "appearance/wp_sp_spooky_tusken_king_glove.apt",
+        "Female Bothan": "appearance/wp_sp_spooky_tusken_king_glove_bth_f.apt",
+        "Male Ithorian": "appearance/wp_sp_spooky_tusken_king_glove_ith_m.apt",
+        "Female Ithorian": "appearance/wp_sp_spooky_tusken_king_glove_ith_f.apt",
+        "Male Sullustan": "appearance/wp_sp_spooky_tusken_king_glove_sul_m.apt",
+        "Female Sullustan": "appearance/wp_sp_spooky_tusken_king_glove_sul_f.apt",
+        "Male Nightbrother": "appearance/wp_sp_spooky_tusken_king_glove.apt"
+      }
+    },
+    {
+      "item": "shared_exceptional_spooky_glove",
+      "stock_donor": null,
+      "changes": {},
+      "policy": {
+        "Male Human": "appearance/wp_sp_spooky_tusken_king_glove.apt",
+        "Female Human": "appearance/wp_sp_spooky_tusken_king_glove_f.apt",
+        "Male Rodian": "appearance/wp_sp_spooky_tusken_king_glove_rod_m.apt",
+        "Female Rodian": "appearance/wp_sp_spooky_tusken_king_glove_rod_f.apt",
+        "Male MonCal": "appearance/wp_sp_spooky_tusken_king_glove_mon_m.apt",
+        "Female MonCal": "appearance/wp_sp_spooky_tusken_king_glove_mon_f.apt",
+        "Male Wookiee": "appearance/wp_sp_spooky_tusken_king_glove_wke_m.apt",
+        "Female Wookiee": "appearance/wp_sp_spooky_tusken_king_glove_wke_f.apt",
+        "Male Twi'lek": "appearance/wp_sp_spooky_tusken_king_glove.apt",
+        "Female Twi'lek": "appearance/wp_sp_spooky_tusken_king_glove_f.apt",
+        "Male Trandoshan": "appearance/wp_sp_spooky_tusken_king_glove_trn_m.apt",
+        "Female Trandoshan": "appearance/wp_sp_spooky_tusken_king_glove_trn_f.apt",
+        "Male Zabrak": "appearance/wp_sp_spooky_tusken_king_glove.apt",
+        "Female Zabrak": "appearance/wp_sp_spooky_tusken_king_glove_f.apt",
+        "Male Bothan": "appearance/wp_sp_spooky_tusken_king_glove.apt",
+        "Female Bothan": "appearance/wp_sp_spooky_tusken_king_glove_bth_f.apt",
+        "Male Ithorian": "appearance/wp_sp_spooky_tusken_king_glove_ith_m.apt",
+        "Female Ithorian": "appearance/wp_sp_spooky_tusken_king_glove_ith_f.apt",
+        "Male Sullustan": "appearance/wp_sp_spooky_tusken_king_glove_sul_m.apt",
+        "Female Sullustan": "appearance/wp_sp_spooky_tusken_king_glove_sul_f.apt",
+        "Male Nightbrother": "appearance/wp_sp_spooky_tusken_king_glove.apt"
+      }
+    },
+    {
+      "item": "shared_back_halloween_angel_wings",
+      "stock_donor": "shared_back_love_day_10_pink_wings",
+      "changes": {
+        "Male Nightbrother": {
+          "before": "appearance/halloween_angel_wings_hum_m.sat",
+          "after": "appearance/halloween_angel_wings_zab_m.sat"
+        }
+      },
+      "policy": {
+        "Male Human": "appearance/halloween_angel_wings_hum_m.sat",
+        "Female Human": "appearance/halloween_angel_wings_hum_f.sat",
+        "Male Rodian": "appearance/halloween_angel_wings_rod_m.sat",
+        "Female Rodian": "appearance/halloween_angel_wings_rod_f.sat",
+        "Male MonCal": "appearance/halloween_angel_wings_mon_m.sat",
+        "Female MonCal": "appearance/halloween_angel_wings_mon_f.sat",
+        "Male Wookiee": "appearance/halloween_angel_wings_wke_m.sat",
+        "Female Wookiee": "appearance/halloween_angel_wings_wke_f.sat",
+        "Male Twi'lek": "appearance/halloween_angel_wings_twk_m.sat",
+        "Female Twi'lek": "appearance/halloween_angel_wings_twk_f.sat",
+        "Male Trandoshan": "appearance/halloween_angel_wings_trn_m.sat",
+        "Female Trandoshan": "appearance/halloween_angel_wings_trn_f.sat",
+        "Male Zabrak": "appearance/halloween_angel_wings_zab_m.sat",
+        "Female Zabrak": "appearance/halloween_angel_wings_zab_f.sat",
+        "Male Bothan": "appearance/halloween_angel_wings_bth_m.sat",
+        "Female Bothan": "appearance/halloween_angel_wings_bth_f.sat",
+        "Male Ithorian": "appearance/halloween_angel_wings_ith_m.sat",
+        "Female Ithorian": "appearance/halloween_angel_wings_ith_f.sat",
+        "Male Sullustan": "appearance/halloween_angel_wings_sul_m.sat",
+        "Female Sullustan": "appearance/halloween_angel_wings_sul_f.sat",
+        "Male Nightbrother": "appearance/halloween_angel_wings_zab_m.sat"
+      }
+    },
+    {
+      "item": "shared_back_halloween_angel_wings_black",
+      "stock_donor": "shared_back_love_day_10_pink_wings",
+      "changes": {
+        "Male Nightbrother": {
+          "before": "appearance/halloween_angel_wings_black_hum_m.sat",
+          "after": "appearance/halloween_angel_wings_black_zab_m.sat"
+        }
+      },
+      "policy": {
+        "Male Human": "appearance/halloween_angel_wings_black_hum_m.sat",
+        "Female Human": "appearance/halloween_angel_wings_black_hum_f.sat",
+        "Male Rodian": "appearance/halloween_angel_wings_black_rod_m.sat",
+        "Female Rodian": "appearance/halloween_angel_wings_black_rod_f.sat",
+        "Male MonCal": "appearance/halloween_angel_wings_black_mon_m.sat",
+        "Female MonCal": "appearance/halloween_angel_wings_black_mon_f.sat",
+        "Male Wookiee": "appearance/halloween_angel_wings_black_wke_m.sat",
+        "Female Wookiee": "appearance/halloween_angel_wings_black_wke_f.sat",
+        "Male Twi'lek": "appearance/halloween_angel_wings_black_twk_m.sat",
+        "Female Twi'lek": "appearance/halloween_angel_wings_black_twk_f.sat",
+        "Male Trandoshan": "appearance/halloween_angel_wings_black_trn_m.sat",
+        "Female Trandoshan": "appearance/halloween_angel_wings_black_trn_f.sat",
+        "Male Zabrak": "appearance/halloween_angel_wings_black_zab_m.sat",
+        "Female Zabrak": "appearance/halloween_angel_wings_black_zab_f.sat",
+        "Male Bothan": "appearance/halloween_angel_wings_black_bth_m.sat",
+        "Female Bothan": "appearance/halloween_angel_wings_black_bth_f.sat",
+        "Male Ithorian": "appearance/halloween_angel_wings_black_ith_m.sat",
+        "Female Ithorian": "appearance/halloween_angel_wings_black_ith_f.sat",
+        "Male Sullustan": "appearance/halloween_angel_wings_black_sul_m.sat",
+        "Female Sullustan": "appearance/halloween_angel_wings_black_sul_f.sat",
+        "Male Nightbrother": "appearance/halloween_angel_wings_black_zab_m.sat"
+      }
+    },
+    {
+      "item": "shared_back_halloween_angel_wings_red",
+      "stock_donor": "shared_back_love_day_10_pink_wings",
+      "changes": {
+        "Male Nightbrother": {
+          "before": "appearance/halloween_angel_wings_red_hum_m.sat",
+          "after": "appearance/halloween_angel_wings_red_zab_m.sat"
+        }
+      },
+      "policy": {
+        "Male Human": "appearance/halloween_angel_wings_red_hum_m.sat",
+        "Female Human": "appearance/halloween_angel_wings_red_hum_f.sat",
+        "Male Rodian": "appearance/halloween_angel_wings_red_rod_m.sat",
+        "Female Rodian": "appearance/halloween_angel_wings_red_rod_f.sat",
+        "Male MonCal": "appearance/halloween_angel_wings_red_mon_m.sat",
+        "Female MonCal": "appearance/halloween_angel_wings_red_mon_f.sat",
+        "Male Wookiee": "appearance/halloween_angel_wings_red_wke_m.sat",
+        "Female Wookiee": "appearance/halloween_angel_wings_red_wke_f.sat",
+        "Male Twi'lek": "appearance/halloween_angel_wings_red_twk_m.sat",
+        "Female Twi'lek": "appearance/halloween_angel_wings_red_twk_f.sat",
+        "Male Trandoshan": "appearance/halloween_angel_wings_red_trn_m.sat",
+        "Female Trandoshan": "appearance/halloween_angel_wings_red_trn_f.sat",
+        "Male Zabrak": "appearance/halloween_angel_wings_red_zab_m.sat",
+        "Female Zabrak": "appearance/halloween_angel_wings_red_zab_f.sat",
+        "Male Bothan": "appearance/halloween_angel_wings_red_bth_m.sat",
+        "Female Bothan": "appearance/halloween_angel_wings_red_bth_f.sat",
+        "Male Ithorian": "appearance/halloween_angel_wings_red_ith_m.sat",
+        "Female Ithorian": "appearance/halloween_angel_wings_red_ith_f.sat",
+        "Male Sullustan": "appearance/halloween_angel_wings_red_sul_m.sat",
+        "Female Sullustan": "appearance/halloween_angel_wings_red_sul_f.sat",
+        "Male Nightbrother": "appearance/halloween_angel_wings_red_zab_m.sat"
+      }
+    },
+    {
+      "item": "shared_back_halloween_angel_wings_white",
+      "stock_donor": "shared_back_love_day_10_pink_wings",
+      "changes": {
+        "Male Nightbrother": {
+          "before": "appearance/halloween_angel_wings_white_hum_m.sat",
+          "after": "appearance/halloween_angel_wings_white_zab_m.sat"
+        }
+      },
+      "policy": {
+        "Male Human": "appearance/halloween_angel_wings_white_hum_m.sat",
+        "Female Human": "appearance/halloween_angel_wings_white_hum_f.sat",
+        "Male Rodian": "appearance/halloween_angel_wings_white_rod_m.sat",
+        "Female Rodian": "appearance/halloween_angel_wings_white_rod_f.sat",
+        "Male MonCal": "appearance/halloween_angel_wings_white_mon_m.sat",
+        "Female MonCal": "appearance/halloween_angel_wings_white_mon_f.sat",
+        "Male Wookiee": "appearance/halloween_angel_wings_white_wke_m.sat",
+        "Female Wookiee": "appearance/halloween_angel_wings_white_wke_f.sat",
+        "Male Twi'lek": "appearance/halloween_angel_wings_white_twk_m.sat",
+        "Female Twi'lek": "appearance/halloween_angel_wings_white_twk_f.sat",
+        "Male Trandoshan": "appearance/halloween_angel_wings_white_trn_m.sat",
+        "Female Trandoshan": "appearance/halloween_angel_wings_white_trn_f.sat",
+        "Male Zabrak": "appearance/halloween_angel_wings_white_zab_m.sat",
+        "Female Zabrak": "appearance/halloween_angel_wings_white_zab_f.sat",
+        "Male Bothan": "appearance/halloween_angel_wings_white_bth_m.sat",
+        "Female Bothan": "appearance/halloween_angel_wings_white_bth_f.sat",
+        "Male Ithorian": "appearance/halloween_angel_wings_white_ith_m.sat",
+        "Female Ithorian": "appearance/halloween_angel_wings_white_ith_f.sat",
+        "Male Sullustan": "appearance/halloween_angel_wings_white_sul_m.sat",
+        "Female Sullustan": "appearance/halloween_angel_wings_white_sul_f.sat",
+        "Male Nightbrother": "appearance/halloween_angel_wings_white_zab_m.sat"
+      }
+    },
+    {
+      "item": "shared_back_halloween_angel_wings_blue",
+      "stock_donor": "shared_back_love_day_10_pink_wings",
+      "changes": {
+        "Male Nightbrother": {
+          "before": "appearance/halloween_angel_wings_blue_hum_m.sat",
+          "after": "appearance/halloween_angel_wings_blue_zab_m.sat"
+        }
+      },
+      "policy": {
+        "Male Human": "appearance/halloween_angel_wings_blue_hum_m.sat",
+        "Female Human": "appearance/halloween_angel_wings_blue_hum_f.sat",
+        "Male Rodian": "appearance/halloween_angel_wings_blue_rod_m.sat",
+        "Female Rodian": "appearance/halloween_angel_wings_blue_rod_f.sat",
+        "Male MonCal": "appearance/halloween_angel_wings_blue_mon_m.sat",
+        "Female MonCal": "appearance/halloween_angel_wings_blue_mon_f.sat",
+        "Male Wookiee": "appearance/halloween_angel_wings_blue_wke_m.sat",
+        "Female Wookiee": "appearance/halloween_angel_wings_blue_wke_f.sat",
+        "Male Twi'lek": "appearance/halloween_angel_wings_blue_twk_m.sat",
+        "Female Twi'lek": "appearance/halloween_angel_wings_blue_twk_f.sat",
+        "Male Trandoshan": "appearance/halloween_angel_wings_blue_trn_m.sat",
+        "Female Trandoshan": "appearance/halloween_angel_wings_blue_trn_f.sat",
+        "Male Zabrak": "appearance/halloween_angel_wings_blue_zab_m.sat",
+        "Female Zabrak": "appearance/halloween_angel_wings_blue_zab_f.sat",
+        "Male Bothan": "appearance/halloween_angel_wings_blue_bth_m.sat",
+        "Female Bothan": "appearance/halloween_angel_wings_blue_bth_f.sat",
+        "Male Ithorian": "appearance/halloween_angel_wings_blue_ith_m.sat",
+        "Female Ithorian": "appearance/halloween_angel_wings_blue_ith_f.sat",
+        "Male Sullustan": "appearance/halloween_angel_wings_blue_sul_m.sat",
+        "Female Sullustan": "appearance/halloween_angel_wings_blue_sul_f.sat",
+        "Male Nightbrother": "appearance/halloween_angel_wings_blue_zab_m.sat"
+      }
+    },
+    {
+      "item": "shared_armor_clone_commando_helmet",
+      "stock_donor": "shared_armor_composite_helmet",
+      "changes": {
+        "Male Wookiee": {
+          "before": "appearance/armor_clone_commando_helmet_wke_m.sat",
+          "after": ":block"
+        },
+        "Female Wookiee": {
+          "before": "appearance/armor_clone_commando_helmet_wke_f.sat",
+          "after": ":block"
+        },
+        "Male Ithorian": {
+          "before": "appearance/ith_armor_clone_commando_helmet_m.sat",
+          "after": ":block"
+        },
+        "Female Ithorian": {
+          "before": "appearance/ith_armor_clone_commando_helmet_f.sat",
+          "after": ":block"
+        },
+        "Male Nightbrother": {
+          "before": "appearance/armor_clone_commando_helmet_m.sat",
+          "after": "appearance/armor_clone_commando_helmet_zab_m.sat"
+        }
+      },
+      "policy": {
+        "Male Human": "appearance/armor_clone_commando_helmet_m.sat",
+        "Female Human": "appearance/armor_clone_commando_helmet_f.sat",
+        "Male Rodian": "appearance/armor_clone_commando_helmet_rod_m.sat",
+        "Female Rodian": "appearance/armor_clone_commando_helmet_rod_f.sat",
+        "Male MonCal": "appearance/armor_clone_commando_helmet_mon_m.sat",
+        "Female MonCal": "appearance/armor_clone_commando_helmet_mon_f.sat",
+        "Male Wookiee": ":block",
+        "Female Wookiee": ":block",
+        "Male Twi'lek": "appearance/armor_clone_commando_helmet_twk_m.sat",
+        "Female Twi'lek": "appearance/armor_clone_commando_helmet_twk_f.sat",
+        "Male Trandoshan": "appearance/armor_clone_commando_helmet_trn_m.sat",
+        "Female Trandoshan": "appearance/armor_clone_commando_helmet_trn_f.sat",
+        "Male Zabrak": "appearance/armor_clone_commando_helmet_zab_m.sat",
+        "Female Zabrak": "appearance/armor_clone_commando_helmet_zab_f.sat",
+        "Male Bothan": "appearance/armor_clone_commando_helmet_bth_m.sat",
+        "Female Bothan": "appearance/armor_clone_commando_helmet_bth_f.sat",
+        "Male Ithorian": ":block",
+        "Female Ithorian": ":block",
+        "Male Sullustan": "appearance/armor_clone_commando_helmet_sul_m.sat",
+        "Female Sullustan": "appearance/armor_clone_commando_helmet_sul_f.sat",
+        "Male Nightbrother": "appearance/armor_clone_commando_helmet_zab_m.sat"
+      }
+    },
+    {
+      "item": "shared_armor_clone_commando_chest_plate",
+      "stock_donor": "shared_armor_composite_chest_plate",
+      "changes": {
+        "Male Wookiee": {
+          "before": "appearance/armor_clone_commando_chest_plate_wke_m.sat",
+          "after": ":block"
+        },
+        "Female Wookiee": {
+          "before": "appearance/armor_clone_commando_chest_plate_wke_f.sat",
+          "after": ":block"
+        },
+        "Male Ithorian": {
+          "before": "appearance/ith_armor_clone_commando_chest_plate_m.sat",
+          "after": ":block"
+        },
+        "Female Ithorian": {
+          "before": "appearance/ith_armor_clone_commando_chest_plate_f.sat",
+          "after": ":block"
+        },
+        "Male Nightbrother": {
+          "before": "appearance/armor_clone_commando_chest_plate_m.sat",
+          "after": "appearance/armor_clone_commando_chest_plate_zab_m.sat"
+        }
+      },
+      "policy": {
+        "Male Human": "appearance/armor_clone_commando_chest_plate_m.sat",
+        "Female Human": "appearance/armor_clone_commando_chest_plate_f.sat",
+        "Male Rodian": "appearance/armor_clone_commando_chest_plate_rod_m.sat",
+        "Female Rodian": "appearance/armor_clone_commando_chest_plate_rod_f.sat",
+        "Male MonCal": "appearance/armor_clone_commando_chest_plate_mon_m.sat",
+        "Female MonCal": "appearance/armor_clone_commando_chest_plate_mon_f.sat",
+        "Male Wookiee": ":block",
+        "Female Wookiee": ":block",
+        "Male Twi'lek": "appearance/armor_clone_commando_chest_plate_twk_m.sat",
+        "Female Twi'lek": "appearance/armor_clone_commando_chest_plate_twk_f.sat",
+        "Male Trandoshan": "appearance/armor_clone_commando_chest_plate_trn_m.sat",
+        "Female Trandoshan": "appearance/armor_clone_commando_chest_plate_trn_f.sat",
+        "Male Zabrak": "appearance/armor_clone_commando_chest_plate_zab_m.sat",
+        "Female Zabrak": "appearance/armor_clone_commando_chest_plate_zab_f.sat",
+        "Male Bothan": "appearance/armor_clone_commando_chest_plate_bth_m.sat",
+        "Female Bothan": "appearance/armor_clone_commando_chest_plate_bth_f.sat",
+        "Male Ithorian": ":block",
+        "Female Ithorian": ":block",
+        "Male Sullustan": "appearance/armor_clone_commando_chest_plate_sul_m.sat",
+        "Female Sullustan": "appearance/armor_clone_commando_chest_plate_sul_f.sat",
+        "Male Nightbrother": "appearance/armor_clone_commando_chest_plate_zab_m.sat"
+      }
+    },
+    {
+      "item": "shared_armor_clone_commando_bicep_l",
+      "stock_donor": "shared_armor_composite_bicep_l",
+      "changes": {
+        "Male Wookiee": {
+          "before": "appearance/armor_clone_commando_bicep_l_wke_m.sat",
+          "after": ":block"
+        },
+        "Female Wookiee": {
+          "before": "appearance/armor_clone_commando_bicep_l_wke_f.sat",
+          "after": ":block"
+        },
+        "Male Ithorian": {
+          "before": "appearance/ith_armor_clone_commando_bicep_l_m.sat",
+          "after": ":block"
+        },
+        "Female Ithorian": {
+          "before": "appearance/ith_armor_clone_commando_bicep_l_f.sat",
+          "after": ":block"
+        },
+        "Male Nightbrother": {
+          "before": "appearance/armor_clone_commando_bicep_l_m.sat",
+          "after": "appearance/armor_clone_commando_bicep_l_zab_m.sat"
+        }
+      },
+      "policy": {
+        "Male Human": "appearance/armor_clone_commando_bicep_l_m.sat",
+        "Female Human": "appearance/armor_clone_commando_bicep_l_f.sat",
+        "Male Rodian": "appearance/armor_clone_commando_bicep_l_rod_m.sat",
+        "Female Rodian": "appearance/armor_clone_commando_bicep_l_rod_f.sat",
+        "Male MonCal": "appearance/armor_clone_commando_bicep_l_mon_m.sat",
+        "Female MonCal": "appearance/armor_clone_commando_bicep_l_mon_f.sat",
+        "Male Wookiee": ":block",
+        "Female Wookiee": ":block",
+        "Male Twi'lek": "appearance/armor_clone_commando_bicep_l_twk_m.sat",
+        "Female Twi'lek": "appearance/armor_clone_commando_bicep_l_twk_f.sat",
+        "Male Trandoshan": "appearance/armor_clone_commando_bicep_l_trn_m.sat",
+        "Female Trandoshan": "appearance/armor_clone_commando_bicep_l_trn_f.sat",
+        "Male Zabrak": "appearance/armor_clone_commando_bicep_l_zab_m.sat",
+        "Female Zabrak": "appearance/armor_clone_commando_bicep_l_zab_f.sat",
+        "Male Bothan": "appearance/armor_clone_commando_bicep_l_bth_m.sat",
+        "Female Bothan": "appearance/armor_clone_commando_bicep_l_bth_f.sat",
+        "Male Ithorian": ":block",
+        "Female Ithorian": ":block",
+        "Male Sullustan": "appearance/armor_clone_commando_bicep_l_sul_m.sat",
+        "Female Sullustan": "appearance/armor_clone_commando_bicep_l_sul_f.sat",
+        "Male Nightbrother": "appearance/armor_clone_commando_bicep_l_zab_m.sat"
+      }
+    },
+    {
+      "item": "shared_armor_clone_commando_bicep_r",
+      "stock_donor": "shared_armor_composite_bicep_r",
+      "changes": {
+        "Male Wookiee": {
+          "before": "appearance/armor_clone_commando_bicep_r_wke_m.sat",
+          "after": ":block"
+        },
+        "Female Wookiee": {
+          "before": "appearance/armor_clone_commando_bicep_r_wke_f.sat",
+          "after": ":block"
+        },
+        "Male Ithorian": {
+          "before": "appearance/ith_armor_clone_commando_bicep_r_m.sat",
+          "after": ":block"
+        },
+        "Female Ithorian": {
+          "before": "appearance/ith_armor_clone_commando_bicep_r_f.sat",
+          "after": ":block"
+        },
+        "Male Nightbrother": {
+          "before": "appearance/armor_clone_commando_bicep_r_m.sat",
+          "after": "appearance/armor_clone_commando_bicep_r_zab_m.sat"
+        }
+      },
+      "policy": {
+        "Male Human": "appearance/armor_clone_commando_bicep_r_m.sat",
+        "Female Human": "appearance/armor_clone_commando_bicep_r_f.sat",
+        "Male Rodian": "appearance/armor_clone_commando_bicep_r_rod_m.sat",
+        "Female Rodian": "appearance/armor_clone_commando_bicep_r_rod_f.sat",
+        "Male MonCal": "appearance/armor_clone_commando_bicep_r_mon_m.sat",
+        "Female MonCal": "appearance/armor_clone_commando_bicep_r_mon_f.sat",
+        "Male Wookiee": ":block",
+        "Female Wookiee": ":block",
+        "Male Twi'lek": "appearance/armor_clone_commando_bicep_r_twk_m.sat",
+        "Female Twi'lek": "appearance/armor_clone_commando_bicep_r_twk_f.sat",
+        "Male Trandoshan": "appearance/armor_clone_commando_bicep_r_trn_m.sat",
+        "Female Trandoshan": "appearance/armor_clone_commando_bicep_r_trn_f.sat",
+        "Male Zabrak": "appearance/armor_clone_commando_bicep_r_zab_m.sat",
+        "Female Zabrak": "appearance/armor_clone_commando_bicep_r_zab_f.sat",
+        "Male Bothan": "appearance/armor_clone_commando_bicep_r_bth_m.sat",
+        "Female Bothan": "appearance/armor_clone_commando_bicep_r_bth_f.sat",
+        "Male Ithorian": ":block",
+        "Female Ithorian": ":block",
+        "Male Sullustan": "appearance/armor_clone_commando_bicep_r_sul_m.sat",
+        "Female Sullustan": "appearance/armor_clone_commando_bicep_r_sul_f.sat",
+        "Male Nightbrother": "appearance/armor_clone_commando_bicep_r_zab_m.sat"
+      }
+    },
+    {
+      "item": "shared_armor_clone_commando_bracer_l",
+      "stock_donor": "shared_armor_composite_bracer_l",
+      "changes": {
+        "Male Wookiee": {
+          "before": "appearance/armor_clone_commando_bracer_l_wke_m.sat",
+          "after": ":block"
+        },
+        "Female Wookiee": {
+          "before": "appearance/armor_clone_commando_bracer_l_wke_f.sat",
+          "after": ":block"
+        },
+        "Male Ithorian": {
+          "before": "appearance/ith_armor_clone_commando_bracer_l_m.sat",
+          "after": ":block"
+        },
+        "Female Ithorian": {
+          "before": "appearance/ith_armor_clone_commando_bracer_l_f.sat",
+          "after": ":block"
+        },
+        "Male Nightbrother": {
+          "before": "appearance/armor_clone_commando_bracer_l_m.sat",
+          "after": "appearance/armor_clone_commando_bracer_l_zab_m.sat"
+        }
+      },
+      "policy": {
+        "Male Human": "appearance/armor_clone_commando_bracer_l_m.sat",
+        "Female Human": "appearance/armor_clone_commando_bracer_l_f.sat",
+        "Male Rodian": "appearance/armor_clone_commando_bracer_l_rod_m.sat",
+        "Female Rodian": "appearance/armor_clone_commando_bracer_l_rod_f.sat",
+        "Male MonCal": "appearance/armor_clone_commando_bracer_l_mon_m.sat",
+        "Female MonCal": "appearance/armor_clone_commando_bracer_l_mon_f.sat",
+        "Male Wookiee": ":block",
+        "Female Wookiee": ":block",
+        "Male Twi'lek": "appearance/armor_clone_commando_bracer_l_twk_m.sat",
+        "Female Twi'lek": "appearance/armor_clone_commando_bracer_l_twk_f.sat",
+        "Male Trandoshan": "appearance/armor_clone_commando_bracer_l_trn_m.sat",
+        "Female Trandoshan": "appearance/armor_clone_commando_bracer_l_trn_f.sat",
+        "Male Zabrak": "appearance/armor_clone_commando_bracer_l_zab_m.sat",
+        "Female Zabrak": "appearance/armor_clone_commando_bracer_l_zab_f.sat",
+        "Male Bothan": "appearance/armor_clone_commando_bracer_l_bth_m.sat",
+        "Female Bothan": "appearance/armor_clone_commando_bracer_l_bth_f.sat",
+        "Male Ithorian": ":block",
+        "Female Ithorian": ":block",
+        "Male Sullustan": "appearance/armor_clone_commando_bracer_l_sul_m.sat",
+        "Female Sullustan": "appearance/armor_clone_commando_bracer_l_sul_f.sat",
+        "Male Nightbrother": "appearance/armor_clone_commando_bracer_l_zab_m.sat"
+      }
+    },
+    {
+      "item": "shared_armor_clone_commando_bracer_r",
+      "stock_donor": "shared_armor_composite_bracer_r",
+      "changes": {
+        "Male Wookiee": {
+          "before": "appearance/armor_clone_commando_bracer_r_wke_m.sat",
+          "after": ":block"
+        },
+        "Female Wookiee": {
+          "before": "appearance/armor_clone_commando_bracer_r_wke_f.sat",
+          "after": ":block"
+        },
+        "Male Ithorian": {
+          "before": "appearance/ith_armor_clone_commando_bracer_r_m.sat",
+          "after": ":block"
+        },
+        "Female Ithorian": {
+          "before": "appearance/ith_armor_clone_commando_bracer_r_f.sat",
+          "after": ":block"
+        },
+        "Male Nightbrother": {
+          "before": "appearance/armor_clone_commando_bracer_r_m.sat",
+          "after": "appearance/armor_clone_commando_bracer_r_zab_m.sat"
+        }
+      },
+      "policy": {
+        "Male Human": "appearance/armor_clone_commando_bracer_r_m.sat",
+        "Female Human": "appearance/armor_clone_commando_bracer_r_f.sat",
+        "Male Rodian": "appearance/armor_clone_commando_bracer_r_rod_m.sat",
+        "Female Rodian": "appearance/armor_clone_commando_bracer_r_rod_f.sat",
+        "Male MonCal": "appearance/armor_clone_commando_bracer_r_mon_m.sat",
+        "Female MonCal": "appearance/armor_clone_commando_bracer_r_mon_f.sat",
+        "Male Wookiee": ":block",
+        "Female Wookiee": ":block",
+        "Male Twi'lek": "appearance/armor_clone_commando_bracer_r_twk_m.sat",
+        "Female Twi'lek": "appearance/armor_clone_commando_bracer_r_twk_f.sat",
+        "Male Trandoshan": "appearance/armor_clone_commando_bracer_r_trn_m.sat",
+        "Female Trandoshan": "appearance/armor_clone_commando_bracer_r_trn_f.sat",
+        "Male Zabrak": "appearance/armor_clone_commando_bracer_r_zab_m.sat",
+        "Female Zabrak": "appearance/armor_clone_commando_bracer_r_zab_f.sat",
+        "Male Bothan": "appearance/armor_clone_commando_bracer_r_bth_m.sat",
+        "Female Bothan": "appearance/armor_clone_commando_bracer_r_bth_f.sat",
+        "Male Ithorian": ":block",
+        "Female Ithorian": ":block",
+        "Male Sullustan": "appearance/armor_clone_commando_bracer_r_sul_m.sat",
+        "Female Sullustan": "appearance/armor_clone_commando_bracer_r_sul_f.sat",
+        "Male Nightbrother": "appearance/armor_clone_commando_bracer_r_zab_m.sat"
+      }
+    },
+    {
+      "item": "shared_armor_clone_commando_gloves",
+      "stock_donor": "shared_armor_composite_gloves",
+      "changes": {
+        "Male Wookiee": {
+          "before": "appearance/armor_clone_commando_gloves_wke_m.sat",
+          "after": ":block"
+        },
+        "Female Wookiee": {
+          "before": "appearance/armor_clone_commando_gloves_wke_f.sat",
+          "after": ":block"
+        },
+        "Male Trandoshan": {
+          "before": "appearance/armor_clone_commando_gloves_trn_m.sat",
+          "after": ":hide"
+        },
+        "Female Trandoshan": {
+          "before": "appearance/armor_clone_commando_gloves_trn_f.sat",
+          "after": ":hide"
+        },
+        "Male Ithorian": {
+          "before": "appearance/ith_armor_clone_commando_gloves_m.sat",
+          "after": ":block"
+        },
+        "Female Ithorian": {
+          "before": "appearance/ith_armor_clone_commando_gloves_f.sat",
+          "after": ":block"
+        },
+        "Male Nightbrother": {
+          "before": "appearance/armor_clone_commando_gloves_m.sat",
+          "after": "appearance/armor_clone_commando_gloves_zab_m.sat"
+        }
+      },
+      "policy": {
+        "Male Human": "appearance/armor_clone_commando_gloves_m.sat",
+        "Female Human": "appearance/armor_clone_commando_gloves_f.sat",
+        "Male Rodian": "appearance/armor_clone_commando_gloves_rod_m.sat",
+        "Female Rodian": "appearance/armor_clone_commando_gloves_rod_f.sat",
+        "Male MonCal": "appearance/armor_clone_commando_gloves_mon_m.sat",
+        "Female MonCal": "appearance/armor_clone_commando_gloves_mon_f.sat",
+        "Male Wookiee": ":block",
+        "Female Wookiee": ":block",
+        "Male Twi'lek": "appearance/armor_clone_commando_gloves_twk_m.sat",
+        "Female Twi'lek": "appearance/armor_clone_commando_gloves_twk_f.sat",
+        "Male Trandoshan": ":hide",
+        "Female Trandoshan": ":hide",
+        "Male Zabrak": "appearance/armor_clone_commando_gloves_zab_m.sat",
+        "Female Zabrak": "appearance/armor_clone_commando_gloves_zab_f.sat",
+        "Male Bothan": "appearance/armor_clone_commando_gloves_bth_m.sat",
+        "Female Bothan": "appearance/armor_clone_commando_gloves_bth_f.sat",
+        "Male Ithorian": ":block",
+        "Female Ithorian": ":block",
+        "Male Sullustan": "appearance/armor_clone_commando_gloves_sul_m.sat",
+        "Female Sullustan": "appearance/armor_clone_commando_gloves_sul_f.sat",
+        "Male Nightbrother": "appearance/armor_clone_commando_gloves_zab_m.sat"
+      }
+    },
+    {
+      "item": "shared_armor_clone_commando_leggings",
+      "stock_donor": "shared_armor_composite_leggings",
+      "changes": {
+        "Male Wookiee": {
+          "before": "appearance/armor_clone_commando_leggings_wke_m.sat",
+          "after": ":block"
+        },
+        "Female Wookiee": {
+          "before": "appearance/armor_clone_commando_leggings_wke_f.sat",
+          "after": ":block"
+        },
+        "Male Ithorian": {
+          "before": "appearance/ith_armor_clone_commando_leggings_m.sat",
+          "after": ":block"
+        },
+        "Female Ithorian": {
+          "before": "appearance/ith_armor_clone_commando_leggings_f.sat",
+          "after": ":block"
+        },
+        "Male Nightbrother": {
+          "before": "appearance/armor_clone_commando_leggings_m.sat",
+          "after": "appearance/armor_clone_commando_leggings_zab_m.sat"
+        }
+      },
+      "policy": {
+        "Male Human": "appearance/armor_clone_commando_leggings_m.sat",
+        "Female Human": "appearance/armor_clone_commando_leggings_f.sat",
+        "Male Rodian": "appearance/armor_clone_commando_leggings_rod_m.sat",
+        "Female Rodian": "appearance/armor_clone_commando_leggings_rod_f.sat",
+        "Male MonCal": "appearance/armor_clone_commando_leggings_mon_m.sat",
+        "Female MonCal": "appearance/armor_clone_commando_leggings_mon_f.sat",
+        "Male Wookiee": ":block",
+        "Female Wookiee": ":block",
+        "Male Twi'lek": "appearance/armor_clone_commando_leggings_twk_m.sat",
+        "Female Twi'lek": "appearance/armor_clone_commando_leggings_twk_f.sat",
+        "Male Trandoshan": "appearance/armor_clone_commando_leggings_trn_m.sat",
+        "Female Trandoshan": "appearance/armor_clone_commando_leggings_trn_f.sat",
+        "Male Zabrak": "appearance/armor_clone_commando_leggings_zab_m.sat",
+        "Female Zabrak": "appearance/armor_clone_commando_leggings_zab_f.sat",
+        "Male Bothan": "appearance/armor_clone_commando_leggings_bth_m.sat",
+        "Female Bothan": "appearance/armor_clone_commando_leggings_bth_f.sat",
+        "Male Ithorian": ":block",
+        "Female Ithorian": ":block",
+        "Male Sullustan": "appearance/armor_clone_commando_leggings_sul_m.sat",
+        "Female Sullustan": "appearance/armor_clone_commando_leggings_sul_f.sat",
+        "Male Nightbrother": "appearance/armor_clone_commando_leggings_zab_m.sat"
+      }
+    },
+    {
+      "item": "shared_armor_clone_commando_boots",
+      "stock_donor": "shared_armor_composite_boots",
+      "changes": {
+        "Male Wookiee": {
+          "before": "appearance/armor_clone_commando_boots_wke_m.sat",
+          "after": ":block"
+        },
+        "Female Wookiee": {
+          "before": "appearance/armor_clone_commando_boots_wke_f.sat",
+          "after": ":block"
+        },
+        "Male Trandoshan": {
+          "before": "appearance/armor_clone_commando_boots_trn_m.sat",
+          "after": ":hide"
+        },
+        "Female Trandoshan": {
+          "before": "appearance/armor_clone_commando_boots_trn_f.sat",
+          "after": ":hide"
+        },
+        "Male Ithorian": {
+          "before": "appearance/ith_armor_clone_commando_boots_m.sat",
+          "after": ":block"
+        },
+        "Female Ithorian": {
+          "before": "appearance/ith_armor_clone_commando_boots_f.sat",
+          "after": ":block"
+        },
+        "Male Nightbrother": {
+          "before": "appearance/armor_clone_commando_boots_m.sat",
+          "after": "appearance/armor_clone_commando_boots_zab_m.sat"
+        }
+      },
+      "policy": {
+        "Male Human": "appearance/armor_clone_commando_boots_m.sat",
+        "Female Human": "appearance/armor_clone_commando_boots_f.sat",
+        "Male Rodian": "appearance/armor_clone_commando_boots_rod_m.sat",
+        "Female Rodian": "appearance/armor_clone_commando_boots_rod_f.sat",
+        "Male MonCal": "appearance/armor_clone_commando_boots_mon_m.sat",
+        "Female MonCal": "appearance/armor_clone_commando_boots_mon_f.sat",
+        "Male Wookiee": ":block",
+        "Female Wookiee": ":block",
+        "Male Twi'lek": "appearance/armor_clone_commando_boots_twk_m.sat",
+        "Female Twi'lek": "appearance/armor_clone_commando_boots_twk_f.sat",
+        "Male Trandoshan": ":hide",
+        "Female Trandoshan": ":hide",
+        "Male Zabrak": "appearance/armor_clone_commando_boots_zab_m.sat",
+        "Female Zabrak": "appearance/armor_clone_commando_boots_zab_f.sat",
+        "Male Bothan": "appearance/armor_clone_commando_boots_bth_m.sat",
+        "Female Bothan": "appearance/armor_clone_commando_boots_bth_f.sat",
+        "Male Ithorian": ":block",
+        "Female Ithorian": ":block",
+        "Male Sullustan": "appearance/armor_clone_commando_boots_sul_m.sat",
+        "Female Sullustan": "appearance/armor_clone_commando_boots_sul_f.sat",
+        "Male Nightbrother": "appearance/armor_clone_commando_boots_zab_m.sat"
+      }
+    },
+    {
+      "item": "shared_armor_clone_commando_belt",
+      "stock_donor": "shared_belt_s01",
+      "changes": {
+        "Male Nightbrother": {
+          "before": "appearance/armor_clone_commando_belt_m.sat",
+          "after": "appearance/armor_clone_commando_belt_zab_m.sat"
+        }
+      },
+      "policy": {
+        "Male Human": "appearance/armor_clone_commando_belt_m.sat",
+        "Female Human": "appearance/armor_clone_commando_belt_f.sat",
+        "Male Rodian": "appearance/armor_clone_commando_belt_rod_m.sat",
+        "Female Rodian": "appearance/armor_clone_commando_belt_rod_f.sat",
+        "Male MonCal": "appearance/armor_clone_commando_belt_mon_m.sat",
+        "Female MonCal": "appearance/armor_clone_commando_belt_mon_f.sat",
+        "Male Wookiee": "appearance/armor_clone_commando_belt_wke_m.sat",
+        "Female Wookiee": "appearance/armor_clone_commando_belt_wke_f.sat",
+        "Male Twi'lek": "appearance/armor_clone_commando_belt_twk_m.sat",
+        "Female Twi'lek": "appearance/armor_clone_commando_belt_twk_f.sat",
+        "Male Trandoshan": "appearance/armor_clone_commando_belt_trn_m.sat",
+        "Female Trandoshan": "appearance/armor_clone_commando_belt_trn_f.sat",
+        "Male Zabrak": "appearance/armor_clone_commando_belt_zab_m.sat",
+        "Female Zabrak": "appearance/armor_clone_commando_belt_zab_f.sat",
+        "Male Bothan": "appearance/armor_clone_commando_belt_bth_m.sat",
+        "Female Bothan": "appearance/armor_clone_commando_belt_bth_f.sat",
+        "Male Ithorian": "appearance/ith_armor_clone_commando_belt_m.sat",
+        "Female Ithorian": "appearance/ith_armor_clone_commando_belt_f.sat",
+        "Male Sullustan": "appearance/armor_clone_commando_belt_sul_m.sat",
+        "Female Sullustan": "appearance/armor_clone_commando_belt_sul_f.sat",
+        "Male Nightbrother": "appearance/armor_clone_commando_belt_zab_m.sat"
+      }
+    },
+    {
+      "item": "shared_backpack_clone_commando",
+      "stock_donor": "shared_backpack_s01",
+      "changes": {
+        "Male Nightbrother": {
+          "before": "appearance/backpack_clone_commando_m.sat",
+          "after": "appearance/backpack_clone_commando_zab_m.sat"
+        }
+      },
+      "policy": {
+        "Male Human": "appearance/backpack_clone_commando_m.sat",
+        "Female Human": "appearance/backpack_clone_commando_f.sat",
+        "Male Rodian": "appearance/backpack_clone_commando_rod_m.sat",
+        "Female Rodian": "appearance/backpack_clone_commando_rod_f.sat",
+        "Male MonCal": "appearance/backpack_clone_commando_mon_m.sat",
+        "Female MonCal": "appearance/backpack_clone_commando_mon_f.sat",
+        "Male Wookiee": "appearance/backpack_clone_commando_wke_m.sat",
+        "Female Wookiee": "appearance/backpack_clone_commando_wke_f.sat",
+        "Male Twi'lek": "appearance/backpack_clone_commando_twk_m.sat",
+        "Female Twi'lek": "appearance/backpack_clone_commando_twk_f.sat",
+        "Male Trandoshan": "appearance/backpack_clone_commando_trn_m.sat",
+        "Female Trandoshan": "appearance/backpack_clone_commando_trn_f.sat",
+        "Male Zabrak": "appearance/backpack_clone_commando_zab_m.sat",
+        "Female Zabrak": "appearance/backpack_clone_commando_zab_f.sat",
+        "Male Bothan": "appearance/backpack_clone_commando_bth_m.sat",
+        "Female Bothan": "appearance/backpack_clone_commando_bth_f.sat",
+        "Male Ithorian": "appearance/ith_backpack_clone_commando_m.sat",
+        "Female Ithorian": "appearance/ith_backpack_clone_commando_f.sat",
+        "Male Sullustan": "appearance/backpack_clone_commando_sul_m.sat",
+        "Female Sullustan": "appearance/backpack_clone_commando_sul_f.sat",
+        "Male Nightbrother": "appearance/backpack_clone_commando_zab_m.sat"
+      }
+    }
+  ],
+  "native_validation_pending_server_restart": false,
+  "note": "Stock :block eligibility and :hide presentation rules retained. Species fits alone do not grant access. Nightbrother follows the Zabrak fit.",
+  "native_checks": 576,
+  "native_failures": 0,
+  "native_coverage": "18 stock species/sex NPC fixtures x 32 items; Nightbrother mapping checked statically against male Zabrak fits. Visual combinations are not all tested."
+}

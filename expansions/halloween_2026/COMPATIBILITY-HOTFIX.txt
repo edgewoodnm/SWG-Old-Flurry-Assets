@@ -1,0 +1,24 @@
+Old Flurry Halloween compatibility hotfix
+
+Required for clients using the Halloween overlay from the earlier backup.
+Fixes the appearance-equip crash in all 400 wing meshes (five colors, all supplied
+species/sex fits and four detail levels). The owner confirmed green wings equip
+without crashing after restarting. All 2,037 supplied skeletal meshes passed
+the structural checks used for this fix; this is not exhaustive visual QA.
+
+Restores stock species block/hide rules for the new clothing and armor, including
+Wookiee restrictions and Trandoshan hidden footwear/gloves. Nightbrother rows
+use the supplied male Zabrak fits. 576 native server eligibility checks passed.
+Individual visual fit checks, including Nightbrother outfits, remain ongoing.
+
+Installation for an existing halloween_event_files overlay:
+Completely close the game, extract this ZIP into the client root, replace its
+401 files inside halloween_event_files, then restart the game. Do not relog only.
+Keep the other Halloween resources and existing configuration.
+This combined ZIP includes the earlier wing crash fix; do not apply both.
+The halo works normally with Show Helmet enabled and the head slot available.
+
+Matching server species rules are deployed. Existing non-Halloween appearance
+rows are preserved. The earlier commit 7fb76d1 has unsafe wing meshes and must
+not be redistributed. The existing v1.0.28 launcher does not contain Halloween
+assets; its cumulative package and manifest are unchanged by this manual hotfix.

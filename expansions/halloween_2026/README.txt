@@ -1,3 +1,5 @@
+CURRENT HOTFIX: COMPATIBILITY-HOTFIX.txt combines the wing crash repair with stock species eligibility and Nightbrother mapping corrections.
+
 IMPORTANT: wing equip crash repaired. See WING-CRASH-HOTFIX.txt.
 
 Old Flurry Halloween integration backup
