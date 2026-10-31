@@ -1,0 +1,12 @@
+{
+  "existing_player_item_equip": "Awaiting Mysterio QA retest",
+  "cluster_ready": true,
+  "native_crystal_pass_count": 2,
+  "player_inventory_modified": false,
+  "checks": [
+    "Stock fifth-generation saber recognizes native color crystal",
+    "Custom Maul saber recognizes native color crystal and blade palette",
+    "Temporary test objects cleaned up"
+  ],
+  "passed": true
+}
