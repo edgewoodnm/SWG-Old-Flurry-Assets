@@ -1,0 +1,10 @@
+Vader Vendor Collection — v1.0.32
+
+Darth Vader in Mos Eisley offers 18 new entries, 50,000 credits each:
+- 11 permanent Fett Mandalorian armor schematic readouts, including belt and wearable jetpack. Craft with the native Munitions armor system and select plate/trim colors. The jetpack is a backpack appearance, not a flying vehicle.
+- Neon Green and Neon Red Exar Kun sword schematic readouts, one use each, using native cored-weapon crafting.
+- Five finished Slave I furniture pieces: bunk, pilot chair, galley table, gear locker and holo monitor.
+
+Existing Vader items and all earlier cumulative client content remain available. TRE-only update; fully close SWG, update through the normal launcher, then reopen. Private test client remains separate.
+
+Native templates, scripting and table compilation passed. Asset meshes and native dependencies validated. Full in-game crafting, color selection, species fit, furniture seating/storage and audio still require player QA. Server maintenance also activates the pending per-player Ben opening voice delivery fix.

@@ -1,0 +1,27 @@
+{
+  "passed": true,
+  "tre_only": true,
+  "resources": 1501,
+  "new_tre": "old_flurry_vader_collection_v1_0_32.tre",
+  "priority": 23,
+  "searchAbsolute": 18,
+  "previous_archives_unchanged": {
+    "old_flurry_castle_qa_v1_0_31.tre": "df292d3489dd2b433eb80b3cfa5ea36a0340fbdf39b4205eaff34dab66680749",
+    "old_flurry_halloween_01.tre": "47151f51307045e8d2a7e26543a9231fa110bb7c4e53786036e3305f3f4d1d7c",
+    "old_flurry_halloween_02.tre": "dc8c576ed853dff086564b785edfc8f516e000ed7d0ab0c1bc159911b648a85c",
+    "old_flurry_halloween_03.tre": "617138c14bd5432b66455c681489ceeb53e81f671ed2d13734c98a3ccf328540",
+    "swgsource_3.0.tre": "b60b6ced38996473a33d31d34063c7daf34d73ce64de4f79801302ccae6120b7"
+  },
+  "zip_entries": [
+    "client.cfg",
+    "old_flurry_castle_qa_v1_0_31.tre",
+    "old_flurry_halloween_01.tre",
+    "old_flurry_halloween_02.tre",
+    "old_flurry_halloween_03.tre",
+    "old_flurry_vader_collection_v1_0_32.tre",
+    "swgsource_3.0.tre"
+  ],
+  "new_tre_sha256": "6ec3b7d663b907677651afd245e6b6b5d338ec3cb6ec3e8e3976949dbd637415",
+  "new_tre_bytes": 65051549,
+  "in_game_visuals_and_crafting": "Pending player QA; native build and dependency checks passed."
+}
