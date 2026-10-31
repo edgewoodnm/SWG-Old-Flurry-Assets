@@ -1,0 +1,7 @@
+Darth Maul lightsaber crystal fix — v1.0.33
+
+Restores the native blade-color and alternate-shader customization bindings, including the native asset links, for Darth Maul's custom double-bladed lightsaber. This corrects a case where an installed tuned color crystal was not recognized by the equip check. Existing crafting stats, crystals, rewards, and all earlier public assets are preserved.
+
+Fully close SWG, update through the normal launcher, and reopen. Existing sabers may need their color crystal removed and reinserted while unequipped so the native saber script refreshes its stored color. Do not destroy or recraft the saber.
+
+Cumulative TRE-only client update. Native binding-graph preservation checks passed; live post-restart crystal recognition is verified before the launcher feed is switched. Actual crafting and visual/audio QA remains separate.

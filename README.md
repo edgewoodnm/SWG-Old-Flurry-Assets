@@ -1,3 +1,5 @@
+Maul Saber Crystal Fix **v1.0.33** adds Fett Mandalorian armor schematics, Exar Kun neon sword schematics, and Slave I furniture. See [details](MAUL-CRYSTAL-FIX-v1.0.33.txt). Update through the normal launcher when the public feed switches to v1.0.33.
+
 Vader Vendor Collection **v1.0.32** adds Fett Mandalorian armor schematics, Exar Kun neon sword schematics, and Slave I furniture. See [details](VADER-COLLECTION-v1.0.32.txt). Update through the normal launcher when the public feed switches to v1.0.32.
 
 Castle QA content from **v1.0.31 — Storming the Imperial Castle** remains included. Fully close SWG and update through **Old Flurry Assets**. Complete cumulative TRE-only assets; normal configuration includes and earlier public content are retained. Speak with Leia in Mos Eisley for entry. See [QA notes](CASTLE-QA-v1.0.31.txt).
