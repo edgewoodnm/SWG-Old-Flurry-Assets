@@ -1,0 +1,5 @@
+Old Flurry multiple-client configuration patch v1.0.34
+
+Enables the native SwgClient allowMultipleInstances setting. Launch separate game windows with the existing launcher. Account/session limits remain server controlled. No launcher executable update or server restart is required. Fully close and update through the launcher.
+
+Cumulative TRE-only resource package; all seven existing TREs are unchanged. Existing login.cfg, user.cfg and profiles are preserved. The experimental x64 beta remains separate.
