@@ -1,3 +1,5 @@
+Latest public QA client: **v1.0.31 — Storming the Imperial Castle**. Fully close SWG and update through **Old Flurry Assets**. Complete cumulative TRE-only assets; normal configuration includes and earlier public content are retained. Speak with Leia in Mos Eisley for entry. See [QA notes](CASTLE-QA-v1.0.31.txt).
+
 Latest client: **v1.0.30 — complete Halloween content and compatibility fixes**. Fully close SWG, update through the existing **Old Flurry Assets** button, then reopen. TRE-only asset payloads; no separate manual hotfix required. See [release notes](HALLOWEEN-v1.0.30.md).
 
 Latest QA client: **v1.0.28 — Hoth Expedition furniture and complete reward vendor**. Update with the existing Old Flurry launcher, then fully reopen the client. See [release notes](HOTH-EXPEDITION-v1.0.28.md).

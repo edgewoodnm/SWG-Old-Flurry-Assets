@@ -1,0 +1,37 @@
+{
+  "passed": true,
+  "asset_payloads_tre_only": true,
+  "cumulative_previous_release": "1.0.30",
+  "previous_archive_checksums_preserved": {
+    "old_flurry_halloween_01.tre": "47151f51307045e8d2a7e26543a9231fa110bb7c4e53786036e3305f3f4d1d7c",
+    "old_flurry_halloween_02.tre": "dc8c576ed853dff086564b785edfc8f516e000ed7d0ab0c1bc159911b648a85c",
+    "old_flurry_halloween_03.tre": "617138c14bd5432b66455c681489ceeb53e81f671ed2d13734c98a3ccf328540",
+    "swgsource_3.0.tre": "b60b6ced38996473a33d31d34063c7daf34d73ce64de4f79801302ccae6120b7"
+  },
+  "new_archive": {
+    "name": "old_flurry_castle_qa_v1_0_31.tre",
+    "priority": 22,
+    "bytes": 16314752,
+    "sha256": "df292d3489dd2b433eb80b3cfa5ea36a0340fbdf39b4205eaff34dab66680749",
+    "resources": 488
+  },
+  "zip_entries": [
+    "client.cfg",
+    "old_flurry_castle_qa_v1_0_31.tre",
+    "old_flurry_halloween_01.tre",
+    "old_flurry_halloween_02.tre",
+    "old_flurry_halloween_03.tre",
+    "swgsource_3.0.tre"
+  ],
+  "searchAbsolute": 18,
+  "normal_cfg_includes_preserved": true,
+  "login_user_profiles_not_distributed": true,
+  "all_new_tre_resources_round_trip_verified": true,
+  "previous_public_shared_data_preserved": {
+    "public_template_registry_entries": 60623,
+    "string/en/static_item_n.stf": 9998,
+    "string/en/static_item_d.stf": 9900
+  },
+  "native_visual_test": "User approved castle, moon, stars, rugs, Ben voice and story; latest black seating and explicit music-loop fix are QA candidates",
+  "native_group_balance_and_crafting": "QA with real buffs, groups of 1-8, and player crystals required"
+}

@@ -1,0 +1,11 @@
+Storming the Imperial Castle — public QA v1.0.31
+
+Update through Old Flurry Assets, fully close and reopen the game, then speak with Princess Leia in Mos Eisley. Solo players and groups of up to eight can enter; the group leader should speak to Leia with everyone nearby and out of combat.
+
+Includes the complete castle instance visuals: masonry walls and floors, crimson Imperial rugs, black seating, Star Destroyer consoles, Pillars of the Sith Ascendant, plants, stationary banners, enlarged fountains, stars and a red moon. The encounter includes Ben Kenobi's warnings and post-victory farewell, Oathguard waves, Darth Maul, sealed boss doors, repeat-entry/reset support, and rewards for the robe and a single-use fifth-generation double-bladed saber schematic. Player-installed crystals determine the crafted saber's blade colour. Existing Hoth, Halloween and earlier cumulative assets are retained.
+
+Audio includes a looping Imperial March request throughout the instance and the supplied Ben voice cue on his first appearance. Please report whether music starts, repeats and stops on leaving; the latest explicit loop fix and black seating need QA confirmation.
+
+Please test group balance using normal equipment and real buffs: group size, guard/boss damage, health, wipes, reset/re-entry, doors, reward delivery, inventory-full recovery, schematic use and crafting. Maul may remain unseen during his dialogue and appear when combat begins; this remains a known visual limitation. Crafting and all group-size combinations are not claimed fully tested.
+
+TRE-only cumulative assets: four previous TREs retained, one castle TRE added. Configuration registration is included; no loose asset resources, credentials, profiles or executables are distributed. Later balance and visual patches can follow QA feedback.

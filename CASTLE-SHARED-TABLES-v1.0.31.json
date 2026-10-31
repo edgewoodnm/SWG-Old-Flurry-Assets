@@ -1,0 +1,12 @@
+[
+  {
+    "table": "datatables/buildout/areas_adventure1.iff",
+    "previous_rows_retained": 12,
+    "new_rows": 1
+  },
+  {
+    "table": "datatables/environment/adventure1.iff",
+    "previous_rows_retained": 90,
+    "new_rows": 5
+  }
+]
