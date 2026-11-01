@@ -1,0 +1,28 @@
+Old Flurry — Rancor Pit & Twin Legacy public QA v1.0.35
+
+Close the game, update through your existing 32-bit OR 64-bit launcher, then relaunch. Both launchers receive this same content patch. No new launcher or runtime download is required.
+
+Jabba's Rancor Pit
+- Speak to Jabba the Hutt outside the Mos Eisley cantina. Each nearby group member can choose Enter Jabba's Rancor Pit; solo players and groups of up to eight are supported.
+- Complete enclosed arena, shut palace trapdoor, working holding gate, bones, blood stains and stormtrooper remains, with repaired lighting and seams.
+- Scripted story, timed gate release, level-90 elite rancor, party-scaled health, and one-shot gate/combat/death audio cues.
+- Watch for the rancor's telegraphed, dodgeable dung throw and knockdown. Use /eject to return to Jabba.
+- Each eligible participant receives a trained rancor mount egg and Stormtrooper's Deluxe Blaster Rifle on victory during QA. Hatch the egg, then call/store the mount from the datapad outside the instance.
+
+Stormtrooper's Deluxe Blaster Rifle
+- Standalone ivory/electrum model with native rifle holding, targeting and firing animation mapping.
+- Massassi Guardian Carbine muzzle effect, black projectile and shooting sound through the correct NGE combat-effects table.
+- Usable level-90 drop: 485–980 energy damage and 64 m range. Unequip it, choose Deconstruct, and type deconstruct when prompted to obtain a single-use Weaponsmith schematic.
+- Craft with the Weapon, Droid and General Item crafting tool and an appropriate station: 130 Plumbum Iron, 70 Ferrous Metal, 28 Chemicals, one blaster rifle barrel and one ranged weapon core; scope and stock optional. Crafted stats depend on the core, components and resources. Native ownership, skill and crafted-weapon recycling rules apply.
+
+Darth Maul's new robes
+- Maul's castle victory now awards Maul's Mantle of Vengeance AND Ben Kenobi's Mantle of Resolve, alongside the existing lightsaber technical readout.
+- Dark mantle: Constitution, Luck and Precision +500 each. Light mantle: Constitution, Agility and Strength +500 each. Both retain 7,500 protection, corresponding native Elder Jedi proc, and the existing two-piece bonus with the Belt of Master Bodo Baas.
+- Custom dark/light native cloak appearances, repaired hood geometry, compatible lower skeleton-detail bindings, improved inventory previews and restored readable item names.
+- The previous Darth Maul's Robe is preserved for existing owners and future content; it is no longer the castle's robe drop. Public reward robes are not private fitting samples.
+
+QA focus
+Test with real buffs rather than god buffs when assessing difficulty. Please report party size, buffs, deaths, reward delivery, mount hatching/call/store, robe species/body fit, targeting/fire effects/audio, and full deconstruction/crafting results. Native data, recipe, dependency and both updater installation checks passed; this is not a claim that every species, group size, GPU or crafting combination has been played through.
+
+Release format
+Cumulative TRE-only content ZIP plus client.cfg archive registration. All previous public TREs are retained unchanged. No loose assets, executables, DLLs, login.cfg, user.cfg, profiles, VM configuration or private server sources are distributed. x64 runtime and its native renderer configuration remain separate. Public content priority38 outranks older developer patches; relative/absolute disk lookup remains18.

@@ -1,0 +1,13 @@
+{
+  "version": "1.0.35",
+  "packageUrl": "https://github.com/edgewoodnm/SWG-Old-Flurry-Assets/releases/download/v1.0.35/SWG-Old-Flurry-Assets-v1.0.35.zip",
+  "size": 430393644,
+  "sha256": "7A38BB44A493F73525F73CDF033EE62B758F30FA653490232C84F91FF02068C8",
+  "contentManifest": "https://raw.githubusercontent.com/edgewoodnm/SWG-Old-Flurry-Assets/main/manifest.json",
+  "channels": [
+    "classic-32-bit",
+    "2026-64-bit"
+  ],
+  "runtime_manifest_unchanged": true,
+  "format": "cumulative TRE archives plus client.cfg only"
+}

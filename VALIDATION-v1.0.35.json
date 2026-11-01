@@ -1,0 +1,69 @@
+{
+  "passed": true,
+  "cumulative_previous": "1.0.34",
+  "asset_payloads_tre_only": true,
+  "new_archive": "old_flurry_rancor_twin_legacy_qa_v1_0_35.tre",
+  "priority": 38,
+  "searchAbsolute": 18,
+  "resources": 241,
+  "new_tre_bytes": 20219356,
+  "new_tre_sha256": "c96039d5472fe6a34a7e4ab4372291b9175bc99d30d77af1d2d4c39bea70a76b",
+  "previous_archives_preserved": {
+    "old_flurry_castle_qa_v1_0_31.tre": "df292d3489dd2b433eb80b3cfa5ea36a0340fbdf39b4205eaff34dab66680749",
+    "old_flurry_halloween_01.tre": "47151f51307045e8d2a7e26543a9231fa110bb7c4e53786036e3305f3f4d1d7c",
+    "old_flurry_halloween_02.tre": "dc8c576ed853dff086564b785edfc8f516e000ed7d0ab0c1bc159911b648a85c",
+    "old_flurry_halloween_03.tre": "617138c14bd5432b66455c681489ceeb53e81f671ed2d13734c98a3ccf328540",
+    "old_flurry_maul_crystal_fix_v1_0_33.tre": "13fdb84d1fa5abcaec2ee6c65dff61a64c5b116911264bff21580f9b10dcf508",
+    "old_flurry_vader_collection_v1_0_32.tre": "6ec3b7d663b907677651afd245e6b6b5d338ec3cb6ec3e8e3976949dbd637415",
+    "swgsource_3.0.tre": "b60b6ced38996473a33d31d34063c7daf34d73ce64de4f79801302ccae6120b7"
+  },
+  "public_shared_resources_preserved": {
+    "datatables/appearance/appearance_table.iff": {
+      "rows": 1449,
+      "all_previous_fields_unchanged": true,
+      "additive_columns": [
+        "Male Nightbrother"
+      ]
+    },
+    "datatables/weapon/weapon.iff": {
+      "rows": 70,
+      "all_previous_fields_unchanged": true,
+      "additive_columns": []
+    },
+    "datatables/weapon/combat_effects_ranged.iff": {
+      "rows": 274,
+      "all_previous_fields_unchanged": true,
+      "additive_columns": []
+    },
+    "datatables/buildout/areas_adventure2.iff": {
+      "rows": 9,
+      "all_previous_fields_unchanged": true,
+      "additive_columns": []
+    },
+    "string/en/static_item_n.stf": 9960,
+    "string/en/static_item_d.stf": 9865,
+    "misc/object_template_crc_string_table.iff": 60703,
+    "animation/held_item_map.iff": "all original mapping bytes",
+    "customization/asset_customization_manager.iff": "all previous asset IDs and customization bindings retained"
+  },
+  "zip_entries": [
+    "client.cfg",
+    "old_flurry_castle_qa_v1_0_31.tre",
+    "old_flurry_halloween_01.tre",
+    "old_flurry_halloween_02.tre",
+    "old_flurry_halloween_03.tre",
+    "old_flurry_maul_crystal_fix_v1_0_33.tre",
+    "old_flurry_rancor_twin_legacy_qa_v1_0_35.tre",
+    "old_flurry_vader_collection_v1_0_32.tre",
+    "swgsource_3.0.tre"
+  ],
+  "unpacked_bytes": 443187311,
+  "compatible_channels": [
+    "classic-x86",
+    "2026-x64"
+  ],
+  "runtime_binaries_unchanged": true,
+  "personal_settings_not_distributed": true,
+  "private_clients_untouched": true,
+  "gameplay_qa": "Owner confirmed corrected rifle aiming/effects/audio works. Full group balance, species fitting and crafting remain public QA."
+}

@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "channel": "x64",
+  "real_updater_source": true,
+  "isolated_fixture": true,
+  "profiles_login_user_and_native_config_preserved": true,
+  "asset_payloads_tre_only": true,
+  "payload_files": [
+    "client.cfg",
+    "old_flurry_castle_qa_v1_0_31.tre",
+    "old_flurry_halloween_01.tre",
+    "old_flurry_halloween_02.tre",
+    "old_flurry_halloween_03.tre",
+    "old_flurry_maul_crystal_fix_v1_0_33.tre",
+    "old_flurry_rancor_twin_legacy_qa_v1_0_35.tre",
+    "old_flurry_vader_collection_v1_0_32.tre",
+    "swgsource_3.0.tre"
+  ],
+  "content_version": "1.0.35",
+  "gameplay_or_hardware_test": false
+}
