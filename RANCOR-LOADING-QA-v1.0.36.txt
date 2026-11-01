@@ -1,0 +1,7 @@
+Old Flurry v1.0.36 — Rancor Pit loading-screen QA
+
+Replaces Echo Base artwork and quotes when loading the adventure2 rancor-pit scene with a warm sandstone/rancor illustration and matching encounter story. Retains loading progress and exit controls. Preserves stock Hoth artwork through its separate Hoth scene table.
+
+Close the game, open your existing 32-bit or 64-bit launcher and update. No new launcher, runtime download or server restart required. This cumulative TRE-only package retains the complete v1.0.35 pit, mount, rifle, Twin Legacy robes and all previous content. Personal login.cfg, user.cfg and profiles are not distributed or overwritten.
+
+QA: please test entering the pit, verify picture/story/progress/exit, and check Hoth loading if available. The underlying classic scene route applies to adventure2 as a whole, not individual instances within it. Artwork and native resource routing are prepared; in-game visual confirmation remains player QA.

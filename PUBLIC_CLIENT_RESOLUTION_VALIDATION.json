@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "channel": "classic",
+      "six_hashes_match": true,
+      "table_and_localized_strings_resolve": true,
+      "visible_picture_binding": true
+    },
+    {
+      "channel": "x64",
+      "six_hashes_match": true,
+      "table_and_localized_strings_resolve": true,
+      "visible_picture_binding": true
+    }
+  ],
+  "in_game_visual_QA": "pending owner test"
+}
