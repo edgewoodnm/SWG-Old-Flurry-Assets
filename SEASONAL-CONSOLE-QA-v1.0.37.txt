@@ -1,0 +1,7 @@
+Old Flurry seasonal QA content v1.0.37
+
+Adds Imperial Frostspire Life Day Tree, seven standalone inflatable decorations and the private QA Development Console presentation. Client assets only; server permissions/house placement stay server-side. Existing content is retained.
+
+Cumulative TRE-only package for classic32-bit and2026x64 updaters. No launcher/runtime changes, no personal login/user/profiles. Seasonal vendor additions and private house console activate only after the planned server maintenance. Actual motion, lighting, placement and retrieval/purchase QA remain pending.
+
+Update through your existing classic or 64-bit launcher after closing the game. No replacement launcher is required. The server-side console appears only in the approved private QA house; this patch grants no admin permissions.
