@@ -15,11 +15,12 @@
     "old_flurry_lifeday_inflatables_v1_0_37.tre",
     "old_flurry_maul_crystal_fix_v1_0_33.tre",
     "old_flurry_qa_house_console_v1_0_37.tre",
+    "old_flurry_qa_sally_globe_doc_v1_0_38.tre",
     "old_flurry_rancor_loading_v1_0_36.tre",
     "old_flurry_rancor_twin_legacy_qa_v1_0_35.tre",
     "old_flurry_vader_collection_v1_0_32.tre",
     "swgsource_3.0.tre"
   ],
-  "content_version": "1.0.37",
+  "content_version": "1.0.38",
   "gameplay_or_hardware_test": false
 }

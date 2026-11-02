@@ -2,13 +2,13 @@
   "passed": true,
   "channels": {
     "classic": {
-      "all_active_hashes_match": true,
-      "resources": 134
+      "active_resource_hashes_passed": 225,
+      "personal_settings_preserved": true
     },
     "x64": {
-      "all_active_hashes_match": true,
-      "resources": 134
+      "active_resource_hashes_passed": 225,
+      "personal_settings_preserved": true
     }
   },
-  "gameplay_QA": "pending"
+  "native_gameplay": "pending"
 }

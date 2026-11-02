@@ -1,0 +1,7 @@
+Old Flurry QA v1.0.38 — Sally, Moonlit Mischief and Doc-1985
+
+Adds Sally Stitched Wishes Life Day Inflatable, Moonlit Mischief Snow Globe and Doc-1985 Vehicle Deed to the approved house QA console. The console now offers eleven enabled test items. Doc-1985 is a standalone two-seat vehicle using native M-68 deed/datapad mechanics and matching speed/handling. Existing M-68 and previous items remain unchanged.
+
+Native templates and additive tables compiled and decoded comparisons passed. Client installation and resource checks cover both classic32-bit and2026x64. Actual placement, glass/snow/sway, rider fitting, driving/hover effects and deed lifecycle require player QA. No public vendor sale enabled for these three items.
+
+Cumulative TRE-only update through your existing launcher. Close the game before updating; no replacement launcher or runtime required. Personal login/preferences/profiles are preserved. Server activation occurs through the warned maintenance.
