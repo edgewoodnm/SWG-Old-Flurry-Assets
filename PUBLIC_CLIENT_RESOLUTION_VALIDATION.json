@@ -1,14 +1,13 @@
 {
   "passed": true,
-  "channels": {
-    "classic": {
-      "active_resource_hashes_passed": 225,
-      "personal_settings_preserved": true
+  "checks": [
+    {
+      "channel": "classic",
+      "resource_hashes_verified": 225
     },
-    "x64": {
-      "active_resource_hashes_passed": 225,
-      "personal_settings_preserved": true
+    {
+      "channel": "x64",
+      "resource_hashes_verified": 225
     }
-  },
-  "native_gameplay": "pending"
+  ]
 }

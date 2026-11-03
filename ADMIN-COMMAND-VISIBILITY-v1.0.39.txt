@@ -1,0 +1,7 @@
+Old Flurry v1.0.39 — Authorized admin command visibility fix
+
+Registers native CSR commands in both classic32-bit and2026x64 clients, correcting missing commands such as /setSpeed for authorized administrators. The server continues enforcing the existing account list, active god mode and individual command levels. This update grants no account privileges or god levels.
+
+The exact setting was confirmed by the owner to restore commands in the managed x64 client. Other administrator accounts should retest after updating and relaunching.
+
+Configuration-only change: all13 existing TRE archives are byte-identical to v1.0.38. Cumulative TRE-only asset payload retained; personal login/user/profiles are preserved. No launcher executable replacement or server restart. Close the game and update through the existing launcher.
