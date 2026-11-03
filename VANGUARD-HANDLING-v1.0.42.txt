@@ -1,0 +1,7 @@
+Old Flurry v1.0.42 - Vanguard Handling
+
+Both Imperial and Rebel Vanguard bikes now use base speed 224, eight times the previous 28. Acceleration is scaled eightfold and braking increases from 7 to 70. Other vehicle handling rows remain unchanged.
+
+Adds the missing native stock-speeder handling-variable bindings to both custom bike appearances. All previous customization entries, content and item ownership are preserved. Store and recall existing bikes after updating. No new deeds needed.
+
+Cumulative TRE-only update for both existing 32-bit and 64-bit updaters. Close the game before updating. No replacement launcher or runtime. Life Day remains disabled. Actual high-speed driving and braking feel require player testing.
