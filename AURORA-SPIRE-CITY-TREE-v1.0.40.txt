@@ -1,0 +1,7 @@
+Old Flurry v1.0.40 — Aurora Spire Life Day City Tree
+
+Adds a standalone 12.17-metre rainbow light tree with a luminous star and circular base. Available from the house QA console. Registered with native mayor-only city decoration placement, place_statue ability, city limits, clearance and pickup. Both existing Life Day faction token vendors gain the tree at 25 tokens, zero credits. Life Day remains disabled; no event was activated.
+
+Three native distance levels and three shared material passes. Native compilation and preserved-row comparisons passed. Actual city placement, pickup, distance rendering and nighttime lighting remain player QA.
+
+Cumulative TRE-only content update for existing classic 32-bit and 2026 x64 updaters. Preserves previous archives and the v1.0.39 admin command visibility setting. No replacement launcher or runtime. Login settings, user preferences and profiles preserved. Close the game before updating.

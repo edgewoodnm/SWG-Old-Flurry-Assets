@@ -3,11 +3,11 @@
   "checks": [
     {
       "channel": "classic",
-      "resource_hashes_verified": 225
+      "active_resource_hashes_verified": 238
     },
     {
       "channel": "x64",
-      "resource_hashes_verified": 225
+      "active_resource_hashes_verified": 238
     }
   ]
 }
