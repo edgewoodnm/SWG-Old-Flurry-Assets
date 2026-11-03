@@ -1,0 +1,7 @@
+Old Flurry v1.0.41 — Vanguard Speeder Bikes
+
+Imperial Vanguard and Rebel Vanguard single-seat speeder bike deeds are available from Darth Vader in Mos Eisley for 1,000,000 credits each, matching his existing vehicle prices. Includes fitted rider controls, dual booster exhaust and faction insignia. Existing deeds and ownership remain valid. Both bikes remain on the house QA console.
+
+Repairs Twin Legacy cloak distance-mesh headers that could make the robe and body disappear while mounted. The owner confirmed the private fix in game. Broader species and animation testing remains ongoing. Two-seat passenger variants are not part of this update.
+
+Cumulative TRE-only update for existing classic 32-bit and 2026 x64 updaters. No replacement launcher or runtime. Previous content, login settings, user preferences and profiles are preserved. Close the game before updating. Life Day remains disabled.

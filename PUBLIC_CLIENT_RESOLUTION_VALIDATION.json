@@ -3,11 +3,15 @@
   "checks": [
     {
       "channel": "classic",
-      "active_resource_hashes_verified": 238
+      "active_resources_verified": 371,
+      "native_priority_cap": 45
     },
     {
       "channel": "x64",
-      "active_resource_hashes_verified": 238
+      "active_resources_verified": 371,
+      "native_priority_cap": 45
     }
-  ]
+  ],
+  "both_single_seat_bikes": true,
+  "mounted_robe_fix_included": true
 }
