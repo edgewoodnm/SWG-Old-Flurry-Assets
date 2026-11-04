@@ -2,13 +2,15 @@
   "passed": true,
   "explicit_cluster_ready": true,
   "game_scenes": 39,
-  "station_chat_running": true,
+  "station_chat_preserved": [
+    "4388"
+  ],
   "authentication_active": true,
-  "qa_catalog_total": 15,
-  "new_tree_qa_row": 14,
-  "native_template_registered": true,
-  "restart_required": false,
+  "permanent_buildout_native_compiled_and_installed": true,
+  "placement_id_preserved": -1899600042,
+  "cantina_outward_m": 0.75,
+  "latest_visual_appearance": "player QA ongoing",
+  "restart_performed": true,
   "life_day_enabled": false,
-  "owner_in_game_animation_confirmed": true,
-  "broader_hardware_and_city_placement": "QA ongoing"
+  "all_three_qa_items_native_creation_and_cleanup": true
 }

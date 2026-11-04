@@ -3,20 +3,22 @@
   "checks": [
     {
       "channel": "classic",
-      "all_expected_resources": 481,
-      "native_priority_cap": 47,
-      "static_tree_unchanged": true,
-      "animation_states": 96,
-      "localized_name_and_description": true
+      "resources_verified": 703,
+      "priority": 48,
+      "animation_states_per_screen": 96,
+      "all_previous_client_buildout_rows_preserved": true,
+      "client_server_sign_ids_and_transforms_match": true,
+      "all_three_items_localized": true
     },
     {
       "channel": "x64",
-      "all_expected_resources": 481,
-      "native_priority_cap": 47,
-      "static_tree_unchanged": true,
-      "animation_states": 96,
-      "localized_name_and_description": true
+      "resources_verified": 703,
+      "priority": 48,
+      "animation_states_per_screen": 96,
+      "all_previous_client_buildout_rows_preserved": true,
+      "client_server_sign_ids_and_transforms_match": true,
+      "all_three_items_localized": true
     }
   ],
-  "native_UV_repair_included": true
+  "private_client_presentation_QA": "base assets confirmed; new storm and outward clearance ongoing"
 }

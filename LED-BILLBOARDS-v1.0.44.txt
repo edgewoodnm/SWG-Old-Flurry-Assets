@@ -1,0 +1,9 @@
+Old Flurry v1.0.44 - LED Billboards
+
+Adds three standalone Old Flurry LED displays: a freestanding city billboard, square wall sign, and wide starport marquee. Branding stays visible while red clouds pulse with irregular lightning in a twelve-second animated cycle. Includes native distance levels and readable item names.
+
+Permanent Mos Eisley signs are above the starport entrance and on the cantina side wall. Includes matching server/client buildout IDs and the cantina outward-clearance correction. All three items are available from the QA console under City Decor. The city version uses native mayor/city-decoration placement rules.
+
+Owner confirmed the base signs render in the private classic client. New lightning, final wall clearance, city placement and broader hardware appearance remain ongoing player QA.
+
+Cumulative TRE-only update for both existing 32-bit and 64-bit updaters. Close SWG before updating. No replacement launcher or runtime. Login, preferences, profiles and all prior archives are preserved. Life Day remains disabled.
