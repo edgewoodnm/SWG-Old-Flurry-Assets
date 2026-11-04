@@ -3,15 +3,20 @@
   "checks": [
     {
       "channel": "classic",
-      "active_resources_verified": 372,
-      "native_priority_cap": 46
+      "all_expected_resources": 481,
+      "native_priority_cap": 47,
+      "static_tree_unchanged": true,
+      "animation_states": 96,
+      "localized_name_and_description": true
     },
     {
       "channel": "x64",
-      "active_resources_verified": 372,
-      "native_priority_cap": 46
+      "all_expected_resources": 481,
+      "native_priority_cap": 47,
+      "static_tree_unchanged": true,
+      "animation_states": 96,
+      "localized_name_and_description": true
     }
   ],
-  "both_single_seat_bikes": true,
-  "mounted_robe_fix_included": true
+  "native_UV_repair_included": true
 }

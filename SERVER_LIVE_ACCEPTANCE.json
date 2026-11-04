@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "explicit_cluster_ready": true,
+  "game_scenes": 39,
+  "station_chat_running": true,
+  "authentication_active": true,
+  "qa_catalog_total": 15,
+  "new_tree_qa_row": 14,
+  "native_template_registered": true,
+  "restart_required": false,
+  "life_day_enabled": false,
+  "owner_in_game_animation_confirmed": true,
+  "broader_hardware_and_city_placement": "QA ongoing"
+}

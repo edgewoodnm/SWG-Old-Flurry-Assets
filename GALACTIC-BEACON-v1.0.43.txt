@@ -1,0 +1,9 @@
+Old Flurry v1.0.43 - Galactic Beacon Life Day Lightshow Tree
+
+Adds a separate twelve-metre animated LED tree. 4096 green LEDs cycle red Rebel Starbirds, white Imperial crests, green sweeps and chases in a twelve-second loop. Includes the confirmed native UV-address repair at all three distance levels. The original static rainbow Aurora Spire tree is unchanged.
+
+Available now from the house QA console under Life Day as Galactic Beacon Life Day Lightshow Tree. Both existing Life Day vendors have its 25-token, zero-credit entry ready for the event. Life Day remains disabled; this release does not start the seasonal event. Uses native mayor/city-decoration placement rules.
+
+Owner confirmed private classic-client animation in game. Both native updater installation checks passed; broader hardware, x64 visual appearance, distance rendering and city-placement testing remain QA. No new server restart required: templates and tables are already live.
+
+Cumulative TRE-only content update for both existing 32-bit and 64-bit updaters. Close the game before updating. No replacement launcher or runtime; login, preferences, profiles and previous content are preserved.
