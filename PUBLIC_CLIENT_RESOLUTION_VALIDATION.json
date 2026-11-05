@@ -3,22 +3,25 @@
   "checks": [
     {
       "channel": "classic",
-      "resources_verified": 703,
-      "priority": 48,
-      "animation_states_per_screen": 96,
-      "all_previous_client_buildout_rows_preserved": true,
-      "client_server_sign_ids_and_transforms_match": true,
-      "all_three_items_localized": true
+      "all_expected_resource_hashes": 781,
+      "native_priority_cap": 49,
+      "frames": 352,
+      "loop_seconds": 44,
+      "existing_mos_eisley_client_buildout_unchanged": true,
+      "native_emissive_material_and_mipmaps": true,
+      "standalone_readable_item_name": true
     },
     {
       "channel": "x64",
-      "resources_verified": 703,
-      "priority": 48,
-      "animation_states_per_screen": 96,
-      "all_previous_client_buildout_rows_preserved": true,
-      "client_server_sign_ids_and_transforms_match": true,
-      "all_three_items_localized": true
+      "all_expected_resource_hashes": 781,
+      "native_priority_cap": 49,
+      "frames": 352,
+      "loop_seconds": 44,
+      "existing_mos_eisley_client_buildout_unchanged": true,
+      "native_emissive_material_and_mipmaps": true,
+      "standalone_readable_item_name": true
     }
   ],
-  "private_client_presentation_QA": "base assets confirmed; new storm and outward clearance ongoing"
+  "last_flashing_words_unchanged": true,
+  "public_gameplay_QA": "ongoing"
 }

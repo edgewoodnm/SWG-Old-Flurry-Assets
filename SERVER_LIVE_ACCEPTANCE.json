@@ -1,16 +1,15 @@
 {
+  "restart_retention_test": "pending",
+  "yaw": -138.16484,
+  "placed_count": 1,
+  "restart_performed": false,
+  "game_servers": 39,
+  "station_chat_pid": 4388,
+  "persisted": true,
   "passed": true,
-  "explicit_cluster_ready": true,
-  "game_scenes": 39,
-  "station_chat_preserved": [
-    "4388"
-  ],
-  "authentication_active": true,
-  "permanent_buildout_native_compiled_and_installed": true,
-  "placement_id_preserved": -1899600042,
-  "cantina_outward_m": 0.75,
-  "latest_visual_appearance": "player QA ongoing",
-  "restart_performed": true,
-  "life_day_enabled": false,
-  "all_three_qa_items_native_creation_and_cleanup": true
+  "world_object": "7875085828",
+  "qa_catalog_index": 18,
+  "master_row": 8659,
+  "native_item_created_and_cleaned": true,
+  "auth": "active"
 }

@@ -1,0 +1,9 @@
+Old Flurry v1.0.45 - Be Kind / Mod the Galaxy LED Billboard
+
+Adds an eight-metre programmable LED billboard with a black display, bright LED pictures and green flashing words. The 44-second show displays Yoda (8s), a green leaf (8s), a TIE fighter firing green lasers toward an X-wing (12s), one Imperial emblem (8s), BE KIND (4s), then MOD THE GALAXY (4s). Picture holds are longer; the final word flashes remain unchanged.
+
+Available from the QA console under City Decor as Be Kind - Mod the Galaxy LED Billboard. The standalone item uses native player-city decoration placement. A saved world copy is placed in Mos Eisley at the approved site, facing the corrected direction. No duplicate buildout or world copy is added by this client update.
+
+Owner tested the display in the private classic client and supplied in-game footage. Broader hardware, city placement and later restart-retention testing remain QA.
+
+Cumulative TRE-only content update for both existing 32-bit and 64-bit launchers. Close the game and click Update. No replacement launcher or server restart is needed. All earlier archives, login/preferences/profiles and x64 desktop-switching runtime 0.1.1 are preserved. Life Day remains disabled.

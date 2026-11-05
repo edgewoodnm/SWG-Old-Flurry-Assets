@@ -14,6 +14,7 @@
     "old_flurry_halloween_01.tre",
     "old_flurry_halloween_02.tre",
     "old_flurry_halloween_03.tre",
+    "old_flurry_kindness_billboard_v1_0_45.tre",
     "old_flurry_led_billboards_v1_0_44.tre",
     "old_flurry_lifeday_inflatables_v1_0_37.tre",
     "old_flurry_maul_crystal_fix_v1_0_33.tre",
@@ -26,6 +27,6 @@
     "old_flurry_vanguard_handling_v1_0_42.tre",
     "swgsource_3.0.tre"
   ],
-  "content_version": "1.0.44",
+  "content_version": "1.0.45",
   "gameplay_or_hardware_test": false
 }
