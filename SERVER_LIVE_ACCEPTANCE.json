@@ -1,15 +1,9 @@
 {
-  "restart_retention_test": "pending",
-  "yaw": -138.16484,
-  "placed_count": 1,
-  "restart_performed": false,
-  "game_servers": 39,
-  "station_chat_pid": 4388,
-  "persisted": true,
   "passed": true,
-  "world_object": "7875085828",
-  "qa_catalog_index": 18,
-  "master_row": 8659,
-  "native_item_created_and_cleaned": true,
-  "auth": "active"
+  "trainer_and_keeper_exactly_one": true,
+  "eldertraining_command_registered": true,
+  "reward_native_javac_passed": true,
+  "reward_guards_idempotency_retry_passed": true,
+  "hot_reload_succeeded": true,
+  "crafting_gameplay_qa": "pending"
 }

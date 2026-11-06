@@ -1,0 +1,9 @@
+Old Flurry v1.0.46 - Elder Jedi
+
+Adds Elder Jedi as a standalone profession in character creation and respec, with a custom portrait, five classic skill disciplines, painted ability icons, trained-box highlighting and the holocron training menu button. Earn normal combat levels and spend earned Elder experience to train the skill boxes.
+
+Elder Jedi begin at level 5 when skipping the tutorial or respeccing into the profession. Level 5 grants a training lightsaber and random color crystal, with crystal tuning supported at level 5. Robe milestones lead to the level-90 Shroud of Crimson Reckoning and Mantle of the Eternal Dawn, each with three +1000 attributes. Level 90 also permanently teaches the one-handed, two-handed and double-bladed fifth-generation lightsaber recipes. Stock crafting ingredients and components remain required.
+
+Includes the public Mos Eisley Elder trainer and an admin-only Character Builder Skills option to fill Elder training XP for QA. That option does not purchase boxes. Offensive custom powers remain creature-only while balance testing continues.
+
+Cumulative TRE-only update for existing 32-bit and 64-bit launchers. Close the game and Update. No replacement launcher. Login, preferences, profiles and the existing x64 runtime are preserved. Life Day remains disabled. Additional species, crafting and combat balance QA continues.
