@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "asset_payloads_tre_only": true,
+  "new_archive": "old_flurry_elder_restored_trees_v1_0_47.tre",
+  "new_priority": 51,
+  "native_resources": 14,
+  "server_or_personal_files_distributed": false,
+  "life_day_enabled": false,
+  "named_tree_icons": 15,
+  "earned_title_labels": 17,
+  "gameplay_qa": "Creature damage confirmed by player. Further tree, crafting, buff and PvP balance testing continues.",
+  "cumulative_archive_compaction": "Superseded entries removed; all active resource hashes preserved.",
+  "all_active_resources_verified": 37052
+}

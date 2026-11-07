@@ -1,9 +1,11 @@
 {
   "passed": true,
-  "trainer_and_keeper_exactly_one": true,
-  "eldertraining_command_registered": true,
-  "reward_native_javac_passed": true,
-  "reward_guards_idempotency_retry_passed": true,
-  "hot_reload_succeeded": true,
-  "crafting_gameplay_qa": "pending"
+  "live_checks": [
+    "GROUPS=3 NAMED_ICON_TREES=15 QUICK_TAB_CASES=75 PASS\n",
+    "READABLE_ABILITY_NAMES=176 MISSING=0 READ_ONLY=true\n",
+    "NATIVE_SKILLS=260 MISSING_SKILLS=0 RESTORED_ABILITIES=78 MISSING_COMBAT_DATA=0 EFFECT_BUFFS=28 MISSING_EFFECTS=0 POINT_BUDGET=509 XP_MULTIPLIER=40 ERRORS= READ_ONLY=true\n"
+  ],
+  "creature_damage": "player_confirmed",
+  "two_player_PvP_and_balance": "pending player testing",
+  "grouped_menu_visual_qa": "ongoing"
 }

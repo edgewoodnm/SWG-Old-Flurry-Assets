@@ -1,0 +1,11 @@
+Old Flurry v1.0.47 - Elder Jedi: Restored Paths
+
+Adds 15 named tree pages grouped under Classic Disciplines, Legacy Jedi Path and Force-Sensitive Studies, each with its own icon. The tree picker groups related disciplines and preserves five quick tabs within each family. Includes Crafting Mastery, Combat Prowess, Enhanced Reflexes, Heightened Senses and Force Progression alongside the classic disciplines and Padawan, Knight and Master paths.
+
+Train boxes using earned Elder XP. Level and prerequisite requirements still apply; advanced paths do not automatically unlock at level 90. Earned character titles identify Classic, Legacy and Force-Sensitive achievements. Select earned titles through Character > Titles. Ability names identify their system.
+
+Repairs Elder attack combat-data routing and buff-effect mapping. Player targeting now respects normal native faction/Special Forces PvP eligibility. Creature damage is player-confirmed; group combat, crafting, defenses and PvP balance testing continues. Legacy abilities are adapted to the NGE engine, not a separate historical combat emulator.
+
+Server XP is currently 40x normal for testing. QA Character Builder Skills XP refill remains admin-only and does not buy skill boxes. Existing fifth-generation lightsaber crafting rewards remain intact.
+
+Close the game and Update using your existing 32-bit or 64-bit launcher. No replacement launcher required. Cumulative TRE-only update; login, preferences, profiles and x64 runtime preserved. Life Day remains disabled.

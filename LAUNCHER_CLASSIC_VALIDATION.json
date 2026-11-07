@@ -10,6 +10,7 @@
     "old_flurry_aurora_spire_v1_0_40.tre",
     "old_flurry_castle_qa_v1_0_31.tre",
     "old_flurry_elder_jedi_v1_0_46.tre",
+    "old_flurry_elder_restored_trees_v1_0_47.tre",
     "old_flurry_frostspire_lifeday_v1_0_37.tre",
     "old_flurry_galactic_beacon_v1_0_43.tre",
     "old_flurry_halloween_01.tre",
@@ -28,6 +29,6 @@
     "old_flurry_vanguard_handling_v1_0_42.tre",
     "swgsource_3.0.tre"
   ],
-  "content_version": "1.0.46",
+  "content_version": "1.0.47",
   "gameplay_or_hardware_test": false
 }

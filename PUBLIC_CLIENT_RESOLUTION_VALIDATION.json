@@ -3,16 +3,16 @@
   "checks": [
     {
       "channel": "classic",
-      "resolved_resource_hashes": 988,
-      "priority": 50,
-      "level90_fifth_generation_recipes": 3
+      "resolved_resource_hashes": 37052,
+      "priority": 51,
+      "fifth_generation_reward_preserved": true
     },
     {
       "channel": "x64",
-      "resolved_resource_hashes": 988,
-      "priority": 50,
-      "level90_fifth_generation_recipes": 3
+      "resolved_resource_hashes": 37052,
+      "priority": 51,
+      "fifth_generation_reward_preserved": true
     }
   ],
-  "actual_crafting_gameplay_test": false
+  "gameplay_test": false
 }
