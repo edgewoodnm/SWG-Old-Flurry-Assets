@@ -1,0 +1,1 @@
+Elder Jedi now receives the passive stats and lightsaber crafting recipe groups from the corresponding Jedi level milestones. This includes the Lightsaber Crafting Toolkit schematic, saber assembly and experimentation, and saber recipe progression. Elder combat commands and fifth-generation recipes are preserved. Update from either existing launcher.
